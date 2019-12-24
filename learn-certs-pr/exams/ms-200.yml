@@ -43,21 +43,21 @@ relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator
 resources:
--title: 교육 및 인증 가이드
+- title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
--title: 재응시하기
+- title: 재응시하기
   description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: ../deals.md
--title: 인증 시험 지원
+- title: 인증 시험 지원
   description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
   href: ../help.md
--title: 인증 대시보드
+- title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
--title: 편의 시설 요청
+- title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
--title: 시험 정책 및 자주 하는 질문
+- title: 시험 정책 및 자주 하는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
