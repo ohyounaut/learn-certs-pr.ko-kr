@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Microsoft Azure 기초
+metadata:
+  title: '시험 AZ-900: Microsoft Azure 기초'
+  description: '시험 AZ-900: Microsoft Azure 기초'
+uid: exam.az-900
+displayName: AZ-900
+summary: |-
+  <div style=’color&#58; red; font-weight&#58; bold;’>본 시험 내용은 2019년 10월 23일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/></div>
+
+  본 시험은 클라우드 서비스의 기초 지식 수준을 입증하고 이 서비스가 Microsoft Azure와 어떻게 병행되어 제공되는지를 알고자 하는 응시자를 위해 설계되었습니다. 본 시험은 클라우드 서비스에 대한 기초수준의 지식을 검증할 필요가 있는 기술적 배경이 있는 응시자들뿐 아니라, 솔루션에 기반을 둔 클라우드, 서버를 매매하거나, 클라우드에 기반을 둔 솔루션과 서비스에 연관된 일을 하는 기술적 배경이 없는 응시자들을 위한 시험입니다. 기술적인 IT 경험은 요구되지 않지만, 일반적인 IT 지식 또는 경험은 이점이 될 것입니다.
+
+  이 시험은 cloud 서비스에 관해 배우고 그러한 개념을 Microsoft Azure에서 어떻게 보여주는지에 대한 선택적인 첫번째 단계로 다뤄질 수 있습니다. 이 시험은 Microsoft Azure 또는 Microsoft Cloud 서비스 시험의 선도격이 될 수 있습니다. 본 시험을 치르는 것은 기초 지식 수준을 검증하는 데 유익한 첫 단계일 뿐이며 다른 Azure 기반 인증을 취득하기 전에 필수 요건이 아닙니다.
+subTitle: '본 시험은 다음과 같은 개념을 이해하는 능력을 측정합니다. 클라우드 개념, 핵심 Azure 서비스, 보안, 개인정보 보호, 규정 준수 및 신뢰, Azure 가격 책정 및 지원.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Faz-900
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- beginner
+skills:
+- 본 시험의 내용은 2019년 10월 23일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.
+- 클라우드 개념 이해 (15-20%)
+- 핵심 Azure 서비스 이해 (30-35%)
+- 보안, 개인정보 보호, 규정 준수 및 신뢰 이해 (25-30%)
+- Azure 가격 책정 및 지원 이해 (20-25%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.az-900t01
+paths:
+- uid: learn.cloud-foundations
+relatedCertifications:
+- related:
+    uid: certification.azure-fundamentals
+resources:
+- title: 인증서 학습 과정
+  description: ‘다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다. Azure 기초.’
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 시험 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 하는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md
+
