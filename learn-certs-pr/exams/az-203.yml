@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-203
 displayName: AZ-203
 summary: |-
-  <div style=’color&#58; red; font-weight&#58; bold;’>본 시험 내용은 2019년 11월 6일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/><br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>본 시험 내용은 2019년 11월 6일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/><br/></div>
   
   본 시험의 응시자는 애플리케이션 및 서비스와 같은 클라우드 솔루션을 설계 및 빌드하는 Azure 개발자입니다. 이들은 솔루션 디자인에서 개발 및 배포, 테스트 및 유지 관리에 이르는 모든 개발 단계에 참여합니다. 클라우드 솔루션 아키텍트, 클라우드 DBA, 클라우드 관리자 및 클라이언트와 파트너 관계를 맺고 솔루션을 구현합니다.
   <br/>
@@ -18,7 +18,7 @@ subTitle: '본 시험은 다음과 같은 기술적 과제를 수행할 수 있�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Faz-203
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-203&examname=시험%20AZ-203:%20Microsoft%20Azure%20용%20솔루션%20개발&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Faz-203
 locales:
 - en
 - ja
@@ -74,7 +74,7 @@ relatedCertifications:
     uid: certification.azure-developer
 resources:
 - title: 인증서 학습 과정
-  description: ‘다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다. Azure Developer Associate.'
+  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다. Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
