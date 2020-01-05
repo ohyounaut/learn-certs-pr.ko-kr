@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div style=’color&#58; red; font-weight&#58; bold;’>본 시험 내용은 2019년 12월 4일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>본 시험 내용은 2019년 12월 4일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/><br/></div>
 
   본 시험의 응시자는 보안 제어를 구현하고 보안 상태를 유지 관리하며 ID 및 액세스를 관리하고 데이터, 애플리케이션 및 네트워크를 보호하는 Microsoft Azure 보안 엔지니어입니다. 응시자는 다양한 보안 도구를 사용하여 취약성을 식별하고 수정하며 위협 보호를 구현하고 보안 사고 에스컬레이션에 대응합니다. 응시자는 Microsoft Azure 보안 엔지니어로서 클라우드 기반 관리 및 보안에 종사하는 대규모 팀의 일원이기도 하며 엔드투엔드 인프라의 일부로 하이브리드 환경을 보호할 수도 있습니다.
 
@@ -15,7 +15,7 @@ subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Faz-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-500&examname=시험%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja

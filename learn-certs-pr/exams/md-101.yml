@@ -6,7 +6,7 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div style=’color&#58; red; font-weight&#58; bold;’>본 시험 내용은 2019년 11월 22일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>본 시험 내용은 2019년 11월 22일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/></div>
   <br/>
   
   2019년 3월 31일 시험이 만료되기 전에 [70-698](https://www.microsoft.com/ko-kr/learning/exam-70-698.aspx) 을 통과했다면, MD-101만 치르면 최신 데스크탑 인증을 받을 수 있습니다. 본 시험은 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리, 모니터링하는 관리자를 대상으로 실시됩니다. 응시자는 ID, 액세스, 정책, 업데이트 및 앱을 관리하는 능력을 측정받습니다.
@@ -20,7 +20,7 @@ subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmd-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MD-101&examname=시험%20MD-101:%20최신%20데스크탑%20관리&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
 levels:
@@ -47,7 +47,7 @@ relatedCertifications:
     uid: certification.modern-desktop
 resources:
 - title: 인증서 학습 과정
-  description: ‘다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다. Modern Desktop Administrator Associate.’
+  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다. Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
