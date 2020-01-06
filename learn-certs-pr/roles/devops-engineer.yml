@@ -1,0 +1,35 @@
+### YamlMime:Role 
+title: DevOps Engineer 
+metadata: 
+  title: DevOps Engineer 
+  description: DevOps Engineers combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. 
+uid: role.devops-engineer 
+summary: | 
+  DevOps Engineers combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
+subTitle: DevOps Engineers combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
+certificationPaths: 
+- title: Azure DevOps Engineer
+  linkedInKeywords: Azure DevOps Engineer
+  uid: certification-path.devops 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-devops
+    levels:
+    - advanced    
+certifications:
+- uid: certification.azure-devops
+  requiredExams:
+  - uid: exam.az-400
+resources:
+- title: Microsoft Training and Certifications Guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Training and Certifications Poster
+  description: Choose your path to success with this training and certifications poster.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Support for certifications
+  href: ../help.md
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.

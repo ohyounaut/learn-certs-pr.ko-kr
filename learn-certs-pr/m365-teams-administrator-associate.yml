@@ -1,0 +1,50 @@
+### YamlMime:Certification
+title: 'Microsoft 365 인증: Teams Administrator Associate'
+metadata:
+  title: 'Microsoft 365 인증: Teams Administrator Associate'
+  description: Microsoft Teams 관리자는 엔터프라이즈 환경에서 효율적이고 효과적인 협업 및 통신에 초점을 맞춘 Microsoft Teams용 Office 365 워크로드를 구성, 배포 및 관리할 수 있어야 합니다.
+uid: certification.m365-teams-administrator-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Microsoft Teams 관리자는 엔터프라이즈 환경에서 효율적이고 효과적인 협업 및 통신에 초점을 맞춘 Microsoft Teams용 Office 365 워크로드를 구성, 배포 및 관리할 수 있어야 합니다.
+  
+  Microsoft Teams 관리자는 팀&#58;채팅, 앱, 채널, 회의, 오디오 회의, 라이브 이벤트 및 통화를 계획하고, 배포하고, 관리할 수 있어야 합니다.
+subTitle: Microsoft Teams 관리자는 엔터프라이즈 환경에서 효율적이고 효과적인 협업 및 통신에 초점을 맞춘 Microsoft Teams용 Office 365 워크로드를 구성, 배포 및 관리할 수 있어야 합니다.
+levels:
+- intermediate
+skills:
+- Microsoft Teams 환경 계획 및 구성
+- 채팅, 통화, 및 회의 관리
+- Teams  및 앱 정책 관리
+roles:
+- administrator
+type: role-based
+products:
+- m365
+courses:
+- uid: course.ms-700t00
+paths:
+- uid: learn-m365.m365-manage-team-collaboration
+- uid: learn-m365.m365-teams-upgrade
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnv
+exams:
+- uid: exam.ms-700
+resources:
+- title: 인증서 학습 경로
+  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Teams Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx

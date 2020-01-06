@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Fundamentals (베타)'
+metadata:
+  title: '시험 PL-900: Microsoft Power Platform Fundamentals (베타)'
+  description: '시험 PL-900: Microsoft Power Platform Fundamentals (베타)'
+uid: exam.pl-900
+displayName: PL-900
+summary: |-
+  본 시험의 응시자는 비즈니스 프로세스를 자동화하고, 데이터를 분석하여 비즈니스 통찰력을 생성하고, 단순한 앱 경험을 만들어 보다 효과적으로 행동함으로써 생산성 향상을 열망하는 사용자입니다.
+  
+  본 시험은 다음을 다룹니다. Power Platform 구성 요소인 Power Apps, Power BI, Microsoft Flow, Common Data Service (CDS), 커넥터, 및 AI Builder 설명, Microsoft 365, Dynamics 365, Microsoft Azure 및 타사 서비스 전반을 나타내는 클라우드 전반 시나리오 설명, Power Platform의 장점과 기능 식별, Power Platform 구성 요소의 기본 기능 및 비즈니스 가치 식별, Microsoft Flow, Power BI 및 AI Builder로 간단한 솔루션 구현, 비코드 환경에서 기본 앱 만들기.
+subTitle: 본 시험은 Power Platform의 비즈니스 가치에 대한 이해, Power Platform의 핵심 구성요소 이해, Power BI의 비즈니스 가치 입증 및 Microsoft Flow의 비즈니스 가치 입증에 대한 능력을 측정합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=PL-900&examname=시험%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fpl-900
+locales:
+- en
+levels:
+- beginner
+skills:
+- Power Platform의 비즈니스 가치 이해 (20-25%) 
+- Power Platform의 핵심 구성요소 이해 (25-30%)  
+- Power BI의 비즈니스 가치 입증 (15-20%)
+- Power Apps의 비즈니스 가치 입증 (15-20%)
+- Microsoft Flow의 비즈니스 가치 입증 (15-20%)
+roles:
+- developer
+products:
+- power-platform
+courses:
+- uid: course.pl-900t00
+paths:
+- uid: learn-bizapps.wwl.power-plat-fundamentals
+relatedCertifications:
+- related:
+    uid: certification.power-platform-fundamentals
+resources:
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 시험 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 하는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: 'Microsoft Teams 관리 (베타)'
+metadata:
+  title: '시험 MS-700: Microsoft Teams 관리 (베타)'
+  description: '시험 MS-700: Microsoft Teams 관리 (베타)'
+uid: exam.ms-700
+displayName: MS-700
+summary: |-
+  본 시험의 응시자는 조직의 Microsoft Teams 관리자입니다. Microsoft Teams 관리자는 엔터프라이즈 환경에서 효율적이고 효과적인 협업 및 통신에 초점을 맞춘 Microsoft Teams용 Office 365 워크로드를 구성, 배포 및 관리합니다.
+
+  Teams 관리자는 팀 채팅, 앱, 채널, 회의, 오디오 회의, 라이브 이벤트 및 통화를 계획하고, 배포하고, 관리할 수 있어야 합니다. Teams 관리자는 또한 Skype for Business에서 팀으로 업그레이드할 책임이 있습니다.
+
+  Teams 관리자는 전화 통신 엔지니어들과 협력하여 고급 음성 기능을 Microsoft Teams에 통합해야 합니다. 직접 라우팅 구성, 통화 라우팅 구성 또는 전화 통신 통합은 본 역할에 포함되지 않습니다. Teams 관리자는 보안 및 규정 준수, 메시징, 네트워킹, ID 및 장치를 비롯한 다른 워크로드 관리자 역할도 함께 수행할 수 있습니다.
+  
+  본 시험의 응시자는 PowerShell을 사용하여 Teams 설정을 능숙하게 관리할 수 있어야 합니다. Teams 관리자는 SharePoint, OneDrive for Business, Exchange, Azure AD 및 Office 365 Group을 비롯하여 애플리케이션 및 서비스와의 통합 지점을 기본적으로 이해하고 있어야 합니다. Teams 관리자는 외부 앱 및 서비스를 통합하는 방법을 이해하고 있어야 합니다.
+subTitle: '본 시험은 다음과 같은 기술적 작업을 수행할 수 있는 능력을 측정합니다: Microsoft Teams 환경 계획 및 구성, 채팅, 통화 및 회의 관리, 팀 및 앱 정책 관리.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-700&examname=시험%20MS-700:%20Microsoft%20Teams%20관리&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-700
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Microsoft Teams 환경 계획 및 구성 (45-50%) 
+- 채팅, 통화, 및 회의 관리 (30-35%)
+- Teams 및 앱 정책 관리 (20-25%)
+roles:
+- administrator
+products:
+- m365
+courses:
+- uid: course.ms-700t00
+paths:
+- uid: learn-m365.m365-manage-team-collaboration
+- uid: learn-m365.m365-teams-upgrade
+relatedCertifications:
+- related:
+    uid: certification.m365-teams-administrator-associate
+resources:
+- title: 인증서 학습 경로
+  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Teams Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 시험 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 하는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md

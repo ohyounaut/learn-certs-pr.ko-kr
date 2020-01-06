@@ -1,0 +1,64 @@
+### YamlMime:Certification
+title: 'Microsoft 인증: Dynamics 365: 금융 및 운영 앱 개발 협력자'
+metadata:
+  title: 'Microsoft 인증: Dynamics 365: 금융 및 운영 앱 개발 협력자'
+  description: Microsoft Dynamics 365의 금융 및 운영 앱과 협력하는 개발자는 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 확장합니다. 응시자는 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 통해 완전히 실현된 솔루션을 제공해야 합니다.
+uid: certification.d365-finance-and-operations-apps-developer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Microsoft Dynamics 365의 금융 및 운영 앱과 협력하는 개발자는 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 확장합니다. 응시자는 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 통해 완전히 실현된 솔루션을 제공해야 합니다.
+subTitle: Microsoft Dynamics 365의 금융 및 운영 앱과 협력하는 개발자는 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 확장합니다.
+levels:
+- intermediate
+skills:
+- 일반 기능 및 구현 도구 사용
+- 보안, 프로세스 및 선택 사항의 구성
+- 데이터 마이그레이션 수행
+- 솔루션 검증 및 지원
+- 아키텍처 계획 및 솔루션 디자인
+- 개발 도구 적용
+- AOT 요소 디자인 및 개발
+- 코드 개발 및 테스트
+- 보고 구현
+- 데이터 솔루션 통합 및 관리
+- 보안 구현 및 성능 최적화
+roles:
+- developer
+type: role-based
+products:
+- dynamics
+- dynamics-finance-operations
+courses:
+- uid: course.mb-500t00
+- uid: course.mb-300t01
+- uid: course.mb-300t02
+- uid: course.mb-300t03
+paths:
+- uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.introduction-develop-dynamics-365-finance-operations
+- uid: learn-dynamics.build-dynamics-365-finance-operations
+- uid: learn-dynamics.extending-dynamics-365-finance-operations
+- uid: learn-dynamics.connect-to-dynamics-365-finance-operations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42MYW
+exams:
+- uid: exam.mb-300
+- uid: exam.mb-500
+resources:
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
