@@ -1068,7 +1068,7 @@ MCSA, MCSD, MCSE 인증은 관련 시험이 계속 시행되는 한 취득할 �
 
 **편의 시설을 요청하려면 어떻게 해야 합니까?**
 
-시험을 치를 때 특수 장비 또는 기타 편의 시설이 필요한 장애인인 경우 [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)에서 “합리적 조정 요청 시스템”[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)을 이용해 편의시설을 요청하시기 바랍니다. 자세한 내용은 위의 [시험 응시를 위한 특수 편의 시설](#special-accommodations-when-taking-exams) 섹션을 참고하시기 바랍니다.
+시험을 치를 때 특수 장비 또는 기타 편의 시설이 필요한 장애인인 경우 [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)에서 “합리적 조정 요청 시스템”[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)을 이용해 편의시설을 요청하시기 바랍니다. 자세한 내용은 위의 시험 응시를 위한 특수 편의 시설 섹션을 참고하시기 바랍니다.
 
 **서류를 제출해야 하는 이유는 무엇입니까?**
 
