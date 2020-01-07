@@ -45,7 +45,7 @@ ms.author: micsullivan
 
 [**자세히 알아보기**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-ask-questions"> 자주 하는 질문
+## <a name="frequently-ask-questions"></a> 자주 하는 질문
 
 **질문. Exam Replay란 무엇입니까?**
 
