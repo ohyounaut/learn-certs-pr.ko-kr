@@ -1,0 +1,45 @@
+### YamlMime:Examination
+title: Skype for Business 2015를 위한 기업 보이스 배치
+metadata:
+  title: '시험 70-333: Skype for Business 2015를 위한 기업 보이스 배치'
+  description: '시험 70-333: Skype for Business 2015를 위한 기업 보이스 배치'
+uid: exam.70-333
+displayName: 70-333
+summary: |-
+  본 시험은 UC(통합 통신)용 솔루션을 설계, 계획, 배포 및 유지 관리하는 IT 컨설턴트와 통신 컨설팅 전문가를 위한 시험입니다. 응시자는 비즈니스 요구 사항으로부터 UC 솔루션을 위한 기술 아키텍처 및 설계를 도출할 수 있어야 합니다. 응시자는 비즈니스용 Skype 기술에 관해 2년 이상의 경력이 있어야 하며 지원되는 마이그레이션 시나리오를 잘 알고 있어야 합니다. 응시자는 최종 사용자, 끝점 장치, 전화 통신, 오디오/비디오 및 웹 회의, 보안, 고가용성을 위해 비즈니스용 Skype 서버 및 비즈니스용 Skype Online 솔루션을 배포하는 데 능숙해야 합니다. 또한 응시자는 Microsoft 도구를 사용하여 비즈니스용 Skype를 모니터링하고 문제를 해결하는 방법을 알고 있어야 합니다. 아울러 응시자는 액티브 디렉터리 도메인 서비스, 데이터 네트워크, 통신 표준 및 비즈니스용 Skype의 구성을 지원하는 구성 요소를 능숙하게 다룰 수 있어야 합니다. 응시자는 비즈니스용 Skype를 Microsoft Exchange Server 및 Office 365와 통합하기 위해 충족해야 할 요구 사항을 잘 알고 있어야 합니다.
+subTitle: 본 시험은 UC(통합 통신)용 솔루션을 설계, 계획, 배포 및 유지 관리하는 IT 컨설턴트와 통신 컨설팅 전문가를 위한 시험입니다. 응시자는 비즈니스 요구 사항으로부터 UC 솔루션을 위한 기술 아키텍처 및 설계를 도출할 수 있어야 합니다. 응시자는 비즈니스용 Skype 기술에 관해 2년 이상의 경력이 있어야 하며 지원되는 마이그레이션 시나리오를 잘 알고 있어야 합니다. 응시자는 최종 사용자, 끝점 장치, 전화 통신, 오디오/비디오 및 웹 회의, 보안, 고가용성을 위해 비즈니스용 Skype 서버 및 비즈니스용 Skype Online 솔루션을 배포하는 데 능숙해야 합니다. 또한 응시자는 Microsoft 도구를 사용하여 비즈니스용 Skype를 모니터링하고 문제를 해결하는 방법을 알고 있어야 합니다. 아울러 응시자는 액티브 디렉터리 도메인 서비스, 데이터 네트워크, 통신 표준 및 비즈니스용 Skype의 구성을 지원하는 구성 요소를 능숙하게 다룰 수 있어야 합니다. 응시자는 비즈니스용 Skype를 Microsoft Exchange Server 및 Office 365와 통합하기 위해 충족해야 할 요구 사항을 잘 알고 있어야 합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dq
+practiceTestUrl: https://www.mindhub.com/product-p/mu-70-333_p.htm&utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=333&examname=Skype%20for%20Business%202015를%20위한%20기업%20보이스%20배치&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2F70-333
+locales:
+- en
+- ja
+levels: 
+- advanced
+skills:
+- Enterprise Voice를 포함한 비즈니스용 Skype 계획 및 설계 (30-35%)
+- Enterprise Voice 배포 및 구성 (30-35%)
+- Enterprise Voice 관리 및 문제 해결 (30-35%)
+roles:
+- administrator
+products:
+- m365
+courses:
+- uid: course.40409
+relatedCertifications:
+- related:
+    uid: certification.mcse-productivity-certification
+resources:
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 하는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md

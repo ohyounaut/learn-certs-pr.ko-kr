@@ -1,0 +1,41 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist Word Associate(Word 및 Word 2019)'
+metadata:
+  title: 'Microsoft Office Specialist Word Associate(Word 및 Word 2019)'
+  description: '이 인증서는 특정 Office 프로그램에 대한 Microsoft Office Specialist (MOS) 인증과 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다.'
+uid: certification.mos-word-2019
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  이 인증서는 특정 Office 프로그램에 대한 Microsoft Office Specialist (MOS) 인증과 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다.
+subTitle: 이 인증서는 특정 Office 프로그램에 대한 Microsoft Office Specialist (MOS) 인증과 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다.
+levels:
+- intermediate
+skills:
+- 문서 관리
+- 텍스트, 문단 및 섹션 삽입 및 서식 지정
+- 표 및 목록 관리
+- 참조 만들기 및 관리
+- 그래픽 요소 삽입 및 설정
+- 문서 협업 관리
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-word
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WMVz
+exams:
+- uid: exam.mo-100
+resources:
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx

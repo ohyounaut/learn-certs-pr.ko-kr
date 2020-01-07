@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft 인증: Azure AI Engineer Associate'
+metadata:
+  title: 'Microsoft 인증: Azure AI Engineer Associate'
+  description: 'Azure AI 기술자는 인지 서비스, 기계 학습 및 지식 마이닝을 사용하여 자연 언어 처리, 음성, 컴퓨터 비전, 봇과 에이전트를 포함한 Microsoft AI 솔루션을 설계하고 구현합니다.'
+uid: certification.azure-ai-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Azure AI 기술자는 인지 서비스, 기계 학습 및 지식 마이닝을 사용하여 자연 언어 처리, 음성, 컴퓨터 비전, 봇과 에이전트를 포함한 Microsoft AI 솔루션을 설계하고 구현합니다.
+subTitle: Azure AI 기술자는 인지 서비스, 기계 학습 및 지식 마이닝을 사용하여 자연 언어 처리, 음성, 컴퓨터 비전, 봇과 에이전트를 포함한 Microsoft AI 솔루션을 설계하고 구현합니다.
+levels:
+- intermediate
+skills:
+- 솔루션 요구 사항 분석
+- AI 솔루션 설계
+- AI 솔루션 구현 및 모니터링
+roles:
+- ai-engineer
+type: role-based
+products:
+- azure
+- azure-cognitive-services
+- azure-bot-service
+- azure-machine-learning-service
+- azure-machine-learning-studio
+- azure-search
+courses:
+- uid: course.ai-100t01
+paths:
+- uid: learn.data-ai.publish-experiment-with-ml-studio
+- uid: learn.data-ai.translate-speech-with-speech-services
+- uid: learn.data-ai.classify-images-with-vision-services
+- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.data-ai.create-bots-with-the-azure-bot-service
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
+exams:
+- uid: exam.ai-100
+resources:
+- title: 인증서 학습 과정
+  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Azure AI Engineer Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx

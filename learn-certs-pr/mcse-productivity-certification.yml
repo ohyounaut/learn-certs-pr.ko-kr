@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: MCSE 생산성 솔루션 전문가
+metadata:
+  title: MCSE 생산성 솔루션 전문가
+  description: MCSE 생산성 솔루션 전문가
+uid: certification.mcse-productivity-certification
+iconUrl: /media/learn/certification/badges/mcse-badge.svg
+summary: |-
+  인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/ko-kr/learning/m365-enterprise-administrator.aspx)가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.
+  
+  MCSE Productivity Solutions Expert가 되려면 다음 요구 사항을 충족해야 합니다&#58;
+  - 한 개의 필수 자격증 취득
+    - 필수 선택사항 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/ko-kr/learning/mcsa-windows-server-certification.aspx)
+    - 필수 선택사항 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/ko-kr/learning/mcsa-windows-server-2016-certification.aspx)
+  - 다음 시험 중 하나 통과
+    - [70-333&#58; Skype for Business 2015로 Enterprise Voice 배포](/learn/certifications/exams/70-333)
+    - [70-334&#58; Microsoft Skype for Business의 핵심 솔루션](/learn/certifications/exams/70-334)
+    - [70-339&#58; Microsoft SharePoint Server 2016 관리](/learn/certifications/exams/70-339)
+    - [70-345&#58; Microsoft Exchange Server 2016 설계 및 배포](/learn/certifications/exams/70-345)
+subTitle: 인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 Microsoft 365 Certified Enterprise Administrator Expert가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.
+levels:
+- advanced
+skills:
+- 없음
+roles:
+- administrator
+type: role-based
+products:
+- m365
+courses:
+- uid: course.20334
+- uid: course.20345-1
+- uid: course.20345-2
+- uid: course.20339-1
+- uid: course.20339-2
+- uid: course.40409
+exams:
+- uid: exam.70-345
+- uid: exam.70-339
+- uid: exam.70-333
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看關於基礎知識、角色型和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 重測
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支持認證
+  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+  href: help.md
+- title: 認證儀錶板
+  description: 檢閱並管理您的預定測驗、證書和成績單。
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx

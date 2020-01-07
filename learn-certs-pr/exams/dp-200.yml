@@ -1,0 +1,82 @@
+### YamlMime:Examination
+title: Azure 데이터 솔루션 구현
+metadata:
+  title: '시험 DP-200: Azure 데이터 솔루션 구현'
+  description: '시험 DP-200: Azure 데이터 솔루션 구현'
+uid: exam.dp-200
+displayName: DP-200
+summary: |-
+  이 시험은 비즈니스 이해관계자와 협력하여 Azure 데이터 서비스를 사용하는 데이터 솔루션을 구현하기 위해 필요한 데이터 요구사항을 식별하고 충족하는 Microsoft Azure 데이터 엔지니어를 대상 응시자로 하여 시행됩니다.
+
+  Azure 데이터 엔지니어는 데이터 저장소 서비스 프로비저닝, 스트리밍 및 일괄 작업 데이터 수집, 데이터 변환, 보안 요구 사항 구현, 데이터 보존 정책 구현, 성능 병목 현상 확인, 외부 데이터 소스 액세스 등의 데이터 관련 구현 과제들을 담당합니다.
+
+  본 시험 응시자는 다음의 Azure 서비스를 사용하는 데이터 솔루션을 구현할 수 있어야 합니다&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (이전의 Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, 및 Azure Blob 저장소.
+subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다: 데이터 저장소 솔루션 구현; 데이터 처리 관리 및 개발, 데이터 솔루션 모니터링 및 최적화.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
+practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DP-200&examname=시험%20DP-200:%20Azure%20데이터%20솔루션%20구현&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fdp-200
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- intermediate
+skills:
+- 데이터 저장소 솔루션 구현 (40-45%)
+- 데이터 처리 관리 및 개발 (25-30%)
+- 데이터 솔루션 모니터링 및 최적화 (30-35%)
+roles:
+- data-engineer
+products:
+- azure
+- azure-cosmos-db
+- azure-data-lake
+- azure-sql-data-warehouse
+- azure-databricks
+- azure-notebooks
+- azure-stream-analytics
+- azure-sql-database
+- azure-storage
+- azure-monitor
+- azure-hdinsight
+exams:
+- uid: exam.dp-201
+courses:
+- uid: course.dp-200t01
+paths:
+- uid: learn.data-ai.azure-for-the-data-engineer
+- uid: learn.store-data-in-azure
+- uid: learn.work-with-relational-data-in-azure
+- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.data-ai.data-processing-with-azure-adls
+- uid: learn.data-ai.implement-data-streaming-with-asa
+- uid: learn.data-ai.implement-sql-data-warehouse
+- uid: learn.modern-data-warehouse
+- uid: learn.data-science
+relatedCertifications:
+- related:
+    uid: certification.azure-data-engineer
+resources:
+- title: 인증서 학습 경로
+  description: '다음의 Microsoft 인증을 받기 위한 교육 리소스를 확인하십시오: Azure Data Engineer Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 시험 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 하는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md

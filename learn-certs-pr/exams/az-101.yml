@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Microsoft Azure 통합 및 보안
+metadata:
+  title: '시험 AZ-101: Microsoft Azure 통합 및 보안'
+  description: '시험 AZ-101: Microsoft Azure 통합 및 보안'
+uid: exam.az-101
+displayName: AZ-101
+summary: |-
+  이 시험은 저장소, 보안, 네트워킹 및 Cloud 컴퓨팅 기능에 걸친 Cloud 서비스를 관리하는 Azure 관리자를 대상으로 실시됩니다. 응시자는 전체적인 IT 수명 주기에 걸쳐 각 서비스를 깊이 이해하고 인프라 서비스, 애플리케이션 및 환경에 관한 요청을 받게 됩니다. 또한 최적의 성능 및 확장을 위해 사용할 서비스를 추천하고 필요한 경우 프로비저닝, 크기 조정, 모니터링 및 적절한 리소스 조정을 수행합니다. 응시자는 PowerShell, 명령줄 인터페이스, Azure Portal, ARM 템플릿, 운영 체제, 가상화, cloud 인프라, 저장소 구조 및 네트워킹 분야에 능숙해야 합니다.
+subTitle: '이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. ID 보안, Azure로 서버 마이그레이션 평가 및 수행, 애플리케이션 서비스 구현 및 관리, 고급 가상 네트워킹 구현.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6M
+practiceTestUrl: https://www.mindhub.com/product-p/mu-az-101_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Azure로 서버 마이그레이션 평가 및 수행 (15-20%)
+- 애플리케이션 서비스 구현 및 관리 (20-25%)
+- 고급 가상 네트워킹 구현 (30-35%)
+- ID 보안 (25-30%)
+retirementDate: 05/01/2019
+roles:
+- administrator
+products:
+- azure
+exams:
+- uid: exam.az-100
+- uid: exam.az-102
+paths:
+- uid: learn.cloud-foundations
+relatedCertifications:
+- related:
+    uid: certification.azure-administrator
+resources:
+- title: 인증서 학습 경로
+  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Azure Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 시험 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 하는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,57 @@
+### YamlMime:Certification
+title: 'Microsoft 인증: Azure Administrator Associate'
+metadata:
+  title: 'Microsoft 인증: Azure Administrator Associate'
+  description: 'Azure 관리자는 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft Azure 솔루션을 구현하고 모니터링하며 유지 관리해야 합니다.'
+uid: certification.azure-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Azure 관리자는 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft Azure 솔루션을 구현하고 모니터링하며 유지 관리해야 합니다. [2019년 5월 1일부터 적용되는 해당 인증의 변경 사항을 자세히 알아보십시오.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
+subTitle: Azure 관리자는 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft Azure 솔루션을 구현하고 모니터링하며 유지 관리해야 합니다.
+levels:
+- intermediate
+skills:
+- Azure 구독 및 리소스 관리
+- 저장소 구현 및 관리
+- 가상 머신 (VM) 배포 및 관리
+- 가상 네트워크 구성 및 관리
+- ID 관리
+roles:
+- administrator
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-virtual-network
+- azure-resource-manager
+courses:
+- uid: course.az-103t00
+paths:
+- uid: learn.secure-your-cloud-data
+- uid: learn.administer-infrastructure-resources-in-azure
+- uid: learn.manage-resources-in-azure
+- uid: learn.administer-containers-in-azure
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
+exams:
+- uid: exam.az-103
+resources:
+- title: 인증서 학습 과정
+  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Azure Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx

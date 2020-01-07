@@ -1,0 +1,48 @@
+### YamlMime:Certification
+title: Microsoft 인증 Azure Fundamentals
+metadata:
+  title: Microsoft 인증 Azure Fundamentals
+  description: 'cloud 개념 이해, 핵심 Azure 서비스, Azure 가격 및 지원 및 cloud 보안, 규정 준수, 개인 정보 보호 및 신뢰의 기초를 이해하고 있음을 입증하십시오.'
+uid: certification.azure-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  cloud 개념 이해, 핵심 Azure 서비스, Azure 가격 및 지원 및 cloud 보안, 규정 준수, 개인 정보 보호 및 신뢰의 기초를 이해하고 있음을 입증하십시오.
+subTitle: cloud 개념 이해, 핵심 Azure 서비스, Azure 가격 및 지원 및 cloud 보안, 규정 준수, 개인 정보 보호 및 신뢰의 기초를 이해하고 있음을 입증하십시오.
+levels:
+- beginner
+skills:
+- cloud 개념 이해
+- 핵심 Azure 서비스 이해
+- 보안, 개인 정보 보호, 규정 준수 및 신뢰 이해
+- Azure 가격 및 지원 이해
+roles:
+- developer
+type: fundamentals
+products:
+- azure
+courses:
+- uid: course.az-900t01
+paths:
+- uid: learn.cloud-foundations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
+exams:
+- uid: exam.az-900
+resources:
+- title: 인증서 학습 과정
+  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Azure Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx

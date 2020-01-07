@@ -1,0 +1,47 @@
+### YamlMime:Certification
+title: 'Microsoft 인증: Dynamics 365 Fundamentals'
+metadata:
+  title: 'Microsoft 인증: Dynamics 365 Fundamentals'
+  description: 'Microsoft Dynamics 365; Power Platform; 클라우드 개념; 라이센스 옵션 및 배포 및 릴리스 옵션을 이해하고 있는지 입증하세요.'
+uid: certification.d365-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Microsoft Dynamics 365; Power Platform; 클라우드 개념; 라이센스 옵션 및 배포 및 릴리스 옵션을 이해하고 있는지 입증하세요.
+subTitle: Microsoft Dynamics 365; Power Platform; 클라우드 개념; 라이센스 옵션 및 배포 및 릴리스 옵션을 이해하고 있는지 입증하세요.
+levels:
+- beginner
+skills:
+- Dynamics 365 이해
+- cloud 개념 이해
+- 배포 및 릴리스 이해
+roles:
+- functional-consultant
+type: fundamentals
+products:
+- dynamics
+courses:
+- uid: course.mb-900t01
+paths:
+- uid: learn-dynamics.dyn-power-plat-bus-app-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
+exams:
+- uid: exam.mb-900
+resources:
+- title: 인증서 학습 과정
+  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Dynamics 365 Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
