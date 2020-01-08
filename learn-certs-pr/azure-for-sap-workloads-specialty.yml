@@ -28,18 +28,18 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2
 exams:
 - uid: exam.az-120
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: deals.md
-- title: 支持認證
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: 인증 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
-- title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx

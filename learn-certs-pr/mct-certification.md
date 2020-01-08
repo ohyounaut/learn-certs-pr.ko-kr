@@ -29,7 +29,7 @@ Microsoft Certified Trainer가 되면 다양하고 유용한 리소스를 얻을
 
 [MCT에서 얻을 수 있는 모든 혜택을 살펴보기.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## 요구 사항
+## <a name="mctinfoheading-3"></a> 요구 사항
 
 MCT 프로그램은 전세계 곳곳에서 Microsoft 기술에 대한 교육을 제공하는 교육자들을 위한 프로그램입니다. 요건을 충족하는 인증 또는 자격을 보유하고 계시며 Microsoft 기술에 대한 교육을 제공하는 일에 깊은 관심을 가지고 있는 경우 프로그램에 신청하실 것을 권장합니다.
 

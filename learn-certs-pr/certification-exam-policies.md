@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 전 세계의 파트너와 고객들은 Microsoft가 최고 품질의 시험 및 인증을 제공하기를 기대합니다. Microsoft 인증 시험 정책은 다음과 같은 인증 프로그램 목적을 지원하기 위해 개발되어 왔습니다:
 
-## 보안 및 재응시 정책
+## <a name="security-policies"></a> 보안 및 재응시 정책
 
 Microsoft는 Microsoft Certified Professional(MCP) 시험과 적합한 관련이 있는 보안 분야를 다루는 특정한 정책을 시행하고 있습니다.
 
@@ -517,7 +517,7 @@ MPP 참조 MPP 절차에 추가 의문 사항이 있으시면 MPP [자주 묻는
 
 다운로드: [성적표 서비스 애플리케이션](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## Microsoft 인증 시험 문항 이의 제기
+## <a name="policies-5"></a> Microsoft 인증 시험 문항 이의 제기
 
 [각 시험이 신중히 검토됨](https://www.microsoft.com/ko-kr/learning/certification-exams.aspx) 기술 및 직무 전문가 패널이 기술 정확성, 명확성 및 관련성에 대해 검증합니다. Microsoft 인증 시험의 특정 문항이 잘못되었다고 생각하는 경우에는 아래 기술된 단계에 따라 문항의 평가를 요청할 수 있습니다. 시험 응시 후 30일 이내에 시험 문항 이의 제기 양식을 제출해야 합니다.
 
@@ -553,7 +553,7 @@ Microsoft 인증 시험을 최대한 유효하고 타당성 있게 유지하기 
 
 모국어로 시험을 볼 수 없거나, 특수 장비가 필요하여 추가 시간이 필요하거나 시험을 볼 때 다른 편의 시설을 요청하고자 하는 경우, [여기](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations)에 설명된 절차에 따라 Certiport를 통해 편의 시설을 요청할 수 있습니다.
 
-### 취소 및 일정 조정 정책.
+### <a name="cancellation-and-reschedule-policy"></a> 취소 및 일정 조정 정책.
 
 - 사용자가 영업일 기준으로 시험 6일 전에 시험을 취소하거나 일정 변경할 경우 수수료는 부과되지 않습니다.
 - 사용자가 영업일 기준으로 등록된 시험 5일 전부터는 시험을 취소하거나 일정 변경할 경우 수수료가 부과됩니다.
