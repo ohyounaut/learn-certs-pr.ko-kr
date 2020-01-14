@@ -1,0 +1,51 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+  description: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+uid: certification.microsoft-office-specialist-master-certification-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  이 인증서를 받으려면 Microsoft Office Specialist 마스터 인증을 사용하여 Office 프로그램을 사용하여 수천 가지 기술을 종합하십시오.
+  
+  Microsoft Office Specialist Master 인증을 받으려면 다음 요구 사항을 충족해야 합니다&#58;
+
+  - 3개의 필수 시험 각각 통과
+    - [77-726&#58; Word 2016 Expert&#58; 효과적인 의사 소통을 위한 문서 작성](/learn/certifications/exams/77-726)
+    - [77-728&#58; Excel 2016 Expert&#58; Insight에 대한 데이터 해석](/learn/certifications/exams/77-728)
+    - [77-729&#58; PowerPoint 2016&#58; 핵심 프레젠테이션 설계 및 제공 기술](/learn/certifications/exams/77-729)
+  - 다음 시험 중 하나 통과 
+    - [77-730&#58; Access 2016&#58; 핵심 데이터베이스 관리, 조작 및 쿼리 기술](/learn/certifications/exams/77-730)
+    - [77-731&#58; Outlook 2016&#58; 핵심 의사 소통, 협업 및 이메일 기술](/learn/certifications/exams/77-731)
+  
+subTitle: 이 인증서를 받으려면 Microsoft Office Specialist 마스터 인증을 사용하여 Office 프로그램을 사용하여 수천 가지 기술을 종합하십시오.
+levels:
+- advanced
+skills:
+- Microsoft Office Excel 2016 (필수)
+- Microsoft Office PowerPoint 2016 (필수)
+- Microsoft Office Word 2016 (필수)
+- Microsoft Office Access 2016 (한개 선택)
+- Microsoft Office Outlook 2016 (한개 선택)
+roles:
+- business-user
+type: mos
+products:
+- office
+exams:
+- uid: exam.77-726
+- uid: exam.77-728
+- uid: exam.77-729
+resources:
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 재응시하기
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx

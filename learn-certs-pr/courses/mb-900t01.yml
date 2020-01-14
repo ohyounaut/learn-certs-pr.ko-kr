@@ -1,0 +1,64 @@
+### YamlMime:Course
+title: Dynamics 365 Fundamentals
+metadata:
+  title: '과정 MB-900T01-A: Dynamics 365 Fundamentals'
+  description: '과정 MB-900T01-A: Dynamics 365 Fundamentals'
+uid: course.mb-900t01
+courseNumber: 'MB-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Dynamics 365의 주요 기능 및 모듈 식별
+- skill: cloud 개념 설명
+- skill: Dynamics 365 보안 모델 설명
+- skill: 라이선싱 및 배포 고려 사항 설명
+learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+exams:
+- uid: exam.mb-900
+summary: |-
+  Dynamics 365는 고객 참여, 통합 운영, 마케팅, 소매 및 Talent 관리를 위한 다방면의 도구입니다. 본 과정을 통해 학습자는 Dynamics 365 기능 및 비즈니스 가치를 잘 알게 됩니다. 본 과정에서는 Dynamics 365 애플리케이션, Power Platform, 클라우드 개념, 보안 모델 및 라이선스 고려 사항을 다룹니다.
+
+prerequisitesSection: |-
+  IT 원리에 대한 기초 지식과 Dynamics 365에 대한 관심.
+outlineSection: |-
+  ### 모듈 1&#58; 비즈니스 애플리케이션 소개
+  본 모듈에서는 고객 참여, 통합 운영, Power Platform 및 해당 비즈니스 애플리케이션에 중점을 둔 모든 비즈니스 애플리케이션 모듈 및 기능을 소개합니다.
+  #### 단원
+  - 앱 개요
+  - 고객 참여용 앱
+  - 통합 작업용 앱
+  - Power Platform
+  - 애플리케이션 기초
+  
+  ### 모듈 2&#58; 클라우드 개념
+  본 모듈에서는 높은 수준의 클라우드 개념에 대해 설명하고 Microsoft 클라우드 오퍼링인 Azure을 소개한 후 Dynamics 365와의 관계를 검토합니다.
+  #### 단원
+  - 클라우드 아키텍처 개요
+  - 사용 가능한 다양한 유형의 클라우드 서비스
+  - 클라우드 오퍼링을 상응하는 온-프레미스 오퍼링과 비교
+
+
+  ### 모듈 3&#58; 배포 및 릴리스 관리
+  본 모듈에서는 배포 유형, 릴리스 케이던스 및 보안 모델 디자인을 포함하여 중요한 구현 고려 사항을 다룹니다.
+  #### 단원
+  - 배포 유형
+  - 릴리스 유형
+  - 보안 개념 및 역할
+  - 역할 및 팀
+  - GDPR
+
+
+  ### 모듈 4&#58; 라이선싱, 온보딩 및 지원
+  본 모듈을 통해 학습자는 라이선싱 옵션을 알아보고 구현 지원을 찾아서 Dynamics 365를 시작할 수 있습니다.
+  #### 단원
+  - 파트너 찾기 및 협력
+  - 라이선싱 옵션
+  - 세팅하기

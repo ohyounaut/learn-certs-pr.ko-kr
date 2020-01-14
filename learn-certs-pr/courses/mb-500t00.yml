@@ -1,0 +1,95 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: Finance and Operations 앱 개발자'
+metadata:
+  title: '과정 MB-500T00-A: Microsoft Dynamics 365: Finance and Operations 앱 개발자'
+  description: '과정 MB-500T00-A: Microsoft Dynamics 365: Finance and Operations 앱 개발자'
+uid: course.mb-500t00
+courseNumber: 'MB-500T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-500
+summary: |-
+  개발자 교육. Microsoft Dynamics 365 Finance and Operations 앱 개발자는 비즈니스 요구 사항에 맞게 애플리케이션을 구현하고 확장합니다. 응시자는 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 통해 완전히 실현된 솔루션을 제공해야 합니다.
+
+  #### 대상 그룹 프로필
+  
+  Microsoft Dynamics 365 Finance and Operations 앱 개발자 
+
+outlineSection: |-
+  ### 과정 개요
+  
+  ### 모듈 1&#58; 개요 및 아키텍처
+  
+  Dynamics 365 에코시스템 및 Dynamics 365 Finance and Operations (FO) 소프트웨어 주요 구성 요소 설명, D365FO의 아키텍처 설명, 관련 D365FO 설계 및 배포 고려 사항 설명
+  
+  #### 랩&#58; 개발 환경 구성 및 프로젝트/모델 생성
+  
+  ### 모듈 2&#58; 개발자 도구
+  수명 주기 서비스로 시스템 구현 관리, Visual Studio로 D365FO 사용자 지정, 버전 제어를 사용하여 소스 코드 및 Artifacts 관리, 다른 개발 도구를 사용하여 작업 완성
+  
+  #### 랩&#58; DevOps를 사용한 소스 제어
+
+  ### 모듈 3&#58; 솔루션 디자인
+  필요한 애플리케이션 스택 구성 요소 및 서버 아키텍처 결정, 애플리케이션 수명 주기 관리 (ALM) 구현, D365FO용 솔루션 디자인
+
+  #### 랩&#58; 데이터 구조 개발
+  
+  ### 모듈 4&#58; 애플리케이션 개체 트리(AOT) 요소
+  
+  양식 생성, 테이블 생성 및 확장, 확장 데이터 형식 (EDT) 및 열거형 생성, 클래스 생성 및 AOT 요소 확장
+  
+  #### 랩&#58; 메타데이터 확장 및 개발
+  
+  ### 모듈 5&#58; 코드 개발 및 테스트
+  
+  X++ 코드 개발, 객체 지향 코드 개발, D365 FO 기능 확장, 테스트 프레임워크 및 도구 설명, 단위 테스트 수행
+  
+  #### 랩&#58; 코드 확장 및 개발
+  
+  ### 모듈 6&#58; 데이터 마이그레이션
+  
+  마이그레이션 도구 및 방법론 설명, 마이그레이션 전략 계획, 마이그레이션용 데이터 준비 및 데이터 마이그레이션
+
+  #### 랩&#58; 데이터 엔티티를 사용하여 데이터 내보내기/가져오기
+  
+  #### 랩&#58; 반복되는 데이터 전송
+  
+  ### 모듈 7&#58; 프레임워크
+  
+  D365 FO 기능 구현
+  
+  #### 랩&#58; SysExtension 프레임워크
+  
+  ### 모듈 8&#58; 통합
+  
+  데이터 통합 ​​패턴 및 시나리오 식별, 데이터 통합 ​​개념 및 솔루션 구현, 반복 통합 구현, D365FO를 Microsoft Azure와 통합, 통합 오류 문제 해결, 데이터 관리 패키지 API 구현
+  
+  #### 랩&#58; OData 통합
+
+  #### 랩&#58; Logic App 통합
+  
+  #### 랩&#58; 외부 웹 서비스 호출
+
+  ### 모듈 9&#58; 리포팅
+  
+  D365FO에서 보고 도구의 기능 및 제한 사항 설명, Dynamics 보고서 디자인, 생성 및 수정, 디자인, 생성 및 수정
+  Dynamics 작업 영역, D365FO 외부 데이터 저장소에 연결되는 데이터 소스 디자인, 생성 및 수정
+
+  #### 랩&#58; F&O의 Power BI 리포팅
+  
+  ### 모듈 10&#58; 보안 및 성능
+  
+  성능 도구 및 LCS 환경 모니터링 도구 설명 및 구현, 역할 기반 보안 정책 및 요구 사항 구현, 기본 성능 최적화 적용, 배치 프로세스 성능 최적화, 사용자 인터페이스 성능 최적화, 통합 성능 향상, 보고서 성능 최적화
+  
+  #### 랩&#58; 비동기 및 샌드박스 기능

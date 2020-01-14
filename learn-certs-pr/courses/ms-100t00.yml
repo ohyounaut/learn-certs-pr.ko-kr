@@ -1,0 +1,140 @@
+### YamlMime:Course
+title: Microsoft 365 ID 및 서비스
+metadata:
+  title: '과정 MS-100T00-A: Microsoft 365 ID 및 서비스'
+  description: '과정 MS-100T00-A: Microsoft 365 ID 및 서비스'
+uid: course.ms-100t00
+courseNumber: 'MS-100T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft 365 테넌트 디자인, 구성 및 관리
+- skill: Office 365 제품 기능
+- skill: Office 365 구성
+- skill: Office 365 ProPlus 배포 관리
+- skill: ID 동기화 계획 및 구현
+- skill: 애플리케이션 및 외부 액세스 구현
+learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  본 과정에서는 Microsoft 365 엔터프라이즈 관리의 세 가지 핵심 요소인 Microsoft 365 테넌트 및 서비스 관리, Office 365 관리 및 Microsoft 365 ID 관리를 다룹니다.
+  Microsoft 365 테넌트 및 서비스 관리에서는 Microsoft 365 테넌트를 디자인할 때 계획해야 하는 모든 주요 구성 요소를 살펴봅니다. 계획 단계가 완료되면, 조직 프로필, 테넌트 구독 옵션, 구성 요소 서비스, 사용자 계정 및 라이선스 및 보안 그룹을 포함하여 Microsoft 365 테넌트를 구성하는 방법을 학습합니다. 마지막으로 테넌트 역할 구성 및 테넌트 상태 및 서비스 관리를 포함하여 테넌트를 관리하는 방법을 학습합니다.
+  Microsoft 365 테넌트가 확실히 준비되면 Office 365 관리의 주요 구성 요소를 살펴봅니다. Exchange Online, SharePoint Online, Microsoft Teams, 추가 제품 리소스 및 장치 관리를 포함하는 Office 365 제품 기능 개요로 시작합니다. Office 365에 클라이언트 연결을 구성하는 것에 중점을 두고 Office 365 구성으로 넘어갑니다. 마지막으로 사용자 중심 클라이언트 설치에서 중앙 집중식 Office 365 ProPlus 배포에 이르기까지 Office 365 ProPlus 배포를 관리하는 방법을 살펴봅니다. Office Telemetry 및 Microsoft Analytics 구성 방법을 학습하면서 이 섹션을 마무리합니다.
+  본 과정에서는 Azure Active Directory Connect에 중점을 둔 Microsoft ID 동기화에 대해 심층적으로 살펴보는 것으로 마무리합니다. Azure AD Connect 계획 및 구현, 동기화된 ID 관리 및 다단계 인증 및 셀프 서비스 암호 관리를 사용하여 Microsoft 365에서 암호 관리를 구현하는 방법을 학습합니다. 이 섹션에서는 애플리케이션 및 외부 액세스 구현에 대한 포괄적인 내용을 다룹니다. 다중 테넌트 애플리케이션을 구성하는 방법을 포함하여 Azure Active Directory에서 애플리케이션을 추가하고 관리하는 방법을 학습합니다. 커넥터 설치 및 등록과 원격 액세스를 위한 온-프레미스 앱을 게시하는 방법을 포함하여 Azure AD 애플리케이션 프록시를 구성하는 방법을 살펴봅니다. 마지막으로 외부 액세스를 위한 솔루션을 설계하고 관리하는 방법을 살펴 봅니다. Azure AD B2B Collaboration 공동 작업에 대한 라이선스 가이드, 공동 작업 사용자 생성 및 B2B Collaboration 문제 해결을 포함합니다.
+
+  #### 대상 그룹 프로필
+  본 과정은 Microsoft 365 Enterprise 관리자 역할에 관심이 있고 Microsoft 365 역할 기반 관리자 인증 경로를 이수한 사람을 대상으로 합니다.
+prerequisitesSection: |-
+  - 메시징, 팀워크, 보안 및 규정 준수 또는 공동 작업과 같은 역할 기반 관리자 과정을 이수했습니다.
+  - DNS에 대한 능숙한 이해 및 Microsoft 365 서비스의 기초 및 기능적인 경험.
+  - 일반적인 IT 관행에 대한 능숙한 이해.
+outlineSection: |-
+  ### 모듈 1&#58; Microsoft 365 Tenant 디자인
+  #### 단원
+  - 온-프레미스 인프라에서 Microsoft 365 계획
+  - ID 및 인증 솔루션 계획
+  - 서비스 설치 계획
+  - 하이브리드 환경 계획
+  - Office 365로 마이그레이션 계획 
+
+  ### 모듈 2&#58; Microsoft 365 Tenant 구성
+  #### 단원
+  - Microsoft 365 경험 계획
+  - Microsoft 365 경험 구성
+  - Microsoft 365에서 사용자 계정 및 라이선스 관리
+  - Microsoft 365에서 보안 그룹 관리
+  - 도메인 서비스 구현
+  - FastTrack 및 파트너 서비스 활용
+
+
+  ### 모듈 3&#58; 랩 1 - Microsoft 365 Tenant 구성
+
+  #### 랩&#58; Microsoft 365 Tenant 구성
+  - 연습 1 - Microsoft 365 Tenant 평가판 설치
+
+
+  ### 모듈 4&#58; Microsoft 365 Tenant 관리
+  #### 단원
+  - 테넌트 역할 구성
+  - 테넌트 상태 및 서비스 구성
+
+
+  ### 모듈 5&#58; 랩 2 - Microsoft 365 Tenant 관리
+
+  #### 랩&#58; Microsoft 365 Tenant 관리
+  - 연습 1 - 관리 위임 관리
+  - 연습 2 - Office 365 메시지 암호화(OME) 구성
+  - 연습 3 - Office 365 모니터링 및 문제 해결
+
+
+  ### 모듈 6&#58; Office 365 개요
+  #### 단원
+  - Exchange Online 개요
+  - SharePoint Online 개요
+  - Teams 개요
+  - 추가 리소스 개요
+  - 장치 관리 개요
+
+
+  ### 모듈 7&#58; 랩 3 - Office 365 개요
+
+  #### 랩&#58; Office 365 개요
+  - 연습 1 - Exchange Online 개요
+  - 연습 2 - SharePoint Online 개요
+  - 연습 3 - Teams 개요
+
+
+  ### 모듈 8&#58; Office 365 구성
+  #### 단원
+  - Office 365 클라이언트 개요
+  - Office 365에 클라이언트 연결 구성
+
+
+  ### 모듈 9&#58; Office 365 ProPlus 배포 관리
+  #### 단원
+  - 사용자 기반 클라이언트 배포 관리
+  - 중앙 집중식 Office 365 ProPlus 배포 관리
+  - Office Telemetry 구성
+  - Microsoft Analytics 구성
+
+
+  ### 모듈 10&#58; 랩 4 - Office 365 ProPlus 설치 관리
+
+  #### 랩&#58; Office 365 ProPlus 설치 관리
+  - 연습 1 - Office 365 ProPlus 관리형 설치 준비
+  - 연습 2 - 중앙 집중식 Office 365 ProPlus 설치 관리
+  - 연습 3 - Office Telemetry 구성 요소 배포 및 구성
+
+
+  ### 모듈 11&#58; ID 동기화 계획 및 구현
+  #### 단원
+  - ID 동기화 소개
+  - Azure AD Connect 계획
+  - Azure AD Connect 구현
+  - 동기화된 Azure ID 관리
+  - Microsoft 365 비밀번호 관리
+
+
+  ### 모듈 12&#58; 랩 5 - ID 동기화 구현
+
+  #### 랩&#58; ID 동기화 구현
+  - 연습 1 - ID 동기화를 위한 조직 설정
+  - 연습 2 - ID 동기화 구현
+
+
+  ### 모듈 13&#58; 애플리케이션 및 외부 액세스 구현
+  #### 단원
+  - Azure AD에서 애플리케이션 구현
+  - Azure AD 애플리케이션 프록시 구성
+  - 외부 액세스용 솔루션 설계

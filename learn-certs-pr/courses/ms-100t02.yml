@@ -1,0 +1,66 @@
+### YamlMime:Course
+title: Microsoft 365 Tenant 및 서비스 관리
+metadata:
+  title: '과정 MS-100T02-A: Microsoft 365 Tenant 및 서비스 관리'
+  description: '과정 MS-100T02-A: Microsoft 365 Tenant 및 서비스 관리'
+uid: course.ms-100t02
+courseNumber: 'MS-100T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft 365 온-프레미스 인프라 계획
+- skill: ID 및 인증 솔루션 계획
+- skill: Microsoft 365 경험 계획 및 구성
+- skill: Microsoft FastTrack 및 파트너 서비스 활용
+- skill: 자체 도메인 서비스 구현
+- skill: Microsoft 365 테넌트 역할 구성
+- skill: Microsoft 365 테넌트 상태 및 서비스 관리
+learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  조직의 Microsoft 365 Tenant 및 서비스 계획, 관리 및 사용자 지정 방법을 포함하여 Microsoft 365 Tenant 및 서비스 관리에 대해 학습합니다.
+
+  #### 대상 그룹 프로필
+  본 과정은 Microsoft 365 Enterprise 관리자 역할에 관심이 있고 Microsoft 365 역할 기반 관리자 인증 경로를 이수한 사람을 대상으로 합니다.
+prerequisitesSection: |-
+  - 메시징, 팀워크, 보안 및 규정 준수 또는 공동 작업과 , 같은 역할 기반 관리자 과정을 이수했습니다.
+  - DNS에 대한 능숙한 이해 및 Microsoft 365 서비스의 기초 및 기능적인 경험.
+  - 일반적인 IT 관행에 대한 능숙한 이해
+outlineSection: |-
+  ### 모듈 1&#58; Microsoft 365 Tenant 디자인
+  #### 단원
+  - Microsoft 365 온-프레미스 인프라 계획
+  - ID 및 인증 솔루션 계획
+
+  ### 모듈 2&#58; Microsoft 365 Tenant 구성
+  #### 단원
+  - Microsoft 365 Experience 계획
+  - Microsoft 365 Experience 구성
+  - FastTrack 및 파트너 서비스 활용
+  - 도메인 서비스 구현
+
+
+  ### 모듈 3&#58; Microsoft 365 Tenant 관리
+  #### 단원
+  - 테넌트 역할 구성
+  - 테넌트 상태 및 서비스 구성
+
+
+  ### 모듈 4&#58; 실습 교육
+
+  #### 랩&#58; Microsoft 365 Tenant 및 서비스 관리
+  - 연습 1&#58; Microsoft 365 Tenant 평가판 설치
+  - 연습 2&#58; Microsoft 365 사용자, 그룹, 관리자 관리
+  - 연습 3&#58; 권한 관리 및 준수 구성
+  - 연습 4&#58; Microsoft 365 모니터링 및 문제 해결

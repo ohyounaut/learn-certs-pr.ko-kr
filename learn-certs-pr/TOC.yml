@@ -1,2 +1,21 @@
-- name: Microsoft Certifications
+- name: Microsoft 인증
   href: index.yml
+- name: 제안
+  href: deals.md
+- name: 볼륨 라이선싱
+  href: volume-licensing-program.md
+- name: 중단된 인증, 시험 및 과정
+  expanded: false
+  items:
+  - name: 중단된 인증
+    href: retired-certifications.md
+  - name: 중단된 시험
+    href: retired-certification-exams.md 
+  - name: 중단된 과정
+    href: retired-courses.md
+- name: MCT 인증
+  href: mct-certification.md
+- name: 시험 정책 및 자주 하는 질문
+  href: certification-exam-policies.md
+- name: 인증 도움말
+  href: help.md

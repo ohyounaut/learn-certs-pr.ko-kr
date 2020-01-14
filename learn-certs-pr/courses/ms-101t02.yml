@@ -1,0 +1,113 @@
+### YamlMime:Course
+title: Microsoft 365 규정 준수 관리
+metadata:
+  title: '과정 MS-101T02-A: Microsoft 365 규정 준수 관리'
+  description: '과정 MS-101T02-A: Microsoft 365 규정 준수 관리'
+uid: course.ms-101t02
+courseNumber: 'MS-101T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: '다음을 포함한 ‘Microsoft 365의 데이터 거버넌스 이해: 아카이빙, 보존, 정보 권한 관리, SMIME(Secure Multipurpose Internet Mail Extension), Office 365 메시지 암호화 및 데이터 손실 방지'
+- skill: SharePoint 인플레이스 기록 관리 구현
+- skill: Exchange 아카이빙 및 보존 구현
+- skill: 보안 및 준수 센터에서 보존 정책 생성
+- skill: 보안 및 준수 요구 사항 계획
+- skill: Exchange Online 교신 차단 영역 구축
+- skill: 기본 제공 템플릿 DLP 정책 생성
+- skill: 사용자 지정 DLP 정책 생성
+- skill: 문서 보호를 위한 DLP 정책 생성
+- skill: 정책 팁 구현
+- skill: 이메일 보존 관리
+- skill: 데이터 거버넌스 문제 해결
+- skill: 정보 보호 구현
+- skill: 고급 구현 보호 구현
+- skill: Windows Information Protections 이해
+- skill: 보안 및 준수 센터에서 콘텐츠 검색
+- skill: 감사 로그 조사
+- skill: 고급 eDiscovery 관리
+learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Microsoft 365의 데이터 보존 및 데이터 손실 방지 솔루션, Microsoft 365의 아카이빙 및 보존, 데이터 거버넌스 구현 및 관리, 검색 및 조사 관리를 포함한 Microsoft 365 규정 준수 관리에 대해 알아 봅시다.
+
+  #### 대상 그룹 프로필
+  본 과정은 Microsoft 365 Enterprise 관리자 역할에 관심이 있고 Microsoft 365 역할 기반 관리자 인증 경로를 이수한 사람을 대상으로 합니다.
+prerequisitesSection: |-
+  - 메시징, 팀워크, 보안 및 규정 준수 또는 공동 작업과 , 같은 역할 기반 관리자 과정을 이수했습니다.
+  - DNS에 대한 능숙한 이해 및 Microsoft 365 서비스의 기초 및 기능적인 경험.
+  - 일반적인 IT 관행에 대한 능숙한 이해.
+outlineSection: |-
+  ### 모듈 1&#58; Microsoft 365 데이터 거버넌스 소개
+  #### 단원
+  - Microsoft 365 아카이빙 소개
+  - Microsoft 365 보존 소개
+  - 정보 권한 관리(IRM) 소개
+  - SMIME(Secure Multipurpose Internet Mail Extension) 소개
+  - Office 365 메시지 암호화 소개
+  - 데이터 손실 방지(DLP) 소개
+
+  ### 모듈 2&#58; Microsoft 365 아카이빙 및 보존 소개
+  #### 단원
+  - SharePoint 인플레이스 기록 관리
+  - Exchange 아카이빙 및 보존
+  - SCC 보존 정책
+  - 도메인 서비스 구현
+
+
+  ### 모듈 3&#58; Microsoft 365 인텔리전스 데이터 거버넌스 구현
+  #### 단원
+  - 보안 및 준수 요구 사항 계획
+  - Exchange Online 교신 차단 영역 구축
+  - 간단한 내장 템플릿 DLP 정책 생성
+  - 사용자 지정 DLP 정책 생성
+  - 문서 보호를 위한 DLP 정책 생성
+  - 정책 팁 작업
+
+
+  ### 모듈 4&#58; Microsoft 365 데이터 거버넌스 관리
+  #### 단원
+  - 이메일 보존 관리
+  - 데이터 거버넌스 문제 해결
+  - 정보 보호 구현
+  - 고급 구현 보호 구현
+  - Windows Information Protection 소개
+
+
+  ### 모듈 5&#58; 검색 및 조사 관리
+  #### 단원
+  - 보안 및 준수 센터에서 콘텐츠 검색
+  - 감사 로그 조사
+  - 고급 eDiscovery 관리
+
+
+  ### 모듈 6&#58; 실습 교육
+
+  #### 랩&#58; 랩 환경 설정
+  - 연습 1&#58; 조직 준수 초기화
+
+
+  #### 랩&#58; Microsoft 365 아카이빙 및 보존
+  - 연습 1&#58; 보존 태그 및 정책 구현
+  - 연습 2&#58; AIP 및 WIP 구현
+
+
+  #### 랩&#58; 데이터 거버넌스 구현
+  - 연습 1&#58; DLP 정책 테스트
+  - 연습 2&#58; Azure Information Protection 사용
+  - 연습 3&#58; Windows Information Protection 사용
+
+
+  #### 랩&#58; 데이터 거버넌스 정책 검증
+  - 연습 1&#58; Microsoft 365 데이터 조사
