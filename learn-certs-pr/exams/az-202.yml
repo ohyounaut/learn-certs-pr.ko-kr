@@ -8,7 +8,8 @@ displayName: AZ-202
 summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>본 시험 내용은 2019년 3월 31일에 중단되었습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다</div>
   <br/> 
-  해당 시험은 [시험 70-532](https://www.microsoft.com/ko-kr/learning/exam-70-532.aspx)&#58; Microsoft Azure Solutions 개발하기. 시험 532 에 응시한 적이 없는 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.
+  
+  해당 시험은 [시험 70-532&#58;](https://www.microsoft.com/ko-kr/learning/exam-70-532.aspx) Microsoft Azure Solutions 개발하기. 시험 532 에 응시한 적이 없는 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.
 
   전환 시험은 새로운 역할 기반 인증 시험으로 대체될 기존 시험을 통과하여 해당 분야에서 기술을 이미 입증한 사람들을 대상으로 합니다. 여기에는 현재 인증과 새로운 인증을 취득한 사람들이 기대할 수 있는 차이점이 나와 있습니다. 우리는 기존의 시험에 합격함으로써 이미 능력을 입증한 사람들을 동일한 내용으로 재시험하지 않습니다.
 
@@ -19,7 +20,7 @@ summary: |-
   응시자는 스토리지, 보안, 컴퓨팅 및 커뮤니케이션을 포함한 Azure 도구 및 기술을 사용하여 앱 및 서비스를 개발하는 데 능숙해야 합니다.
 
   응시자는 최소 1년 이상의 소프트웨어 개발의 모든 단계를 통해 확장 가능한 솔루션을 개발한 경험이 있어야 하며, 적어도 하나 이상의 cloud 지원 프로그래밍 언어에 능숙해야 합니다.
-subTitle: '이 시험은 [시험 70-532](https://www.microsoft.com/ko-kr/learning/exam-70-532.aspx) 에 응시한 응시자만을 대상으로 합니다: Microsoft Azure Solutions 개발하기. 시험 532에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.'
+subTitle: '이 시험은 시험 70-532 에 응시한 응시자만을 대상으로 합니다: Microsoft Azure Solutions 개발하기. 시험 532에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJV3
 scheduleExamUrl: https://examregistration.microsoft.com/

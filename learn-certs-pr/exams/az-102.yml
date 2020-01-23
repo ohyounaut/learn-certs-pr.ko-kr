@@ -6,9 +6,10 @@ metadata:
 uid: exam.az-102
 displayName: AZ-102
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>본 시험 내용은 2019년 6월 30일에 중단되었습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다</div>
-  <br/> 
-  해당 시험은 [시험 70-533](https://www.microsoft.com/ko-kr/learning/exam-70-533.aspx)&#58; Microsoft Azure Infrastructure Solutions 구현 시험에 응시했던 응시자만을 대상으로 하는 시험입니다. 시험 533에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.
+  <div style='color&#58; red; font-weight&#58; bold;'>본 시험 내용은 2019년 6월 30일에 중단되었습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다<br/><br/></div>
+   
+
+  해당 시험은 [시험 70-533&#58;](https://www.microsoft.com/ko-kr/learning/exam-70-533.aspx) Microsoft Azure Infrastructure Solutions 구현 시험에 응시했던 응시자만을 대상으로 하는 시험입니다. 시험 533에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.
 
   전환 시험은 새로운 역할 기반 인증 시험으로 대체될 기존 시험을 통과하여 해당 분야에서 기술을 이미 입증한 사람들을 대상으로 합니다. 여기에는 현재 인증과 새로운 인증을 취득한 사람들이 기대할 수 있는 차이점이 나와 있습니다. 우리는 기존의 시험에 합격함으로써 이미 능력을 입증한 사람들을 동일한 내용으로 재시험하지 않습니다.
 
@@ -17,7 +18,7 @@ summary: |-
   이 시험은 저장소, 보안, 네트워킹 및 Cloud 컴퓨팅 기능에 걸친 Cloud 서비스를 관리하는 Azure 관리자를 대상으로 실시됩니다. 응시자는 전체적인 IT 수명 주기에 걸쳐 각 서비스를 깊이 이해하고 인프라 서비스, 애플리케이션 및 환경에 관한 요청을 받게 됩니다. 또한 최적의 성능 및 확장을 위해 사용할 서비스를 추천하고 필요한 경우 프로비저닝, 크기 조정, 모니터링 및 적절한 리소스 조정을 수행합니다.
 
   이 시험의 응시자는 PowerShell 및 명령줄 인터페이스를 사용하는 데 능숙해야 합니다. 응시자는 Azure Portal, ARM 템플릿, Operating Systems, 가상화, Cloud 인프라, 저장소 구조 및 네트워킹 분야에 기본적인 수준의 능숙함 또는 지식을 갖추고 있어야 합니다.
-subTitle: '이 시험은 [시험 70-533](https://www.microsoft.com/ko-kr/learning/exam-70-533.aspx) 에 응시한 응시자만을 대상으로 합니다: Microsoft Azure Infrastructure Solutions 구현 시험에 응시했던 응시자만을 대상으로 하는 시험입니다. 시험 533에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.'
+subTitle: '이 시험은 에 응시한 응시자만을 대상으로 합니다 시험 70-533: Microsoft Azure Infrastructure Solutions 구현 시험에 응시했던 응시자만을 대상으로 하는 시험입니다. 시험 533에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwA
 practiceTestUrl: https://www.mindhub.com/product-p/mu-az-102_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -31,7 +32,7 @@ skills:
 - Manage Azure 구독 및 리소스 (5-10%)
 - 저장소 구현 및 관리 (5-10%)
 - 가상 네트워크 구성 및 관리 (15-20%)
-- ID 관리(15-20%)'
+- ID 관리(15-20%)
 - Azure로 서버 마이그레이션 평가 및 수행 (15-20%)
 - 애플리케이션 서비스 구현 및 관리 (5-10%)
 - 고급 가상 네트워킹 구현 (5-10%)
