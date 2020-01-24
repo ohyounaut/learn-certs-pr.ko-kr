@@ -2,7 +2,6 @@
 title: 볼륨 라이선싱 고객을 위한 소프트웨어 교육 | Microsoft 문서
 description: 볼륨 라이선싱 고객을 위한 소프트웨어 교육
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

@@ -2,7 +2,6 @@
 title: Microsoft 중단 시험 | Microsoft Docs
 description: Microsoft 중단 시험
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

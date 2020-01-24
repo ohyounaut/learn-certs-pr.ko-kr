@@ -1,15 +1,15 @@
 ### YamlMime:Role 
-title: DevOps Engineer 
+title: DevOps 엔지니어  
 metadata: 
-  title: DevOps Engineer 
-  description: DevOps Engineers combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. 
+  title: DevOps 엔지니어 
+  description: DevOps 엔지니어는 사람, 프로세스 및 기술을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치있는 제품과 서비스를 지속적으로 제공합니다. 
 uid: role.devops-engineer 
 summary: | 
-  DevOps Engineers combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
-subTitle: DevOps Engineers combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
+  DevOps 엔지니어는 사람, 프로세스 및 기술을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치있는 제품과 서비스를 지속적으로 제공합니다.
+subTitle: DevOps 엔지니어는 사람, 프로세스 및 기술을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치있는 제품과 서비스를 지속적으로 제공합니다.
 certificationPaths: 
-- title: Azure DevOps Engineer
-  linkedInKeywords: Azure DevOps Engineer
+- title: Azure DevOps 엔지니어
+  linkedInKeywords: Azure DevOps 엔지니어
   uid: certification-path.devops 
   prerequisites: 
   - uid: certification.azure-fundamentals
@@ -24,12 +24,12 @@ certifications:
   requiredExams:
   - uid: exam.az-400
 resources:
-- title: Microsoft Training and Certifications Guide
-  description: Explore all certifications in a concise training and certifications guide.
+- title: Microsoft 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Training and Certifications Poster
-  description: Choose your path to success with this training and certifications poster.
+- title: 교육 및 인증 포스터
+  description: 이 교육 및 인증 포스터를 통해 성공을 위한 길을 선택합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Support for certifications
+- title: 인증 지원
   href: ../help.md
-  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.

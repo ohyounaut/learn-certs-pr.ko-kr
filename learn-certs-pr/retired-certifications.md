@@ -2,7 +2,6 @@
 title: Microsoft Retired Certifications | Microsoft Docs
 description: Microsoft 중단 인증
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

@@ -2,7 +2,6 @@
 title: Offers | Microsoft Docs
 description: 제안 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

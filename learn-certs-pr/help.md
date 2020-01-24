@@ -2,7 +2,6 @@
 title: Microsoft 교육 및 인증 도움말 | Microsoft Docs
 description: Microsoft 교육 및 인증 도움말
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

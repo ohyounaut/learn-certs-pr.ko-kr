@@ -1,15 +1,15 @@
 ### YamlMime:Role 
-title: Functional Consultant 
+title: 기능 컨설턴트
 metadata: 
-  title: Functional Consultant 
-  description: Functional consultants leverage Microsoft Dynamics 365 to anticipate and plan for customer needs. 
+  title: 기능 컨설턴트
+  description: 기능 컨설턴트는 Microsoft Dynamics 365를 활용하여 고객의 요구를 예측하고 계획합니다.  
 uid: role.functional-consultant 
 summary: | 
-  Functional consultants leverage Microsoft Dynamics 365 to anticipate and plan for customer needs.
-subTitle: Functional consultants leverage Microsoft Dynamics 365 to anticipate and plan for customer needs.
+  기능 컨설턴트는 Microsoft Dynamics 365를 활용하여 고객의 요구를 예측하고 계획합니다. 
+subTitle: 기능 컨설턴트는 Microsoft Dynamics 365를 활용하여 고객의 요구를 예측하고 계획합니다. 
 certificationPaths: 
-- title: Dynamics 365 Customer Service Functional Consultant
-  linkedInKeywords: Dynamics 365 Customer Service Functional Consultant
+- title: Dynamics 365 Customer Service 기능 컨설턴트
+  linkedInKeywords: Dynamics 365 Customer Service 기능 컨설턴트
   uid: certification-path.d365-functional-consultant-customer-service 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -20,8 +20,8 @@ certificationPaths:
     levels:
     - intermediate
     
-- title: Dynamics 365 Field Service Functional Consultant
-  linkedInKeywords: Dynamics 365 Field Service Functional Consultant
+- title: Dynamics 365 Field Service 기능 컨설턴트
+  linkedInKeywords: Dynamics 365 Field Service 기능 컨설턴트
   uid: certification-path.d365-functional-consultant-field-service 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -32,8 +32,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Dynamics 365 Finance Functional Consultant
-  linkedInKeywords: Dynamics 365 Finance Functional Consultant
+- title: Dynamics 365 Finance 기능 컨설턴트
+  linkedInKeywords: Dynamics 365 Finance 기능 컨설턴트
   uid: certification-path.d365-functional-consultant-financials 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -45,8 +45,8 @@ certificationPaths:
     - intermediate
 
 
-- title: Dynamics 365 Manufacturing Functional Consultant
-  linkedInKeywords: Dynamics 365 Manufacturing Functional Consultant
+- title: Dynamics 365 Manufacturing 기능 컨설턴트
+  linkedInKeywords: Dynamics 365 Manufacturing 기능 컨설턴트
   uid: certification-path.d365-functional-consultant-manufacturing
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -57,8 +57,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Dynamics 365 Marketing Functional Consultant
-  linkedInKeywords: Dynamics 365 Marketing Functional Consultant
+- title: Dynamics 365 Marketing 기능 컨설턴트
+  linkedInKeywords: Dynamics 365 Marketing 기능 컨설턴트
   uid: certification-path.d365-functional-consultant-marketing 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -69,8 +69,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Dynamics 365 Sales Functional Consultant
-  linkedInKeywords: Dynamics 365 Sales Functional Consultant
+- title: Dynamics 365 Sales 기능 컨설턴트
+  linkedInKeywords: Dynamics 365 Sales 기능 컨설턴트
   uid: certification-path.d365-functional-consultant-sales 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -81,8 +81,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Dynamics 365 Supply Chain Management Functional Consultant
-  linkedInKeywords: Dynamics 365 Supply Chain Management Functional Consultant
+- title: Dynamics 365 Supply Chain Management 기능 컨설턴트
+  linkedInKeywords: Dynamics 365 Supply Chain Management 기능 컨설턴트
   uid: certification-path.d365-functional-consultant-supply-chain-management
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -130,12 +130,12 @@ certifications:
   - uid: exam.mb-300
   - uid: exam.mb-330  
 resources:
-- title: Microsoft Training and Certifications Guide
-  description: Explore all certifications in a concise training and certifications guide.
+- title: Microsoft 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Training and Certifications Poster
-  description: Choose your path to success with this training and certifications poster.
+- title: 교육 및 인증 포스터
+  description: 이 교육 및 인증 포스터를 통해 성공을 위한 길을 선택합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Support for certifications
+- title: 인증 지원
   href: ../help.md
-  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.

@@ -2,7 +2,6 @@
 title: 'certification-exam-policies | Microsoft Docs'
 description: 'certification-exam-policies' 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

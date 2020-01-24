@@ -2,7 +2,6 @@
 title: Microsoft Certified Trainer 취득 | Microsoft Docs'
 description: Microsoft Certified Trainer 취득 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
