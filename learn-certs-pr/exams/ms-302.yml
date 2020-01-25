@@ -8,7 +8,7 @@ displayName: MS-302
 summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>본 시험 내용은 2019년 9월 30일에 중단되었습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다<br/><br/></div>
      
-  본 시험은 [시험 70-339](https://www.microsoft.com/ko-kr/learning/exam-70-339.aspx)&#58; Microsoft SharePoint Server 2016 관리에 응시한 응시자들만 응시할 수 있습니다. 시험 339에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.
+  본 시험은 [시험 70-339](https://www.microsoft.com/learning/exam-70-339.aspx)&#58; Microsoft SharePoint Server 2016 관리에 응시한 응시자들만 응시할 수 있습니다. 시험 339에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.
 
   본 시험은 효율적이고 효과적인 협업 및 활용에 초점을 맞춘 Office 365 및 Azure 워크로드의 구성, 배포 및 관리를 담당하는 Teamwork Administrator를 대상으로 실시됩니다. Teamwork Administrator는 비즈니스 요구 사항을 충족시키기 위해 앱, 서비스 및 지원 인프라를 관리합니다. Teamwork Administrator는 SharePoint (Online, 온-프레미스, 하이브리드), OneDrive 및 Teams의 배포, 관리, 마이그레이션 및 보안에 관한 능력이 있어야 합니다.
 
@@ -50,7 +50,7 @@ resources:
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
-  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

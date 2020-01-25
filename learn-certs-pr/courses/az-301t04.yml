@@ -14,7 +14,7 @@ skillsGained:
 - skill: 하나 이상의 가상 머신에 사용할 가용성 집합 설계.
 - skill: 장애 도메인과 업데이트 도메인의 차이점 설명.
 - skill: VM 확장 집합 ARM 템플릿 작성.
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

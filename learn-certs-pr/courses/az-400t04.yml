@@ -17,7 +17,7 @@ skillsGained:
 - skill: 기업 표준을 준수하는 보안 및 라이센스 규정 준수를 위한 오픈 소스 소프트웨어 패키지 검사
 - skill: 패키지 보안 및 라이선스 등급 액세스 빌드 파이프라인 구성
 - skill: 패키지 피드 보안 액세스 구성
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

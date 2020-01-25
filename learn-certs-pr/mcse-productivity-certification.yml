@@ -6,12 +6,12 @@ metadata:
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/ko-kr/learning/m365-enterprise-administrator.aspx)가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.
+  인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.
   
   MCSE Productivity Solutions Expert가 되려면 다음 요구 사항을 충족해야 합니다&#58;
   - 한 개의 필수 자격증 취득
-    - 필수 선택사항 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/ko-kr/learning/mcsa-windows-server-certification.aspx)
-    - 필수 선택사항 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/ko-kr/learning/mcsa-windows-server-2016-certification.aspx)
+    - 필수 선택사항 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
+    - 필수 선택사항 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - 다음 시험 중 하나 통과
     - [70-333&#58; Skype for Business 2015로 Enterprise Voice 배포](/learn/certifications/exams/70-333)
     - [70-334&#58; Microsoft Skype for Business의 핵심 솔루션](/learn/certifications/exams/70-334)
@@ -53,4 +53,4 @@ resources:
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
-  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

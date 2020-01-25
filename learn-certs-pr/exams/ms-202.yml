@@ -8,7 +8,7 @@ displayName: MS-202
 summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>본 시험 내용은 2019년 9월 30일에 중단되었습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다<br/> <br/> </div>
     
-  본 시험은 [시험 70-345](https://www.microsoft.com/ko-kr/learning/exam-70-345.aspx)&#58; Microsoft Exchange Server 2016 설계 및 배포에 응시한 응시자들만 응시할 수 있습니다. 시험 345에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.
+  본 시험은 [시험 70-345](https://www.microsoft.com/learning/exam-70-345.aspx)&#58; Microsoft Exchange Server 2016 설계 및 배포에 응시한 응시자들만 응시할 수 있습니다. 시험 345에 응시하지 않은 응시자는 이 시험을 보더라도 인증을 취득할 수 없습니다.
 
   이 시험은 온-프레미스 및 cloud 엔터프라이즈 환경에서 메일 , 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링하는 메시징 관리자를 대상 응시자로 합니다.
 
@@ -51,7 +51,7 @@ resources:
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
-  href: https://www.microsoft.com/ko-kr/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

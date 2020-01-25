@@ -7,7 +7,7 @@ uid: course.dp-200t01
 courseNumber: 'DP-200T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -37,7 +37,7 @@ summary: |-
   본 과정의 주요 대상 그룹은 Microsoft Azure에 존재하는 데이터 플랫폼 기술에 대해 알고 싶어하는 데이터 전문가, 데이터 설계자 및 비즈니스 인텔리전스 전문가입니다. 이 과정의 두 번째 대상 그룹은 Microsoft Azure에 있는 데이터 플랫폼 기술을 통해 콘텐츠를 제공하는 애플리케이션을 개발하는 전문가입니다.
 prerequisitesSection: |-
   전문적인 경험 외에도, 본 교육을 받는 수강생은 다음 과정에 해당하는 기술 지식을 갖추어야 합니다&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/ko-kr/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### 모듈 1&#58; 데이터 엔지니어 용 Azure
   이 모듈에서는 데이터 세계가 어떻게 발전해왔는지, 그리고 클라우드 데이터 플랫폼 기술이 어떻게 기업에게 다양한 방식으로 데이터를 탐색할 수 있는 새로운 기회를 제공하는지에 대해 알아봅니다. 사용 가능한 다양한 데이터 플랫폼 기술과 데이터 엔지니어의 역할 및 책임이 어떻게 조직의 이익을 위해 새로운 환경에서 작동하도록 진화했는지에 대해 간략히 설명합니다.

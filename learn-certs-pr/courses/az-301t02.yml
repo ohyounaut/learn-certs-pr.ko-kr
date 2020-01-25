@@ -17,7 +17,7 @@ skillsGained:
 - skill: Azure에서 호스팅되는 솔루션에 대한 경고 체계 설계.
 - skill: Azure에서 호스팅되는 인프라 및 데이터에 적합한 백업 옵션 선택.
 - skill: 백업 복구 또는 확장 목적으로 향후 리소스 배포 자동화.
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

@@ -22,7 +22,7 @@ skillsGained:
 - skill: 원격 분석을 통한 기준 설정
 - skill: 실시간 사이트 검토 수행 및 시스템 중단 관련 피드백 확보
 - skill: 의미 없거나 조치 불가능한 경고를 줄이기 위한 지속적인 세부 조정 수행
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

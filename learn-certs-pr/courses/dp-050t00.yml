@@ -13,7 +13,7 @@ skillsGained:
 - skill: SQL 워크로드를 Azure 가상 머신으로 마이그레이션
 - skill: SQL 워크로드를 Azure SQL 데이터베이스로 마이그레이션
 - skill: SQL 워크로드를 Azure SQL Database Managed Instance로 마이그레이션
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

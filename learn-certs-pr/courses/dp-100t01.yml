@@ -7,7 +7,7 @@ uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -26,7 +26,7 @@ summary: |-
   본 과정은 데이터 과학자와 기계 학습 모델을 교육하고 배포하는 데 있어 중요한 책임이 있는 사람들을 대상으로 합니다.
 prerequisitesSection: |-
   이 과정에 참석하기 전에 학생들은 다음을 숙지해야 합니다&#58;
-  - [Azure Fundamentals certification] 취득 (https://docs.microsoft.com/ko-kr/learn/certifications/azure-fundamentals).
+  - [Azure Fundamentals certification] 취득 (https://docs.microsoft.com/learn/certifications/azure-fundamentals).
   - 데이터를 준비하고, 모델을 교육하고, 경쟁 모델을 평가하여 최적의 모델을 선택하는 방법을 포함한 데이터 과학 이해.
   - Python 프로그래밍 언어로 프로그래밍하는 방법 및 pandas, scikit-learn, matplotlib, 및 seaborn 등의 Python 라이브러리를 사용하는 방법.
 outlineSection: |-
