@@ -15,7 +15,7 @@ skillsGained:
 - skill: Chef, Puppet, Ansible, SaltStack, 및 Terraform 등 Azure에서 제공되는 타사 도구 및 서비스를 사용한 인프라 배포 및 구성
 - skill: 인프라 및 구성 전략과 릴리스 파이프라인 및 애플리케이션 인프라에 적합한 도구 집합 정의
 - skill: 애플리케이션 인프라에서 규정 준수 및 보안 구현
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

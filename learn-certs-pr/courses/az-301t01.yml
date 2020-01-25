@@ -16,7 +16,7 @@ skillsGained:
 - skill: Cognitive Services에서 사용 가능한 다양한 API 세부 사항.
 - skill: Face API, Speech API 또는 Language Understanding(LUIS) 서비스를 사용할 시기 식별.
 - skill: Bot Framework와 Azure Bot Services와의 관계 설명.
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

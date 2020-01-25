@@ -16,7 +16,7 @@ skillsGained:
 - skill: 신뢰할 수 있는 컬렉션으로 실습
 - skill: Azure Container Registry 이해
 - skill: Azure Container Instances 사용
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

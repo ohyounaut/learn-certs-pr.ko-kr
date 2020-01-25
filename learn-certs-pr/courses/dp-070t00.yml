@@ -10,7 +10,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 온-프레미스 MySQL을 MySQL용 Azure SQL DB로 마이그레이션
 - skill: 온-프레미스 PostgreSQL을 PostgreSQL 용 Azure SQL DB로 마이그레이션
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

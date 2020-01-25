@@ -20,7 +20,7 @@ skillsGained:
 - skill: Exchange Server 모니터 및 문제 해결.
 - skill: Exchange Server 역할 기반 액세스 제어 권한을 구성 및 관리자와 사용자 모두에 대해 감사 로그 구성.
 - skill: Exchange Online과의 통합 구현 및 관리.
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

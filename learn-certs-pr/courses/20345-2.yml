@@ -20,7 +20,7 @@ skillsGained:
 - skill: Exchange Server 조직 간의 메시징 동시 사용 설계 및 구현.
 - skill: 이전 버전의 Exchange Server를 Exchange Server 2019로 업그레이드 계획 및 구현.
 - skill: 하이브리드 Exchange 배포 계획.
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

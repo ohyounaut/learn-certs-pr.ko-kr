@@ -12,7 +12,7 @@ skillsGained:
 - skill: Azure Portal, Cloud Shell, Azure PowerShell, CLI 및 리소스 관리자 활용
 - skill: VNet 피어링 및 VNet간 연결을 포함한 사이트 간 연결 기능 사용
 - skill: Azure Active Directory(AAD) 및 Azure AD Connect로 작업
-learningPartnersLink: https://www.microsoft.com/ko-kr/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
