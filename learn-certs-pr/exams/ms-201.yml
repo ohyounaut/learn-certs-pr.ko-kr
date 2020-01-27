@@ -1,24 +1,27 @@
 ### YamlMime:Examination
-title: 하이브리드 및 보안 메시징 플랫폼 구현에서 측정된 기술
+title: Implementing a Hybrid and Secure Messaging Platform
 metadata:
-  title: '시험 MS-201: 하이브리드 및 보안 메시징 플랫폼 구현'
-  description: '시험 MS-201: 하이브리드 및 보안 메시징 플랫폼 구현'
+  title: '시험 MS-201: Implementing a Hybrid and Secure Messaging Platform'
+  description: '시험 MS-201: Implementing a Hybrid and Secure Messaging Platform'
 uid: exam.ms-201
 displayName: MS-201
-summary: |-
+summary: >-
   본 시험은 온-프레미스 및 클라우드 엔터프라이즈 환경에서 메일, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링하는 메시징 관리자를 대상 응시자로 합니다.
+
 
   메시징 관리자는 예방 조치, 메시징 인프라, 하이브리드 구성, 마이그레이션, 재해 복구, 고가용성, 클라이언트 액세스를 관리할 수 있어야 합니다.
 
+
   메시징 관리자는 Security Administrator 및 Microsoft 365 Enterprise Administrator와 협력하여 요즘 조직의 비즈니스 니즈를 충족시키는 보안 하이브리드 토폴로지를 구현할 수 있어야 합니다.
 
+
   메시징 관리자는 인증 유형, 라이선스 및 Microsoft 365 애플리케이션과의 통합에 관한 실무 지식을 갖추어야 합니다.
-subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 하이브리드 구성 및 마이그레이션 계획 구현, 메시징 환경 보안, 조직 설정 관리 및 관리.'
+subTitle: 본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 하이브리드 구성 및 마이그레이션 계획 구현, 메시징 환경 보안, 조직 설정 관리 및 관리.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-201&examname=시험%20MS-201:%20하이브리드%20및%20보안%20메시징%20플랫폼%20구현&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-201
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-201&examname=시험%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-201
 levels:
 - intermediate
 skills:
@@ -27,10 +30,10 @@ skills:
 - 최적화 설정 관리 (15-20%)
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-200
+products:
+- m365
 courses:
 - uid: course.ms-201t01
 - uid: course.ms-201t02

@@ -1,24 +1,27 @@
 ### YamlMime:Examination
-title: SharePoint Server 하이브리드 배포
+title: Deploying SharePoint Server Hybrid
 metadata:
-  title: '시험 MS-301: SharePoint Server 하이브리드 배포'
-  description: '시험 MS-301: SharePoint Server 하이브리드 배포'
+  title: '시험 MS-301: Deploying SharePoint Server Hybrid'
+  description: '시험 MS-301: Deploying SharePoint Server Hybrid'
 uid: exam.ms-301
 displayName: MS-301
-summary: |-
+summary: >-
   본 시험은 효율적이고 효과적인 협업 및 활용에 초점을 맞춘 Office 365 및 Azure 워크로드의 구성, 배포 및 관리를 담당하는 Teamwork Administrator를 대상으로 실시됩니다. Teamwork Administrator는 비즈니스 요구 사항을 충족시키기 위해 앱, 서비스 및 지원 인프라를 관리합니다. Teamwork Administrator는 SharePoint (Online, 온-프레미스, 하이브리드), OneDrive 및 Teams의 배포, 관리, 마이그레이션 및 보안에 관한 능력이 있어야 합니다.
+
   <br/>
+
 
   Teamwork Administrator는 거버넌스 관련 결정을 내리고 다른 관리자와 협력하여 거버넌스 기관의 여러 가지 결정을 이행합니다. Teamwork Administrator는 Messaging Administrator와 협력하여 이메일 작업과 관련된 옵션 및 보안, 조직의 음성 관련 기능을 통합하는 Voice Administrator 및 Security Administrator를 구성하여 종단간 보안을 보장합니다.
 
+
   본 시험의 응시자는 다음과 같은 앱 및 서비스와의 통합 지점을 기본적으로 이해하고 있습니다&#58; Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner, 및 Project. 관리자는 기간 업무(LOB) 비즈니스 앱을 비롯한 타사 앱 및 서비스를 통합하는 방법을 알아야 합니다. 응시자는 SQL Server 관리 개념, Azure Active Directory, PowerShell, 네트워킹, Windows Server 관리, DNS (Domain Name System), Active Directory 모바일 장치 관리 및 대체 Operating Systems에 대해서도 이해해야 합니다.
-subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 온-프레미스 SharePoint 구성 및 관리, 하이브리드 시나리오 구성 및 관리, SharePoint Online으로 마이그레이션.'
+subTitle: 본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 온-프레미스 SharePoint 구성 및 관리, 하이브리드 시나리오 구성 및 관리, SharePoint Online으로 마이그레이션.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8S
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-301&examname=시험%20MS-301:%20SharePoint%20Server%20하이브리드%20배포&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-301
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-301&examname=시험%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-301
 levels:
 - intermediate
 skills:
@@ -27,14 +30,14 @@ skills:
 - SharePoint Online으로의 마이그레이션 (5-10%)
 roles:
 - administrator
+exams:
+- uid: exam.ms-300
 products:
 - m365
 - office-sp
 - office-onedrive
 - office-teams
 - office-yammer
-exams:
-- uid: exam.ms-300
 courses:
 - uid: course.ms-301t01
 - uid: course.ms-301t02
@@ -45,7 +48,7 @@ relatedCertifications:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: 인증서 학습 경로
-  description: '다음의 Microsoft 인증을 받기 위한 교육 리소스를 확인하십시오: Teamwork Administrator Associate.'
+  description: '다음의 Microsoft 인증을 받기 위한 교육 리소스를 확인하십시오 Microsoft Certified: Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.

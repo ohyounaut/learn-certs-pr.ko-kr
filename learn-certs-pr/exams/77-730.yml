@@ -1,20 +1,22 @@
 ### YamlMime:Examination
-title: 'Access 2016: 핵심 데이터베이스 관리, 조작 및 쿼리 기술'
+title: 'Access 2016: Core Database Management, Manipulation, and Query Skills'
 metadata:
-  title: '시험 77-730: Access 2016: 핵심 데이터베이스 관리, 조작 및 쿼리 기술'
-  description: '시험 77-730: Access 2016: 핵심 데이터베이스 관리, 조작 및 쿼리 기술'
+  title: '시험 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
+  description: '시험 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
 uid: exam.77-730
 displayName: 77-730
-summary: |
+summary: >
   Access 2016 시험 응시자는 해당 애플리케이션 환경을 철저하게 이해하고 있어야 합니다. 응시자는 기본 데이터베이스 설계 원칙을 이해하고 스스로 작업을 완료할 수 있어야 합니다. 응시자는 Access 2016의 기본 기능을 올바르게 알고 이를 보여 주며, 테이블, 관계, 데이터 입력 양식, 다중 수준 보고서 및 다중 테이블 쿼리를 포함하여 기본 Access 데이터베이스 개체를 만들고 유지 관리하는 기능을 보여야 합니다.
 
+
   Microsoft Office Specialist(MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다&#58;
+
   - MOS 2016 시험 과제 지침에는 일반적으로 이전 버전과 마찬가지로 명령 이름이 포함되지 않습니다. 예를 들어, 함수 이름이 제공되지 않고 설명자로 대체됩니다. 즉, 응시자는 각 프로젝트의 작업을 성공적으로 완료하려면 애플리케이션 기능의 목적과 일반적인 용도를 이해하고 있어야 합니다.
+
   - MOS 2016 시험 형식에는 여러 프로젝트가 포함됩니다.
 subTitle: Access 2016 시험 응시자는 해당 애플리케이션 환경을 철저하게 이해하고 있어야 합니다. 응시자는 기본 데이터베이스 설계 원칙을 이해하고 스스로 작업을 완료할 수 있어야 합니다. 응시자는 Access 2016의 기본 기능을 올바르게 알고 이를 보여 주며, 테이블, 관계, 데이터 입력 양식, 다중 수준 보고서 및 다중 테이블 쿼리를 포함하여 기본 Access 데이터베이스 개체를 만들고 유지 관리하는 기능을 보여야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
-scheduleExamUrl: http://www.certiport.com/locator
 providers:
   - providerType: certiport
     examUrl: http://www.certiport.com/locator
@@ -27,7 +29,10 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - 데이터베이스 만들기 및 관리 (20-25%)

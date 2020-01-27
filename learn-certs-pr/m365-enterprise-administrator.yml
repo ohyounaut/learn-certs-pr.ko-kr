@@ -1,23 +1,22 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 인증: Enterprise Administrator Expert'
+title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
-  title: 'Microsoft 365 인증: Enterprise Administrator Expert'
-  description: 'Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.'
+  title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
+summary: Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
 subTitle: Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
 levels:
 - advanced
 skills:
 - Microsoft 365 서비스 설계 및 구현
-- 사용자 ID 관리 및 역할 관리 
-- 액세스 및 인증 관리 
+- 사용자 ID 관리 및 역할 관리
+- 액세스 및 인증 관리
 - Office 365 워크로드 및 애플리케이션 계획
 - 최신 장치 서비스 구현
 - Microsoft 365 보안 및 위협 관리 구현
-- Microsoft 365 거버넌스 및 준수 관리 
+- Microsoft 365 거버넌스 및 준수 관리
 roles:
 - administrator
 type: role-based

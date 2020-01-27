@@ -1,20 +1,25 @@
 ### YamlMime:Examination
-title: 'Excel 2016: 핵심 데이터 분석, 조작 및 프레젠테이션'
+title: 'Excel 2016: Core Data Analysis, Manipulation, and Presentation'
 metadata:
-  title: '시험 77-727: Excel 2016: 핵심 데이터 분석, 조작 및 프레젠테이션'
-  description: '시험 77-727: Excel 2016: 핵심 데이터 분석, 조작 및 프레젠테이션'
+  title: '시험 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
+  description: '시험 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
 uid: exam.77-727
 displayName: 77-727
-summary: |
+summary: >
   Microsoft Office Specialist Excel 2016 인증 시험의 응시자는 Excel 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 응시자는 Excel 2016의 주요 기능의 정확한 적용 방법을 알고 그것을 증명할 수 있어야 합니다. 응시자는 여러 시트로 된 통합 문서를 만들어 편집하고, 그래픽 요소를 사용하여 데이터를 시각적으로 표현합니다. 통합 문서 예제에는 전문가 수준의 예산, 재무제표, 팀 성과 차트, 매매 송장 및 데이터 입력 로그가 포함됩니다.
 
+
   Microsoft Office Specialist(MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다&#58;
+
   - MOS 2016 시험 과제 지침에는 일반적으로 이전 버전과 마찬가지로 명령 이름이 포함되지 않습니다. 예를 들어, 함수 이름이 제공되지 않고 설명자로 대체됩니다. 즉, 응시자는 각 프로젝트의 작업을 성공적으로 완료하려면 애플리케이션 기능의 목적과 일반적인 용도를 이해하고 있어야 합니다.
+
   - MOS 2016 시험 형식에는 여러 프로젝트가 포함됩니다.
 subTitle: Microsoft Office Specialist Excel 2016 인증 시험의 응시자는 Excel 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 응시자는 Excel 2016의 주요 기능의 정확한 적용 방법을 알고 그것을 증명할 수 있어야 합니다. 응시자는 여러 시트로 된 통합 문서를 만들어 편집하고, 그래픽 요소를 사용하여 데이터를 시각적으로 표현합니다. 통합 문서 예제에는 전문가 수준의 예산, 재무제표, 팀 성과 차트, 매매 송장 및 데이터 입력 로그가 포함됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
-scheduleExamUrl: http://www.certiport.com/locator
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -33,7 +38,7 @@ locales:
 - ru
 - th
 - tr
-levels: 
+levels:
 - intermediate
 skills:
 - 워크시트 및 워크북 만들기 및 관리 (30-35%)

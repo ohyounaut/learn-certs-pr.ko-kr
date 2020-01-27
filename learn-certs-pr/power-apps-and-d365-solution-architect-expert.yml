@@ -1,14 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 인증: Power Apps + Dynamics 365 Solution Architect Expert'
+title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
 metadata:
-  title: 'Microsoft 인증: Power Apps + Dynamics 365 Solution Architect Expert'
+  title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
   description: Dynamics 365의 Microsoft Power Apps 모델 기반 앱을 위한 솔루션 아키텍처는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중심을 둡니다.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Dynamics 365의 Microsoft Power Apps 모델 기반 앱을 위한 솔루션 아키텍처는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중심을 둡니다.  
-  
-  <div style="color:red"><br/><strong>NOTE&#58; 본 인증은 2020 년 1 월 27 일 이후에 사용할 수 있습니다</strong></div>
+summary: "Dynamics 365의 Microsoft Power Apps 모델 기반 앱을 위한 솔루션 아키텍처는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중심을 둡니다.  \n\n<div style=\"color:red\"><br/><strong>NOTE&#58; 본 인증은 2020 년 1 월 27 일 이후에 사용할 수 있습니다</strong></div>"
 subTitle: Dynamics 365의 Microsoft Power Apps 모델 기반 앱을 위한 솔루션 아키텍처는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중심을 둡니다.
 levels:
 - advanced
@@ -22,9 +19,6 @@ type: role-based
 products:
 - dynamics
 - power-apps
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
-exams:
-- uid: exam.mb-600
 prerequisites:
 - uid: certification.power-apps-and-d365-developer-associate
   isOptional: false
@@ -33,9 +27,12 @@ prerequisites:
 - uid: certification.d365-functional-consultant-marketing
   isOptional: false
 - uid: certification.d365-functional-consultant-customer-service
-  isOptional: false  
+  isOptional: false
 - uid: certification.d365-functional-consultant-field-service
   isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
+exams:
+- uid: exam.mb-600
 resources:
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.

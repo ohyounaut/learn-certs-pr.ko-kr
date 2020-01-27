@@ -1,21 +1,20 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 인증: Messaging Administrator Associate'
+title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
-  title: 'Microsoft 365 인증: Messaging Administrator Associate'
-  description: 'Microsoft 365 Messaging 관리자는 온-프레미스, 하이브리드 및 cloud 엔터프라이즈 환경에서 메시징 인프라, 사용 권한, 클라이언트액세스, 메일 보호, 메일 흐름을 배포, 구성, 관리 및 모니터링합니다.'
+  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+  description: Microsoft 365 Messaging 관리자는 온-프레미스, 하이브리드 및 cloud 엔터프라이즈 환경에서 메시징 인프라, 사용 권한, 클라이언트액세스, 메일 보호, 메일 흐름을 배포, 구성, 관리 및 모니터링합니다.
 uid: certification.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft 365 Messaging 관리자는 온-프레미스, 하이브리드 및 cloud 엔터프라이즈 환경에서 메시징 인프라, 사용 권한, 클라이언트액세스, 메일 보호, 메일 흐름을 배포, 구성, 관리 및 모니터링합니다.
+summary: Microsoft 365 Messaging 관리자는 온-프레미스, 하이브리드 및 cloud 엔터프라이즈 환경에서 메시징 인프라, 사용 권한, 클라이언트액세스, 메일 보호, 메일 흐름을 배포, 구성, 관리 및 모니터링합니다.
 subTitle: Microsoft 365 Messaging 관리자는 온-프레미스, 하이브리드 및 cloud 엔터프라이즈 환경에서 메시징 인프라, 사용 권한, 클라이언트액세스, 메일 보호, 메일 흐름을 배포, 구성, 관리 및 모니터링합니다.
 levels:
 - intermediate
 skills:
-- 최신 메시징 인프라 설계 
-- 메일 흐름 토폴로지 관리 
-- 수신인 및 장치 관리 
-- 하이브리드 구성 및 마이그레이션 계획 및 구현 
-- 메시징 환경 보안 
+- 최신 메시징 인프라 설계
+- 메일 흐름 토폴로지 관리
+- 수신인 및 장치 관리
+- 하이브리드 구성 및 마이그레이션 계획 및 구현
+- 메시징 환경 보안
 - 조직 설정 관리
 roles:
 - administrator

@@ -5,17 +5,18 @@ metadata:
   description: '시험 70-339: Managing Microsoft SharePoint Server 2016'
 uid: exam.70-339
 displayName: 70-339
-summary: |-
+summary: >-
   본 시험은 데이터 센터 및 클라우드에서 SharePoint 2016을 설치, 구성, 배포 및 관리하는 숙련된 IT 전문가를 대상으로 합니다. 일반적으로 응시자는 SharePoint 및 SharePoint가 의존하는 기타 핵심 기술(Windows Server 2008 R2 이상, IIS(인터넷 정보 서비스), SQL Server 2008 R2 이상, Active Directory 및 네트워킹 인프라 서비스)을 계획하고 유지 관리한 4년 이상의 실무 경력을 갖고 있습니다.
 
+
   또한 응시자는 인증 및 보안 기술에 대한 경험 외에 데이터 백업, 복원 및 고가용성을 포함한 비즈니스 연속성 관리에 대한 경험을 갖고 있어야 합니다. PowerShell 경험이 있으면 더욱 좋습니다.
+
 
   본 시험의 2차 대상은 SharePoint 2016을 사용하는 내부 비즈니스 고객과 함께 LOB(기간 업무) 프로젝트를 관리하는 데 적극적으로 참여하고 있는 BAA(비즈니스 응용 프로그램 관리자)입니다.
 subTitle: 본 시험은 데이터 센터 및 클라우드에서 SharePoint 2016을 설치, 구성, 배포 및 관리하는 숙련된 IT 전문가를 대상으로 합니다. 일반적으로 응시자는 SharePoint 및 SharePoint가 의존하는 기타 핵심 기술(Windows Server 2008 R2 이상, IIS(인터넷 정보 서비스), SQL Server 2008 R2 이상, Active Directory 및 네트워킹 인프라 서비스)을 계획하고 유지 관리한 4년 이상의 실무 경력을 갖고 있습니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en
 - es
@@ -25,7 +26,8 @@ locales:
 - de
 - ja
 - pt-br
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2F70-339
+levels:
 - intermediate
 skills:
 - SharePoint 인프라 설계 (15–20%)

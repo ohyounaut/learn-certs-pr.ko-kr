@@ -1,25 +1,29 @@
 ### YamlMime:Examination
-title: 최신 데스크탑 관리
+title: Managing Modern Desktops
 metadata:
-  title: '시험 MD-101: 최신 데스크탑 관리'
-  description: '시험 MD-101: 최신 데스크탑 관리'
+  title: '시험 MD-101: Managing Modern Desktops'
+  description: '시험 MD-101: Managing Modern Desktops'
 uid: exam.md-101
 displayName: MD-101
-summary: |-
+summary: >-
   2019년 3월 31일 시험이 만료되기 전에 [70-698](https://www.microsoft.com/learning/exam-70-698.aspx) 을 통과했다면, MD-101만 치르면 최신 데스크탑 인증을 받을 수 있습니다. 본 시험은 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리, 모니터링하는 관리자를 대상으로 실시됩니다. 응시자는 ID, 액세스, 정책, 업데이트 및 앱을 관리하는 능력을 측정받습니다.
+
   <br/>
+
 
   관리자로서, 응시자는 일반적으로 Microsoft 365 Enterprise Administrator와 협력하여 현대적인 조직에서 요구하는 비즈니스 요구 사항을 충족시키는 장치 전략을 설계 및 구현하게 됩니다.
+
   <br/>
 
+
   응시자는 Microsoft 365 워크로드에 익숙해야하며 Windows 10 및 비 Windows 장치 및 기술의 배포, 구성, 유지 관리에 능숙하여야 하며, 관련 경험을 갖추어야 합니다.
-subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 운영 체제 배포 및 업데이트, 정책 및 프로필 관리, 장치 관리 및 보호, 앱 및 데이터 관리. 2019년 3월 31일 시험이 만료되기 전에 시험 70-698을 통과했다면, MD-101만 치르면 최신 데스크탑 인증을 받을 수 있습니다.'
+subTitle: 본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 운영 체제 배포 및 업데이트, 정책 및 프로필 관리, 장치 관리 및 보호, 앱 및 데이터 관리. 2019년 3월 31일 시험이 만료되기 전에 시험 70-698을 통과했다면, MD-101만 치르면 최신 데스크탑 인증을 받을 수 있습니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MD-101&examname=시험%20MD-101:%20최신%20데스크탑%20관리&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MD-101&examname=시험%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
@@ -29,11 +33,11 @@ skills:
 - 앱 및 데이터 관리 (25-30%)
 roles:
 - administrator
+exams:
+- uid: exam.md-100
 products:
 - m365
 - windows
-exams:
-- uid: exam.md-100
 courses:
 - uid: course.md-101t01
 - uid: course.md-101t02
@@ -43,7 +47,7 @@ relatedCertifications:
     uid: certification.modern-desktop
 resources:
 - title: 인증서 학습 과정
-  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다. Modern Desktop Administrator Associate.'
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.

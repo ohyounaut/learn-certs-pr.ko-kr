@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 인증: Azure DevOps 엔지니어 전문가'
+title: 'Microsoft Certified: Azure DevOps Engineer Expert'
 metadata:
-  title: 'Microsoft 인증: Azure DevOps 엔지니어 전문가'
-  description: 'Azure DevOps 전문가는 사람, 프로세스 및 Technologies을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치있는 제품과 서비스를 지속적으로 제공합니다.'
+  title: 'Microsoft Certified: Azure DevOps Engineer Expert'
+  description: Azure DevOps 전문가는 사람, 프로세스 및 Technologies을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치있는 제품과 서비스를 지속적으로 제공합니다.
 uid: certification.azure-devops
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Azure DevOps 전문가는 사람, 프로세스 및 Technologies을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치있는 제품과 서비스를 지속적으로 제공합니다.
+summary: Azure DevOps 전문가는 사람, 프로세스 및 Technologies을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치있는 제품과 서비스를 지속적으로 제공합니다.
 subTitle: Azure DevOps 전문가는 사람, 프로세스 및 Technologies을 결합하여 최종 사용자의 요구 사항과 비즈니스 목표를 충족시키는 가치있는 제품과 서비스를 지속적으로 제공합니다.
 levels:
 - advanced
@@ -27,11 +26,6 @@ products:
 - azure-kubernetes-service
 - azure-container-instances
 - azure-automation
-paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -45,12 +39,17 @@ prerequisites:
   isOptional: false
 - uid: certification.azure-developer
   isOptional: false
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84
 exams:
 - uid: exam.az-400
 resources:
 - title: 인증서 학습 과정
-  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Azure DevOps Engineer Expert.'
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Azure DevOps Engineer Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.

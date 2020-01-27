@@ -1,17 +1,22 @@
 ### YamlMime:Examination
-title: 교육자용 기술 이해도 측정
+title: Technology Literacy for Educators
 metadata:
-  title: '시험 62-193: 교육자용 기술 이해도 측정'
-  description: '시험 62-193: 교육자용 기술 이해도 측정'
+  title: '시험 62-193: Technology Literacy for Educators'
+  description: '시험 62-193: Technology Literacy for Educators'
 uid: exam.62-193
 displayName: 62-193
-summary: |-
+summary: >-
   이 시험은 교육자 지망생, 현직 교육자, 교수 교육 및 예비 교수 교육생, 교육 관리 담당자 또는 기타 자격 검증을 원하는 응시자를 대상으로 실시됩니다.
+
 
   MCE&#58; 교육자용 기술 이해도 측정 인증 시험은 21CLD(21세기형 교육 설계) 체계로 측정된 타당하고 신뢰할 수 있는 역량을 증명하기 위해 고안된 중간 수준의 시험입니다.
 subTitle: 이 시험은 교육자 지망생, 현직 교육자, 교수 교육 및 예비 교수 교육생, 교육 관리 담당자 또는 기타 자격 검증을 원하는 응시자를 대상으로 실시됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=62-193&examname=교육자용%20기술%20이해도%20측정&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2F62-193
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2F62-193
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - de
@@ -22,7 +27,7 @@ locales:
 - ru
 - pl
 - ja
-levels: 
+levels:
 - beginner
 skills:
 - 학생 협업 능력 촉진

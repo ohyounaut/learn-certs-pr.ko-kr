@@ -5,22 +5,27 @@ metadata:
   description: 'MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
 uid: exam.mb-320
 displayName: MB-320
-summary: |-
+summary: >-
   본 시험의 응시자는 비즈니스 요구 사항을 분석하고 이러한 요구 사항을 업계 최고의 모범 사례를 구현하는 완전히 현실화된 비즈니스 프로세스 및 솔루션으로 변환하는 기능 컨설턴트입니다. 응시자는 애플리케이션을 구현하고 구성하여 비즈니스 요구 사항을 충족시키는 핵심 자원으로 사용됩니다.
+
   <br/>
 
+
   이 시험의 응시자는 비즈니스의 회계 원칙 및 금융 운영, 고객 서비스, 현장 서비스, 제조, 소매 및 공급망 관리 개념에 관한 기초적인 수준의 이해를 갖추어야 합니다.
+
   <br/>
+
 
   본 시험의 응시자는 일반적으로 금융, 제조 및 공급망 관리를 포함하여 하나 이상의 Microsoft Dynamics 365 Finance 기능을 전문적으로 담당해야 합니다.
 
+
   응시자는 기본 회계 원칙 및 관행에 대한 지식을 가지고 있어야 합니다.
-subTitle: '본 시험은 다음과 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다. 제조 설정 및 구성, 생산 및 린 오더 생성 및 관리, 생산 배치 오더 생성, 처리 및 관리.'
+subTitle: 본 시험은 다음과 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다. 제조 설정 및 구성, 생산 및 린 오더 생성 및 관리, 생산 배치 오더 생성, 처리 및 관리.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVs
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-320&examname=시험%20MB-320:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-320
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-320&examname=시험%20MB-320:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-320
 levels:
 - intermediate
 skills:
@@ -29,11 +34,11 @@ skills:
 - 생산 배치 오더 생성, 처리 및 관리 (40-45%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-finance-operations
 exams:
 - uid: exam.mb-300
+products:
+- dynamics
+- dynamics-finance-operations
 courses:
 - uid: course.mb-320t01
 - uid: course.mb-320t02
@@ -48,7 +53,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-manufacturing
 resources:
 - title: 인증서 학습 경로
-  description: '다음의 Microsoft 인증을 받기 위한 교육 리소스를 확인하십시오: Dynamics 365 공급망 관리, Manufacturing Functional Consultant Associate.'
+  description: '다음의 받기 위한 교육 리소스를 확인하십시오 Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
