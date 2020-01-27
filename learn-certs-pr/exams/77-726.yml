@@ -1,22 +1,25 @@
 ### YamlMime:Examination
-title: 'Word 2016 Expert: 효율적인 커뮤니케이션을 위한 문서 생성'
+title: 'Word 2016 Expert: Creating Documents for Effective Communication'
 metadata:
-  title: '시험 77-726: Word 2016 Expert: 효율적인 커뮤니케이션을 위한 문서 생성'
-  description: '시험 77-726: Word 2016 Expert: 효율적인 커뮤니케이션을 위한 문서 생성'
+  title: '시험 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
+  description: '시험 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
 uid: exam.77-726
 displayName: 77-726
-summary: |
+summary: >
   Word 2016 시험의 전문가 수준 응시자는 Word 2016의 고급 기능을 문서 및 컨텐츠 관리 및 고급 서식을 능숙하게 사용합니다.
+
 
   응시자는 다양한 특수 목적 및 상황을 위해 4페이지 이상의 전문적인 문서를 작성하고 관리합니다. 응시자는 프로젝트 요건을 충족하고 생산성을 향상시키도록 Word 환경을 사용자 지정합니다. 전문가 수준의 문서 예제는 사업 계획, 연구 논문, 서적, 전문 브로셔 및 대량 편지 발송 등이 포함됩니다. 응시자의 직업에는 편집인, 프로젝트 관리자, 비즈니스 정보 근로자, 교육자 등이 포함될 수 있습니다.
 
+
   Microsoft Office Specialist(MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다&#58;
+
   - MOS 2016 시험 과제 지침에는 일반적으로 이전 버전과 마찬가지로 명령 이름이 포함되지 않습니다. 예를 들어, 함수 이름이 제공되지 않고 설명자로 대체됩니다. 즉, 응시자는 각 프로젝트의 작업을 성공적으로 완료하려면 애플리케이션 기능의 목적과 일반적인 용도를 이해하고 있어야 합니다.
+
   - MOS 2016 시험 형식에는 여러 프로젝트가 포함됩니다.
 subTitle: Word 2016 시험의 전문가 수준 응시자는 Word 2016의 고급 기능을 문서 및 컨텐츠 관리 및 고급 서식을 능숙하게 사용합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XXRD
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,8 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - 문서 옵션 및 설정 관리 (35-40%)

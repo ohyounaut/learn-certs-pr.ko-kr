@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 인증: Azure Administrator Associate'
+title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
-  title: 'Microsoft 인증: Azure Administrator Associate'
-  description: 'Azure 관리자는 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft Azure 솔루션을 구현하고 모니터링하며 유지 관리해야 합니다.'
+  title: 'Microsoft Certified: Azure Administrator Associate'
+  description: Azure 관리자는 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft Azure 솔루션을 구현하고 모니터링하며 유지 관리해야 합니다.
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure 관리자는 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft Azure 솔루션을 구현하고 모니터링하며 유지 관리해야 합니다. [2019년 5월 1일부터 적용되는 해당 인증의 변경 사항을 자세히 알아보십시오.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
+summary: Azure 관리자는 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft Azure 솔루션을 구현하고 모니터링하며 유지 관리해야 합니다. [2019년 5월 1일부터 적용되는 해당 인증의 변경 사항을 자세히 알아보십시오.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
 subTitle: Azure 관리자는 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft Azure 솔루션을 구현하고 모니터링하며 유지 관리해야 합니다.
 levels:
 - intermediate
@@ -38,7 +37,7 @@ exams:
 - uid: exam.az-103
 resources:
 - title: 인증서 학습 과정
-  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Azure Administrator Associate.'
+  description: 다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Azure Administrator Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.

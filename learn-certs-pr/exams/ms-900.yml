@@ -5,8 +5,9 @@ metadata:
   description: '시험 MS-900: Microsoft 365 Fundamentals'
 uid: exam.ms-900
 displayName: MS-900
-summary: |-
+summary: >-
   본 시험은 일반적으로 클라우드 서비스를 채택하는 데 있어 고려할 사항과 혜택 및 서비스로서의 소프트웨어(SaaS) 클라우드 모델에 관한 기본적인 수준의 지식을 입증하려는 후보자를 대상으로 합니다. 본 시험은 Microsoft 365 클라우드 서비스 오퍼링을 구현함으로써 가능한 옵션 및 혜택에 대한 지식이 포함됩니다.
+
 
   본 시험은 Office 365, Microsoft Intune, AIP(Azure Information Protection) 및 Windows 10과 같은 cloud 컴퓨팅 및 기술 시험의 선행 시험으로 활용하실 수 있습니다.
 subTitle: cloud 개념, 핵심 Microsoft 365 서비스 및 개념, Microsoft 365의 보안, 규정 준수, 개인 정보 보호 및 신뢰, Microsoft 365 가격 및 지원을 이해함을 입증하십시오.
@@ -17,10 +18,10 @@ locales:
 - en
 - ja
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-900&examname=시험%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-900
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-900&examname=시험%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
@@ -60,4 +61,3 @@ resources:
 - title: 시험 정책 및 자주 하는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
-

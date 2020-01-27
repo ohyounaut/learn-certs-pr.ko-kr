@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 인증: Dynamics 365: 금융 및 운영 앱 개발 협력자'
+title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
 metadata:
-  title: 'Microsoft 인증: Dynamics 365: 금융 및 운영 앱 개발 협력자'
+  title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
   description: Microsoft Dynamics 365의 금융 및 운영 앱과 협력하는 개발자는 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 확장합니다. 응시자는 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 통해 완전히 실현된 솔루션을 제공해야 합니다.
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Dynamics 365의 금융 및 운영 앱과 협력하는 개발자는 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 확장합니다. 응시자는 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 통해 완전히 실현된 솔루션을 제공해야 합니다.
+summary: Microsoft Dynamics 365의 금융 및 운영 앱과 협력하는 개발자는 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 확장합니다. 응시자는 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 통해 완전히 실현된 솔루션을 제공해야 합니다.
 subTitle: Microsoft Dynamics 365의 금융 및 운영 앱과 협력하는 개발자는 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 확장합니다.
 levels:
 - intermediate

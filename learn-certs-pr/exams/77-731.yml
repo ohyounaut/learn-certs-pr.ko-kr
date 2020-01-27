@@ -1,20 +1,22 @@
 ### YamlMime:Examination
-title: 'Outlook 2016: 핵심 커뮤니케이션, 협업 및 이메일 기술'
+title: 'Outlook 2016: Core Communication, Collaboration and Email Skills'
 metadata:
-  title: '시험 77-731: Outlook 2016: 핵심 커뮤니케이션, 협업 및 이메일 기술'
-  description: '시험 77-731: Outlook 2016: 핵심 커뮤니케이션, 협업 및 이메일 기술'
+  title: '시험 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  description: '시험 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: |
+summary: >
   응시자는 전문가 수준의 이메일 메시지를 편집하고 타임존에 맞춰 일정표를 관리하고 다양한 목적과 상황에 맞는 과제 일정을 잡을 수 있어야 합니다. 응시자는 Outlook 2016을 사용하여 전문적인 서신을 강화하고, 일정을 만들고, 약속 일정을 예약합니다. 애플리케이션 예제에는 건물 리소스 조정하기, 마케팅 캠페인 메시지 전송, 직원 회의 계획 및 모임 작업 항목 할당 등이 포함됩니다.
 
+
   Microsoft Office Specialist(MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다&#58;
+
   - MOS 2016 시험 과제 지침에는 일반적으로 이전 버전과 마찬가지로 명령 이름이 포함되지 않습니다. 예를 들어, 함수 이름이 제공되지 않고 설명자로 대체됩니다. 즉, 응시자는 각 프로젝트의 작업을 성공적으로 완료하려면 애플리케이션 기능의 목적과 일반적인 용도를 이해하고 있어야 합니다.
+
   - MOS 2016 시험 형식에는 여러 프로젝트가 포함됩니다.
 subTitle: 응시자는 전문가 수준의 이메일 메시지를 편집하고 타임존에 맞춰 일정표를 관리하고 다양한 목적과 상황에 맞는 과제 일정을 잡을 수 있어야 합니다. 응시자는 Outlook 2016을 사용하여 전문적인 서신을 강화하고, 일정을 만들고, 약속 일정을 예약합니다. 애플리케이션 예제에는 건물 리소스 조정하기, 마케팅 캠페인 메시지 전송, 직원 회의 계획 및 모임 작업 항목 할당 등이 포함됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -25,7 +27,8 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - 생산성 향상을 위한 Outlook 환경 관리 (20-25%)

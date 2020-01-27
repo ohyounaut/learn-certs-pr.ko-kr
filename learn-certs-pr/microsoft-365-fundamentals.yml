@@ -2,11 +2,10 @@
 title: Microsoft 365 Certified Fundamentals
 metadata:
   title: Microsoft 365 Certified Fundamentals
-  description: 'Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.'
+  description: Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
+summary: Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
 subTitle: Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
 levels:
 - beginner
@@ -32,7 +31,7 @@ exams:
 - uid: exam.ms-900
 resources:
 - title: 인증서 학습 과정
-  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: 기초.'
+  description: 다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: 기초.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
