@@ -15,10 +15,10 @@ summary: >-
     - 필수 선택사항 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - 필수 선택사항 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - 다음 시험 중 하나 통과
-    - [70-333&#58; Skype for Business 2015로 Enterprise Voice 배포](/learn/certifications/exams/70-333)
-    - [70-334&#58; Microsoft Skype for Business의 핵심 솔루션](/learn/certifications/exams/70-334)
-    - [70-339&#58; Microsoft SharePoint Server 2016 관리](/learn/certifications/exams/70-339)
-    - [70-345&#58; Microsoft Exchange Server 2016 설계 및 배포](/learn/certifications/exams/70-345)
+    - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
+    - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
+    - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
+    - [70-345&#58; Designing and Deploying Microsoft Exchange Server 2016](/learn/certifications/exams/70-345)
 subTitle: 인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 Microsoft 365 Certified Enterprise Administrator Expert가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.
 levels:
 - advanced

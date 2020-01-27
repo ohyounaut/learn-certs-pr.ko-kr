@@ -20,6 +20,9 @@ summary: >
 subTitle: 전문가 수준의 Excel 2016 시험 응시자는 Excel 환경에 대한 고급 지식을 보유하고 있으며 다른 사람들이 애플리케이션 기능을 올바르게 사용할 수 있도록 지원할 능력이 있습니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Aw
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -30,7 +33,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

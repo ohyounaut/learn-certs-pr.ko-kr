@@ -17,6 +17,9 @@ summary: >
 subTitle: Access 2016 시험 응시자는 해당 애플리케이션 환경을 철저하게 이해하고 있어야 합니다. 응시자는 기본 데이터베이스 설계 원칙을 이해하고 스스로 작업을 완료할 수 있어야 합니다. 응시자는 Access 2016의 기본 기능을 올바르게 알고 이를 보여 주며, 테이블, 관계, 데이터 입력 양식, 다중 수준 보고서 및 다중 테이블 쿼리를 포함하여 기본 Access 데이터베이스 개체를 만들고 유지 관리하는 기능을 보여야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -26,7 +29,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 providers:
 - providerType: certiport
   examUrl: http://www.certiport.com/locator

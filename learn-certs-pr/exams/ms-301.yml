@@ -21,7 +21,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-301&examname=시험%20MS-301:%20SharePoint%20Server%20하이브리드%20배포&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-301
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-301&examname=시험%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-301
 levels:
 - intermediate
 skills:
@@ -48,7 +48,7 @@ relatedCertifications:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: 인증서 학습 경로
-  description: '다음의 Microsoft 인증을 받기 위한 교육 리소스를 확인하십시오: Teamwork Administrator Associate.'
+  description: '다음의 Microsoft 인증을 받기 위한 교육 리소스를 확인하십시오 Microsoft Certified: Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.

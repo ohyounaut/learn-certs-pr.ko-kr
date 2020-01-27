@@ -20,6 +20,9 @@ summary: >
 subTitle: Word 2016 시험의 전문가 수준 응시자는 Word 2016의 고급 기능을 문서 및 컨텐츠 관리 및 고급 서식을 능숙하게 사용합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XXRD
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -30,7 +33,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

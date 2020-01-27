@@ -17,6 +17,9 @@ summary: >
 subTitle: 응시자는 PowerPoint의 환경에 대한 근본적인 이해를 갖추고 PowerPoint2016의 적합한 응용 방법을 입증할 수 있어야 합니다. 응시자는 프레젠테이션과 슬라이드 쇼를 만들고, 편집하고, 향상시킵니다. 프레젠테이션 예제에는 전문가급 세일즈 프레젠테이션, 직원 교육, 교육 자료 및 키오스크 슬라이드 쇼가 포함됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -35,7 +38,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

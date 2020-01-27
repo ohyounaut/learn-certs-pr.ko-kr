@@ -19,7 +19,7 @@ practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_me
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-500&examname=시험%20MS-500:%20Microsoft%20365%20보안%20관리&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-500&examname=시험%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:
@@ -43,7 +43,7 @@ relatedCertifications:
     uid: certification.m365-security-administrator
 resources:
 - title: 인증서 학습 경로
-  description: '다음의 Microsoft 인증을 받기 위한 교육 리소스를 확인하십시오: Security Administrator Associate.'
+  description: '다음의 받기 위한 교육 리소스를 확인하십시오 Microsoft Certified: Security Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.

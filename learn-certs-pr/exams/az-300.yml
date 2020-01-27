@@ -15,7 +15,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-300&examname=시험%20AZ-300:%20Microsoft%20Azure%20Architect%20기술&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Faz-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-300&examname=시험%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Faz-300
 levels:
 - advanced
 skills:
@@ -72,7 +72,7 @@ relatedCertifications:
     uid: certification.azure-solutions-architect
 resources:
 - title: 인증서 학습 과정
-  description: 다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다. Azure Solutions Architect Expert.
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Azure Solutions Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
