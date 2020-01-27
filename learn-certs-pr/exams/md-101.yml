@@ -23,7 +23,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJV
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MD-101&examname=시험%20MD-101:%20최신%20데스크탑%20관리&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmd-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MD-101&examname=시험%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
@@ -47,7 +47,7 @@ relatedCertifications:
     uid: certification.modern-desktop
 resources:
 - title: 인증서 학습 과정
-  description: 다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다. Modern Desktop Administrator Associate.
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.

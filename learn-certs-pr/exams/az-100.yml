@@ -34,7 +34,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: 인증서 학습 경로
-  description: 다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Azure Administrator Associate.
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.

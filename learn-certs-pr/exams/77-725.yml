@@ -9,6 +9,9 @@ summary: "Word 2016 시험의 응시 대상자는 Word 환경에 대한 철저�
 subTitle: Word 2016 시험의 응시 대상자는 Word 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 다양한 용도와 상황에 맞는 2-3페이지 분량의 문서를 만들고 편집하여 Word 2016의 주요 기능의 정확한 적용 방법을 증명해야 합니다. 문서 예제는 전문적인 보고서, 다단 뉴스레터, 이력서, 비즈니스 서신 등이 포함됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

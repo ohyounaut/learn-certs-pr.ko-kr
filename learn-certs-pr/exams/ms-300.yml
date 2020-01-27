@@ -49,7 +49,7 @@ relatedCertifications:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: 인증서 학습 경로
-  description: '다음의 Microsoft 인증을 받기 위한 교육 리소스를 확인하십시오: Teamwork Administrator Associate.'
+  description: '다음의 받기 위한 교육 리소스를 확인하십시오 Microsoft Certified: Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.

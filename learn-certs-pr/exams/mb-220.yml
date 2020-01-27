@@ -18,7 +18,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-220&examname=시험%20MB-220:%20Microsoft%20Dynamics%20365%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-220
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-220&examname=시험%20MB-220:%20Microsoft%20Dynamics%20365%20for%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-220
 levels:
 - intermediate
 skills:
@@ -50,7 +50,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-marketing
 resources:
 - title: 인증서 학습 경로
-  description: '다음의 Microsoft 인증을 받기 위한 교육 리소스를 확인하십시오: Dynamics 365 Marketing Functional Consultant Associate.'
+  description: '다음의 받기 위한 교육 리소스를 확인하십시오 Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.

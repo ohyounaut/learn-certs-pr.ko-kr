@@ -24,7 +24,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-203&examname=시험%20AZ-203:%20Microsoft%20Azure%20용%20솔루션%20개발&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Faz-203
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-203&examname=시험%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
@@ -74,7 +74,7 @@ relatedCertifications:
     uid: certification.azure-developer
 resources:
 - title: 인증서 학습 과정
-  description: 다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다. Azure Developer Associate.
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.

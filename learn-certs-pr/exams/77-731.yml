@@ -17,6 +17,9 @@ summary: >
 subTitle: 응시자는 전문가 수준의 이메일 메시지를 편집하고 타임존에 맞춰 일정표를 관리하고 다양한 목적과 상황에 맞는 과제 일정을 잡을 수 있어야 합니다. 응시자는 Outlook 2016을 사용하여 전문적인 서신을 강화하고, 일정을 만들고, 약속 일정을 예약합니다. 애플리케이션 예제에는 건물 리소스 조정하기, 마케팅 캠페인 메시지 전송, 직원 회의 계획 및 모임 작업 항목 할당 등이 포함됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

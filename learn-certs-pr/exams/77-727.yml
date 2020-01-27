@@ -17,6 +17,9 @@ summary: >
 subTitle: Microsoft Office Specialist Excel 2016 인증 시험의 응시자는 Excel 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 응시자는 Excel 2016의 주요 기능의 정확한 적용 방법을 알고 그것을 증명할 수 있어야 합니다. 응시자는 여러 시트로 된 통합 문서를 만들어 편집하고, 그래픽 요소를 사용하여 데이터를 시각적으로 표현합니다. 통합 문서 예제에는 전문가 수준의 예산, 재무제표, 팀 성과 차트, 매매 송장 및 데이터 입력 로그가 포함됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -35,7 +38,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

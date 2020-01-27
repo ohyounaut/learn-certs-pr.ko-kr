@@ -11,7 +11,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-600&examname=시험%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20솔루션%20아키텍처&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-600&examname=시험%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-600
 levels:
 - advanced
 skills:

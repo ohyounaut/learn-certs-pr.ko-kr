@@ -14,12 +14,16 @@ subTitle: 본 시험은 다음과 같은 개념을 이해하는 능력을 측정
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-900&examname=시험%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-900&examname=시험%20AZ-900:%20Microsoft%20Azure%20기초&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Faz-900
 levels:
 - beginner
 skills:
@@ -40,7 +44,7 @@ relatedCertifications:
     uid: certification.azure-fundamentals
 resources:
 - title: 인증서 학습 과정
-  description: 다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다. Azure 기초.
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Azure Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.

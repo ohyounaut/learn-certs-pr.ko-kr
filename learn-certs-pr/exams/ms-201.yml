@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Implementing a Hybrid and Secure Messaging Platform
 metadata:
-  title: '시험 MS-201: 하이브리드 및 보안 메시징 플랫폼 구현'
-  description: '시험 MS-201: 하이브리드 및 보안 메시징 플랫폼 구현'
+  title: '시험 MS-201: Implementing a Hybrid and Secure Messaging Platform'
+  description: '시험 MS-201: Implementing a Hybrid and Secure Messaging Platform'
 uid: exam.ms-201
 displayName: MS-201
 summary: >-
@@ -21,7 +21,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-201&examname=시험%20MS-201:%20하이브리드%20및%20보안%20메시징%20플랫폼%20구현&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-201
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-201&examname=시험%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-201
 levels:
 - intermediate
 skills:

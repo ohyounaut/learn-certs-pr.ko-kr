@@ -18,7 +18,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-600&examname=시험%20MS-600:%20Microsoft%20365%20Core%20Services로%20애플리케이션%20및%20솔루션%20구성&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-600&examname=시험%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-600
 levels:
 - intermediate
 skills:
@@ -38,7 +38,7 @@ relatedCertifications:
     uid: certification.m365-developer-associate
 resources:
 - title: 인증서 학습 경로
-  description: '다음 Microsoft 인증을 받기 위한 교육 리소스를 확인합니다: Developer Associate.'
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
