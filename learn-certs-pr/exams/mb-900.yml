@@ -1,22 +1,23 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 기초
+title: Microsoft Dynamics 365 Fundamentals
 metadata:
-  title: '시험 MB-900: Microsoft Dynamics 365 기초'
-  description: '시험 MB-900: Microsoft Dynamics 365 기초'
+  title: '시험 MB-900: Microsoft Dynamics 365 Fundamentals'
+  description: '시험 MB-900: Microsoft Dynamics 365 Fundamentals'
 uid: exam.mb-900
 displayName: MB-900
-summary: |-
+summary: >-
   본 시험은 Microsoft Dynamics 365, Power Platform 애플리케이션과 클라우드 컴퓨팅 모델에 관한 기초적인 수준의 지식을 입증하고자 하는 응시자를 위해 설계되었습니다. 시험 범위에는 Dynamics 365, Power Platform 및 일반적인 클라우드 서비스를 도입할 때 고려할 사항 및 혜택이 포함됩니다. 이 시험은 Dynamics 365 인증 및 교육의 선행 조건으로 응시할 수 있습니다.
+
 
   이 시험의 응시자는 IT(정보 기술) 환경에서 일반적인 지식 또는 관련 실무 경험을 갖추고 있어야 합니다. 응시자는 또한 기본적인 수준의 비즈니스 시나리오 및 비즈니스, 법률, IT 프로젝트에 필요한 보안 요구사항을 처리한 경험을 갖추고 있어야 합니다.
 subTitle: 이 시험은 Microsoft Dynamics 365; Power Platform; 클라우드 개념; 라이센싱 옵션; 배포 및 릴리스 옵션을 이해하는 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
 practiceTestUrl: https://us.mindhub.com/p/MU-MB-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-900&examname=시험%20MB-900:%20Microsoft%20Dynamics%20365%20기초&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-900&examname=시험%20MB-900:%20Microsoft%20Dynamics%20365%20기초&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 levels:
 - beginner
 skills:
@@ -25,7 +26,7 @@ skills:
 - 배포 및 릴리스 이해 (20-25%)
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01

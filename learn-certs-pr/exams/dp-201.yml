@@ -1,27 +1,30 @@
 ### YamlMime:Examination
-title: Azure 데이터 솔루션 설계
+title: Designing an Azure Data Solution
 metadata:
   title: '시험 DP-201: Designing an Azure Data Solution'
   description: '시험 DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: |-
+summary: >-
   이 시험은 비즈니스 이해관계자와 협력하여 Azure 데이터 서비스를 사용하는 데이터 솔루션을 설계하기 위한 데이터 요구 사항을 식별하고 충족하는 마이크로소프트 Microsoft Azure 데이터 엔지니어를 대상 응시자로 하여 시행됩니다.
+
   <br/>
 
+
   Azure 데이터 엔지니어는 관계형 및 비관계형 데이터 저장소를 사용하는 Azure 데이터 저장소 솔루션 설계, 일괄 작업 및 실시간 데이터 처리 솔루션, 데이터 보안 및 컴플라이언스 솔루션을 포함하는 데이터 관련 과제를 담당합니다.
+
 
   본 시험 응시자는 다음의 Azure 서비스를 사용하는 데이터 솔루션을 디자인해야 합니다&#58; Azure Cosmos DB, Azure SQL Database, Azure SQL Data Warehouse, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, 및 Azure Blob 저장소.
 subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다: Azure 데이터 저장소 솔루션 설계; 데이터 처리 솔루션 설계; 데이터 보안 및 규정 준수를 위한 설계.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DP-201&examname=시험%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DP-201&examname=시험%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 levels:
 - intermediate
 skills:
@@ -30,6 +33,8 @@ skills:
 - 데이터 보안 및 규정 준수 설계 (25-30%)
 roles:
 - data-engineer
+exams:
+- uid: exam.dp-200
 products:
 - azure
 - azure-cosmos-db
@@ -42,8 +47,6 @@ products:
 - azure-storage
 - azure-monitor
 - azure-hdinsight
-exams:
-- uid: exam.dp-200
 courses:
 - uid: course.dp-201t01
 paths:

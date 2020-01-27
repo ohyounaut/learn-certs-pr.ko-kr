@@ -5,8 +5,7 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Access 2016'
 uid: certification.mos-access-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  이 인증서는 특정 Office 프로그램에 대한 Microsoft Office Specialist (MOS) 인증과 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다.
+summary: 이 인증서는 특정 Office 프로그램에 대한 Microsoft Office Specialist (MOS) 인증과 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다.
 subTitle: 이 인증서는 특정 Office 프로그램에 대한 Microsoft Office Specialist (MOS) 인증과 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다.
 levels:
 - intermediate
@@ -32,4 +31,3 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-

@@ -5,22 +5,27 @@ metadata:
   description: 'MB-310: Microsoft Dynamics 365 Finance'
 uid: exam.mb-310
 displayName: MB-310
-summary: |-
+summary: >-
   본 시험의 응시자는 비즈니스 요구 사항을 분석하고 이러한 요구 사항을 업계 최고의 모범 사례를 구현하는 완전히 현실화된 비즈니스 프로세스 및 솔루션으로 변환하는 기능 컨설턴트입니다. 응시자는 애플리케이션을 구현하고 구성하여 비즈니스 요구 사항을 충족시키는 핵심 자원으로 사용됩니다.
+
   <br/>
+
 
   이 시험의 응시자는 비즈니스의 회계 원칙 및 금융 운영, 고객 서비스, 현장 서비스, 제조, 소매 및 공급망 관리 개념에 관한 기초적인 수준의 이해를 갖추어야 합니다.
+
   <br/>
 
+
   본 시험의 응시자는 일반적으로 금융, 제조 및 공급망 관리를 포함하여 하나 이상의 Microsoft Dynamics 365 Finance 기능을 전문적으로 담당해야 합니다.
+
 
   응시자는 기본 회계 원칙 및 관행에 대한 지식을 가지고 있어야 합니다.
 subTitle: '본 시험은 다음과 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다: 금융 관리의 설정 및 구성, 일반 프로세스 관리 및 적용, 채무 및 채권 구현 및 관리, 예산 및 고정 자산 관리.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-310&examname=시험%20MB-310:%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-310&examname=시험%20MB-310:%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 levels:
 - intermediate
 skills:
@@ -30,11 +35,11 @@ skills:
 - 예산 및 고정 자산 관리 (15-20%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-finance
 exams:
 - uid: exam.mb-300
+products:
+- dynamics
+- dynamics-finance
 courses:
 - uid: course.mb-310t01
 - uid: course.mb-310t02

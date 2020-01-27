@@ -1,21 +1,20 @@
 ### YamlMime:Examination
-title: 2015 비즈니스용 Microsoft Skype 핵심 솔루션
+title: Core Solutions of Microsoft Skype for Business 2015
 metadata:
-  title: '시험 70-334: 2015 비즈니스용 Microsoft Skype 핵심 솔루션'
-  description: '시험 70-334: 2015 비즈니스용 Microsoft Skype 핵심 솔루션'
+  title: '시험 70-334: Core Solutions of Microsoft Skype for Business 2015'
+  description: '시험 70-334: Core Solutions of Microsoft Skype for Business 2015'
 uid: exam.70-334
 displayName: 70-334
-summary: |-
-  본 시험은 UC(통합 통신)용 솔루션을 설계, 계획, 배포 및 유지 관리하는 IT 컨설턴트와 통신 컨설팅 전문가를 위한 시험입니다. 응시자는 비즈니스 요구 사항으로부터 UC 솔루션을 위한 기술 아키텍처 및 설계를 도출할 수 있어야 합니다. 응시자는 비즈니스용 Skype 기술에 관해 2년 이상의 경력이 있어야 하고, 지원되는 마이그레이션 시나리오를 잘 알고 있어야 합니다. 응시자는 최종 사용자, 끝점 장치, 전화 통신, 오디오/비디오 및 웹 회의, 보안, 고가용성을 위한 비즈니스용 Skype 솔루션을 배포하는 데 능숙해야 합니다. 또한 응시자는 Microsoft 도구를 사용하여 비즈니스용 Skype를 모니터링하고 문제를 해결하는 방법을 알고 있어야 합니다. 아울러 응시자는 액티브 디렉터리 도메인 서비스, 데이터 네트워크, 통신 표준 및 비즈니스용 Skype의 구성을 지원하는 구성 요소를 능숙하게 다룰 수 있어야 합니다. 응시자는 비즈니스용 Skype를 Microsoft Exchange Server 및 Office 365와 통합하기 위해 충족해야 할 요구 사항을 잘 알고 있어야 합니다.
+summary: 본 시험은 UC(통합 통신)용 솔루션을 설계, 계획, 배포 및 유지 관리하는 IT 컨설턴트와 통신 컨설팅 전문가를 위한 시험입니다. 응시자는 비즈니스 요구 사항으로부터 UC 솔루션을 위한 기술 아키텍처 및 설계를 도출할 수 있어야 합니다. 응시자는 비즈니스용 Skype 기술에 관해 2년 이상의 경력이 있어야 하고, 지원되는 마이그레이션 시나리오를 잘 알고 있어야 합니다. 응시자는 최종 사용자, 끝점 장치, 전화 통신, 오디오/비디오 및 웹 회의, 보안, 고가용성을 위한 비즈니스용 Skype 솔루션을 배포하는 데 능숙해야 합니다. 또한 응시자는 Microsoft 도구를 사용하여 비즈니스용 Skype를 모니터링하고 문제를 해결하는 방법을 알고 있어야 합니다. 아울러 응시자는 액티브 디렉터리 도메인 서비스, 데이터 네트워크, 통신 표준 및 비즈니스용 Skype의 구성을 지원하는 구성 요소를 능숙하게 다룰 수 있어야 합니다. 응시자는 비즈니스용 Skype를 Microsoft Exchange Server 및 Office 365와 통합하기 위해 충족해야 할 요구 사항을 잘 알고 있어야 합니다.
 subTitle: 본 시험은 UC(통합 통신)용 솔루션을 설계, 계획, 배포 및 유지 관리하는 IT 컨설턴트와 통신 컨설팅 전문가를 위한 시험입니다. 응시자는 비즈니스 요구 사항으로부터 UC 솔루션을 위한 기술 아키텍처 및 설계를 도출할 수 있어야 합니다. 응시자는 비즈니스용 Skype 기술에 관해 2년 이상의 경력이 있어야 하고, 지원되는 마이그레이션 시나리오를 잘 알고 있어야 합니다. 응시자는 최종 사용자, 끝점 장치, 전화 통신, 오디오/비디오 및 웹 회의, 보안, 고가용성을 위한 비즈니스용 Skype 솔루션을 배포하는 데 능숙해야 합니다. 또한 응시자는 Microsoft 도구를 사용하여 비즈니스용 Skype를 모니터링하고 문제를 해결하는 방법을 알고 있어야 합니다. 아울러 응시자는 액티브 디렉터리 도메인 서비스, 데이터 네트워크, 통신 표준 및 비즈니스용 Skype의 구성을 지원하는 구성 요소를 능숙하게 다룰 수 있어야 합니다. 응시자는 비즈니스용 Skype를 Microsoft Exchange Server 및 Office 365와 통합하기 위해 충족해야 할 요구 사항을 잘 알고 있어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBg
 practiceTestUrl: https://www.mindhub.com/70-334-Core-Solutions-of-Microsoft-Skype-for-Busi-p/mu-70-334_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=334&examname=2015%20비즈니스용%20Microsoft%20Skype%20핵심%20솔루션&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2F70-334
 locales:
 - en
 - ja
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=334&examname=2015%20비즈니스용%20Microsoft%20Skype%20핵심%20솔루션&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2F70-334
+levels:
 - advanced
 skills:
 - 비즈니스용 Skype 계획 및 설계 (35-40%)

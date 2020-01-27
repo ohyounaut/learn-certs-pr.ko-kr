@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 인증: Power Apps + Dynamics 365 Developer Associate'
+title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
 metadata:
-  title: 'Microsoft 인증: Power Apps + Dynamics 365 Developer Associate'
+  title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
   description: Microsoft Power Apps 및 Dynamics 365와 협력하는 개발자는 Dynamics 365 구현의 설계, 개발, 보안 및 확장에 대한 책임이 있습니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 포함하는 솔루션의 구성 요소를 구현합니다.
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Power Apps 및 Dynamics 365와 협력하는 개발자는 Dynamics 365 구현의 설계, 개발, 보안 및 확장에 대한 책임이 있습니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 포함하는 솔루션의 구성 요소를 구현합니다.
+summary: Microsoft Power Apps 및 Dynamics 365와 협력하는 개발자는 Dynamics 365 구현의 설계, 개발, 보안 및 확장에 대한 책임이 있습니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 포함하는 솔루션의 구성 요소를 구현합니다.
 subTitle: Microsoft Power Apps 및 Dynamics 365와 협력하는 개발자는 Dynamics 365 구현의 설계, 개발, 보안 및 확장에 대한 책임이 있습니다.
 levels:
 - intermediate

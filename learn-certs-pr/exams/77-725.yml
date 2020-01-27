@@ -1,20 +1,14 @@
 ### YamlMime:Examination
-title: 'Word 2016: Core Document Creation, Collaboration, and Communication'
+title: 'Word 2016: Core Document Creation, Collaboration and Communication'
 metadata:
-  title: '시험 77-725: Word 2016: Core Document Creation, Collaboration, and Communication'
-  description: '시험 77-725: Word 2016: Core Document Creation, Collaboration, and Communication'
+  title: '시험 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
+  description: '시험 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
 uid: exam.77-725
 displayName: 77-725
-summary: |
-  Word 2016 시험의 응시 대상자는 Word 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 다양한 용도와 상황에 맞는 2-3페이지 분량의 문서를 만들고 편집하여 Word 2016의 주요 기능의 정확한 적용 방법을 증명해야 합니다. 문서 예제는 전문적인 보고서, 다단 뉴스레터, 이력서, 비즈니스 서신 등이 포함됩니다. 
-
-  Microsoft Office Specialist(MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다&#58;
-  - MOS 2016 시험 과제 지침에는 일반적으로 이전 버전과 마찬가지로 명령 이름이 포함되지 않습니다. 예를 들어, 함수 이름이 제공되지 않고 설명자로 대체됩니다. 즉, 응시자는 각 프로젝트의 작업을 성공적으로 완료하려면 애플리케이션 기능의 목적과 일반적인 용도를 이해하고 있어야 합니다.
-  - MOS 2016 시험 형식에는 여러 프로젝트가 포함됩니다.
-subTitle: Word 2016 시험의 응시 대상자는 Word 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 다양한 용도와 상황에 맞는 2-3페이지 분량의 문서를 만들고 편집하여 Word 2016의 주요 기능의 정확한 적용 방법을 증명해야 합니다. 문서 예제는 전문적인 보고서, 다단 뉴스레터, 이력서, 비즈니스 서신 등이 포함됩니다. 
+summary: "Word 2016 시험의 응시 대상자는 Word 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 다양한 용도와 상황에 맞는 2-3페이지 분량의 문서를 만들고 편집하여 Word 2016의 주요 기능의 정확한 적용 방법을 증명해야 합니다. 문서 예제는 전문적인 보고서, 다단 뉴스레터, 이력서, 비즈니스 서신 등이 포함됩니다. \n\nMicrosoft Office Specialist(MOS) 2016 인증 시험에는 MOS 2016 애플리케이션을 사용하는 응시자의 지식, 기술 및 능력을 효과적으로 테스트할 수 있는 새로운 성과 기반 형식이 도입되었습니다&#58;\n- MOS 2016 시험 과제 지침에는 일반적으로 이전 버전과 마찬가지로 명령 이름이 포함되지 않습니다. 예를 들어, 함수 이름이 제공되지 않고 설명자로 대체됩니다. 즉, 응시자는 각 프로젝트의 작업을 성공적으로 완료하려면 애플리케이션 기능의 목적과 일반적인 용도를 이해하고 있어야 합니다.\n- MOS 2016 시험 형식에는 여러 프로젝트가 포함됩니다.\n"
+subTitle: Word 2016 시험의 응시 대상자는 Word 환경에 대한 철저한 이해와 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 다양한 용도와 상황에 맞는 2-3페이지 분량의 문서를 만들고 편집하여 Word 2016의 주요 기능의 정확한 적용 방법을 증명해야 합니다. 문서 예제는 전문적인 보고서, 다단 뉴스레터, 이력서, 비즈니스 서신 등이 포함됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -33,7 +27,8 @@ locales:
 - ru
 - th
 - tr
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - 문서 만들기 및 관리 (25–30%)
@@ -45,7 +40,6 @@ roles:
 - developer
 products:
 - office-word
-
 relatedCertifications:
 - related:
     uid: certification.mos-word-2016

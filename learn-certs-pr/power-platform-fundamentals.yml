@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: Microsoft 인증 Power Platform Fundamentals
+title: Microsoft Certified Power Platform Fundamentals
 metadata:
-  title: Microsoft 인증 Power Platform Fundamentals
+  title: Microsoft Certified Power Platform Fundamentals
   description: 비즈니스 가치에서 핵심 제품 기능까지 기본 Power Apps 캔버스 앱 빌드, 데이터 소스 연결, Microsoft Flow를 통한 자동화, Power BI 대시보드 작성을 위한 Power Platform의 핵심 기능을 이해함을 입증합니다.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  비즈니스 가치에서 핵심 제품 기능까지 기본 Power Apps 캔버스 앱 빌드, 데이터 소스 연결, Microsoft Flow를 통한 자동화, Power BI 대시보드 작성을 위한 Power Platform의 핵심 기능을 이해함을 입증합니다.
+summary: 비즈니스 가치에서 핵심 제품 기능까지 기본 Power Apps 캔버스 앱 빌드, 데이터 소스 연결, Microsoft Flow를 통한 자동화, Power BI 대시보드 작성을 위한 Power Platform의 핵심 기능을 이해함을 입증합니다.
 subTitle: 비즈니스 가치에서 핵심 제품 기능까지 기본 Power Apps 캔버스 앱 빌드, 데이터 소스 연결, Microsoft Flow를 통한 자동화, Power BI 대시보드 작성을 위한 Power Platform의 핵심 기능을 이해함을 입증합니다.
 levels:
 - beginner
