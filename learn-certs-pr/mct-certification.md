@@ -22,7 +22,7 @@ Microsoft Certified Trainer 프로그램은 해마다 진행되는 연례 멤버
 
 ## MCT 프로그램 혜택
 
-Microsoft Certified Trainer가 되면 다양하고 유용한 리소스를 얻을 수 있으며, MCT 인증서를 다운로드 할 수 있고 MCT 커뮤니티에 참여하실 수 있는 개인 맞춤형 [대시보드](https://www.microsoft.com/ko-kr/learning/dashboard.aspx)에 액세스할 수 있는 권한을 부여받게 됩니다.
+Microsoft Certified Trainer가 되면 다양하고 유용한 리소스를 얻을 수 있으며, MCT 인증서를 다운로드 할 수 있고 MCT 커뮤니티에 참여하실 수 있는 개인 맞춤형 [대시보드](https://www.microsoft.com/learning/dashboard.aspx)에 액세스할 수 있는 권한을 부여받게 됩니다.
 
 또한, [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx)에 대한 액세스 권한을 통해 최신 뉴스를 확인하거나, 일자리를 찾거나, 전 세계 다른 MCT 회원과 소통하고, 귀하의 소재지 MCT 지역 리더에게 연락을 취할 수 있습니다.
 
@@ -32,7 +32,7 @@ Microsoft Certified Trainer가 되면 다양하고 유용한 리소스를 얻을
 
 MCT 프로그램은 전세계 곳곳에서 Microsoft 기술에 대한 교육을 제공하는 교육자들을 위한 프로그램입니다. 요건을 충족하는 인증 또는 자격을 보유하고 계시며 Microsoft 기술에 대한 교육을 제공하는 일에 깊은 관심을 가지고 있는 경우 프로그램에 신청하실 것을 권장합니다.
 
-MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [신청 절차](https://www.microsoft.com/ko-kr/learning/mct-certification.aspx#mctinfoheading-4) 섹션의 MCT 프로그램 가이드 및 MCT 프로그램 계약을 참조하시기 바랍니다.
+MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [신청 절차](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) 섹션의 MCT 프로그램 가이드 및 MCT 프로그램 계약을 참조하시기 바랍니다.
 
 ### MCT 프로그램 참여 요건
 - 현재 MCT 프로그램에 적격한 Microsoft 인증 또는 자격을 보유해야 합니다. 
@@ -71,37 +71,37 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 
 **Microsoft 인증**
 
-- [Microsoft 인증: Azure Administrator Associate](https://www.microsoft.com/ko-kr/learning/azure-administrator.aspx)
-- [Microsoft 인증: Azure Developer Associate](https://www.microsoft.com/ko-kr/learning/azure-developer.aspx)
-- [Microsoft 인증: Azure Security Engineer Associate](https://www.microsoft.com/ko-kr/learning/azure-security-engineer.aspx)
-- [Microsoft 인증: Azure DevOps Expert](https://www.microsoft.com/ko-kr/learning/azure-devops.aspx)
-- [Microsoft 인증: Azure Solutions Architect Expert](https://www.microsoft.com/ko-kr/learning/azure-solutions-architect.aspx)
-- [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/ko-kr/learning/m365-enterprise-administrator.aspx)
-- [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/ko-kr/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/ko-kr/learning/m365-teamwork-administrator.aspx)
-- [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/ko-kr/learning/m365-security-administrator.aspx)
-- [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/ko-kr/learning/m365-messaging-administrator.aspx)
+- [Microsoft 인증: Azure Administrator Associate](https://www.microsoft.com/learning/azure-administrator.aspx)
+- [Microsoft 인증: Azure Developer Associate](https://www.microsoft.com/learning/azure-developer.aspx)
+- [Microsoft 인증: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
+- [Microsoft 인증: Azure DevOps Expert](https://www.microsoft.com/learning/azure-devops.aspx)
+- [Microsoft 인증: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
+- [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
+- [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)
+- [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
+- [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/microsoft-365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/microsoft-teams-administrator-associate)
-- [Microsoft 인증: Azure AI Engineer Associate](https://www.microsoft.com/ko-kr/learning/azure-ai-engineer.aspx)
-- [Microsoft 인증: Azure Data Scientist Associate](https://www.microsoft.com/ko-kr/learning/azure-data-scientist.aspx)
-- [Microsoft 인증: Azure Data Engineer Associate](https://www.microsoft.com/ko-kr/learning/azure-data-engineer.aspx)
-- [Microsoft 인증: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/ko-kr/learning/d365-functional-consultant-sales.aspx)
-- [Microsoft 인증: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/ko-kr/learning/d365-functional-consultant-customer-service.aspx)
-- [Microsoft 인증: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/ko-kr/learning/d365-functional-consultant-marketing.aspx)
-- [Microsoft 인증: Dynamics 365 Field Service Functional Consultant Associate](https://www.microsoft.com/ko-kr/learning/d365-functional-consultant-field-service.aspx)
-- [Microsoft 인증: Dynamics 365 Finance Functional Consultant Associate](https://www.microsoft.com/ko-kr/learning/d365-functional-consultant-financials.aspx)
-- [Microsoft 인증: Dynamics 365 공급망 관리, Manufacturing Functional Consultant Associate](https://www.microsoft.com/ko-kr/learning/d365-functional-consultant-manufacturing.aspx)
-- [Microsoft 인증: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/ko-kr/learning/d365-functional-consultant-supply-chain-management.aspx)
+- [Microsoft 인증: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
+- [Microsoft 인증: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
+- [Microsoft 인증: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
+- [Microsoft 인증: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
+- [Microsoft 인증: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
+- [Microsoft 인증: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
+- [Microsoft 인증: Dynamics 365 Field Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-field-service.aspx)
+- [Microsoft 인증: Dynamics 365 Finance Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-financials.aspx)
+- [Microsoft 인증: Dynamics 365 공급망 관리, Manufacturing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-manufacturing.aspx)
+- [Microsoft 인증: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft 인증: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft 인증: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/powerapps-and-d365-developer-associate)
-- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/ko-kr/learning/mcsa-certification.aspx): BI 보고, Data Engineering with Azure (2019년 6월 30일 중단), Machine Learning (2019년 6월 30일 중단), Microsoft Dynamics 365 (2019년 6월 30일 중단), - Microsoft Dynamics 365 for Operations (2020년 6월 30일 중단), SQL 2016 BI Development, SQL 2016 Database Administration, SQL 2016 Database Development, - SQL Server 2012/2014, Universal Windows Platform, Web Applications, Windows Server 2012, 또는 Windows Server 2016
-- [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/ko-kr/learning/mcse-certification.aspx): Business Applications (2019년 12월 31일 중단), 데이터 관리 및 분석, 생산성, 핵심 인프라
-- [Microsoft 인증 솔루션 개발자 (MCSD)](https://www.microsoft.com/ko-kr/learning/mcsd-certification.aspx): App Builder
+- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI 보고, Data Engineering with Azure (2019년 6월 30일 중단), Machine Learning (2019년 6월 30일 중단), Microsoft Dynamics 365 (2019년 6월 30일 중단), - Microsoft Dynamics 365 for Operations (2020년 6월 30일 중단), SQL 2016 BI Development, SQL 2016 Database Administration, SQL 2016 Database Development, - SQL Server 2012/2014, Universal Windows Platform, Web Applications, Windows Server 2012, 또는 Windows Server 2016
+- [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (2019년 12월 31일 중단), 데이터 관리 및 분석, 생산성, 핵심 인프라
+- [Microsoft 인증 솔루션 개발자 (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder
 - Dynamics CRM Dynamics Technical (2019년 12월 31일 중단) - [각 Microsoft Dynamics 자격 및 인증과 관련된 요구 사항 이해](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
-- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/ko-kr/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/ko-kr/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/ko-kr/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/ko-kr/learning/mos-powerpoint-2019.aspx), [Microsoft Office Specialist: Associate (Office 365 및 Office 2019)](https://www.microsoft.com/ko-kr/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/ko-kr/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) or [Microsoft Office Specialist: Expert (Office 365 및 Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
+- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Microsoft Office Specialist: Associate (Office 365 및 Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) or [Microsoft Office Specialist: Expert (Office 365 및 Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
-**참고** MCT 프로그램에 적격한 Microsoft 인증 및 자격은 변동될 수 있습니다. 모든 새로운 역할 기반 인증은 출시된 후 MCT 프로그램에 대한 자격을 얻게 됩니다. 만료된 인증은 만료일로부터 최대 6개월까지 MCT 프로그램에 대한 자격을 가집니다. [인증 중단에 대해 더 알아보기](https://www.microsoft.com/ko-kr/learning/retired-certifications.aspx).
+**참고** MCT 프로그램에 적격한 Microsoft 인증 및 자격은 변동될 수 있습니다. 모든 새로운 역할 기반 인증은 출시된 후 MCT 프로그램에 대한 자격을 얻게 됩니다. 만료된 인증은 만료일로부터 최대 6개월까지 MCT 프로그램에 대한 자격을 가집니다. [인증 중단에 대해 더 알아보기](https://www.microsoft.com/learning/retired-certifications.aspx).
 
 ## 신청 절차
 
@@ -140,7 +140,7 @@ MCT 등록 도구의 용도:
 2. [MCT 인증 도구](https://mcp.microsoft.com/Authenticate/MCT)에서 신청하십시오.
 3. 프로그램 비용을 지불하라는 메시지가 표시되면 MCT 쿠폰 코드를 입력하십시오.
 
-등록 및 지불을 완료하면 MCT 환영 전자 메일이 수신됩니다. 그러면 [인증 대시보드](https://www.microsoft.com/ko-kr/learning/dashboard.aspx)에서 MCT 콘텐츠에 액세스할 수 있습니다
+등록 및 지불을 완료하면 MCT 환영 전자 메일이 수신됩니다. 그러면 [인증 대시보드](https://www.microsoft.com/learning/dashboard.aspx)에서 MCT 콘텐츠에 액세스할 수 있습니다
 
 ## MCT Alumni 프로그램
 
@@ -155,7 +155,7 @@ MCT Alumni 프로그램 요건:
 
 ### MCT Alumni 혜택
 
-MCT Alumni 회원은 자신의 [인증 대시보드](https://www.microsoft.com/ko-kr/learning/dashboard.aspx)에서 MCT Alumni 콘텐츠에 독점적으로 접근할 수 있습니다 뉴스, 이벤트 및 다양한 MCT Alumni 맞춤 리소스를 얻을 수 있으며, 전체 MCT 커뮤니티에 참여하실 수 있는 [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx)에 대한 액세스도 함께 제공됩니다.
+MCT Alumni 회원은 자신의 [인증 대시보드](https://www.microsoft.com/learning/dashboard.aspx)에서 MCT Alumni 콘텐츠에 독점적으로 접근할 수 있습니다 뉴스, 이벤트 및 다양한 MCT Alumni 맞춤 리소스를 얻을 수 있으며, 전체 MCT 커뮤니티에 참여하실 수 있는 [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx)에 대한 액세스도 함께 제공됩니다.
 
 MCT Alumni 혜택 사항:
 
@@ -180,7 +180,7 @@ MCT Alumni 소속인 경우, MCT 프로그램 교육 실무로 복귀하시면 �
 
 MCT 복귀 요건:
 
-**본 페이지의 [요구 사항](https://www.microsoft.com/ko-kr/learning/mct-certification.aspx#mctinfoheading-3) 란에 설명된 MCT 프로그램 요구 사항을 충족하셔야 합니다**. MCT 프로그램에 적격한 현재 Microsoft 인증 및 자격 충족여부 확인
+**본 페이지의 [요구 사항](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) 란에 설명된 MCT 프로그램 요구 사항을 충족하셔야 합니다**. MCT 프로그램에 적격한 현재 Microsoft 인증 및 자격 충족여부 확인
 
 - **MCT 프로그램 참여 신청.** MCT Alumni 멤버인 경우, 기존의 MCT 프로그램 참가 신청을 증명하는 교육기술 인증 증빙서류를 제출하시거나 최소 1년의 교육 경력을 증명하는 증빙서류를 제출하시기 바랍니다. 관련 증빙서류는 과거 고객, 매니저 또는 동료 직원으로부터 발급 받으셔도 무방합니다.
 

@@ -14,25 +14,25 @@ ms.author: micsullivan
 
 | 2020년 6월 30일 중단 예정 | |
 | --- | --- |
-| [MB2-716](https://www.microsoft.com/ko-kr/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 사용자 지정 및 구성 |  |
-| [MB6-894](https://www.microsoft.com/ko-kr/learning/exam-mb6-894.aspx): Microsoft Dynamics 365 for Finance and Operations 개발, 확장 및 배포 |  |
+| [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 사용자 지정 및 구성 |  |
+| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Microsoft Dynamics 365 for Finance and Operations 개발, 확장 및 배포 |  |
 
 | 2019년 12월 31일 중단 예정 | |
 | --- | --- |
-| [70-348](https://www.microsoft.com/ko-kr/learning/exam-70-348.aspx): Microsoft PPM 에 의한 프로젝트 및 포트폴리오 관리 |  |
-| [70-703](https://www.microsoft.com/ko-kr/learning/exam-70-703.aspx): Microsoft 시스템 센터 구성 관리자 관리 및 cloud 서비스 통합 |  |
-| [70-713](https://www.microsoft.com/ko-kr/learning/exam-70-713.aspx): 소프트웨어 자산 관리 (SAM) - Core |  |
-| [70-735](https://www.microsoft.com/ko-kr/learning/exam-70-735.aspx): Windows 10용 OEM 제조 및 배포 |  |
-| [MB2-706](https://www.microsoft.com/ko-kr/learning/exam-MB2-706.aspx): Microsoft Dynamics CRM 온라인 배포|  |
-| [MB2-707](https://www.microsoft.com/ko-kr/learning/exam-MB2-707.aspx): Microsoft Dynamics CRM 사용자 지정 및 구성 |  |
-| [MB2-708](https://www.microsoft.com/ko-kr/learning/exam-MB2-708.aspx): Microsoft Dynamics CRM 설치 |  |
-| [MB2-710](https://www.microsoft.com/ko-kr/learning/exam-MB2-710.aspx): Microsoft Dynamics CRM 2016 온라인 배포 |  |
-| [MB2-711](https://www.microsoft.com/ko-kr/learning/exam-MB2-711.aspx): Microsoft Dynamics CRM 2016 설치 |  |
-| [MB2-712](https://www.microsoft.com/ko-kr/learning/exam-MB2-712.aspx): Microsoft Dynamics CRM 2016 사용자 지정 및 구성 |  |
-| [MB2-713](https://www.microsoft.com/ko-kr/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales |  |
-| [MB2-714](https://www.microsoft.com/ko-kr/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service |  |
-| [MB6-897](https://www.microsoft.com/ko-kr/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
-| [MB6-898](https://www.microsoft.com/ko-kr/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
+| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx): Microsoft PPM 에 의한 프로젝트 및 포트폴리오 관리 |  |
+| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx): Microsoft 시스템 센터 구성 관리자 관리 및 cloud 서비스 통합 |  |
+| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx): 소프트웨어 자산 관리 (SAM) - Core |  |
+| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx): Windows 10용 OEM 제조 및 배포 |  |
+| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx): Microsoft Dynamics CRM 온라인 배포|  |
+| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx): Microsoft Dynamics CRM 사용자 지정 및 구성 |  |
+| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx): Microsoft Dynamics CRM 설치 |  |
+| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx): Microsoft Dynamics CRM 2016 온라인 배포 |  |
+| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx): Microsoft Dynamics CRM 2016 설치 |  |
+| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx): Microsoft Dynamics CRM 2016 사용자 지정 및 구성 |  |
+| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales |  |
+| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service |  |
+| [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
+| [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
 
 ## 최근 중단된 시험
 
@@ -40,68 +40,68 @@ ms.author: micsullivan
 
 | ITPro/Developer| | |
 | --- | --- | --- |
-| [AZ-100](https://www.microsoft.com/ko-kr/learning/exam-AZ-100.aspx) | Microsoft Azure 인프라 및 배포 | 2019년 5월 1일
-| [AZ-101](https://www.microsoft.com/ko-kr/learning/exam-AZ-101.aspx) | Microsoft Azure 통합 및 보안 | 2019년 5월 1일
-| [AZ-102](https://www.microsoft.com/ko-kr/learning/exam-AZ-102.aspx) | Microsoft Azure 관리 인증 변환 | 2019년 6월 30일
-| [AZ-200](https://www.microsoft.com/ko-kr/learning/exam-AZ-200.aspx) | Microsoft Azure 개발자 핵심 솔루션 (2018년 9월 24일) | 2019년 1월 3일
-| [AZ-201](https://www.microsoft.com/ko-kr/learning/exam-AZ-201.aspx) | Microsoft Azure 개발자 고급 솔루션 (2018년 9월 24일) | 2019년 1월 3일
-| [AZ-202](https://www.microsoft.com/ko-kr/learning/exam-AZ-202.aspx) | Microsoft Azure 개발자 인증 전환 (2018년 9월 24일) | 2019년 3월 31일
-| [AZ-302](https://www.microsoft.com/ko-kr/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect 인증 변환 | 2019년 6월 30일
-| [MS-202](https://www.microsoft.com/ko-kr/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator 인증 전환 | 2019년 9월 30일
-| [MS-302](https://www.microsoft.com/ko-kr/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator 인증 전환 | 2019년 9월 30일
+| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure 인프라 및 배포 | 2019년 5월 1일
+| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure 통합 및 보안 | 2019년 5월 1일
+| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure 관리 인증 변환 | 2019년 6월 30일
+| [AZ-200](https://www.microsoft.com/learning/exam-AZ-200.aspx) | Microsoft Azure 개발자 핵심 솔루션 (2018년 9월 24일) | 2019년 1월 3일
+| [AZ-201](https://www.microsoft.com/learning/exam-AZ-201.aspx) | Microsoft Azure 개발자 고급 솔루션 (2018년 9월 24일) | 2019년 1월 3일
+| [AZ-202](https://www.microsoft.com/learning/exam-AZ-202.aspx) | Microsoft Azure 개발자 인증 전환 (2018년 9월 24일) | 2019년 3월 31일
+| [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect 인증 변환 | 2019년 6월 30일
+| [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator 인증 전환 | 2019년 9월 30일
+| [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator 인증 전환 | 2019년 9월 30일
 | 70-246 | System Center 2012 에 의한 사설 클라우드 모니터링 및 운영| 2017년 12월 31일
 | 70-247 | 사설 클라우드 구성 및 배포 | 2017년 12월 31일
-| [70-331](https://www.microsoft.com/ko-kr/learning/exam-70-331.aspx) | Microsoft SharePoint Server 2013 핵심 솔루션| 2019년 3월 31일
-| [70-332](https://www.microsoft.com/ko-kr/learning/exam-70-332.aspx) | Microsoft SharePoint Server 2013 고급 솔루션| 2019년 3월 31일
-| [70-341](https://www.microsoft.com/ko-kr/learning/exam-70-341.aspx) | Microsoft Exchange Server 2013 핵심 솔루션| 2019년 3월 31일
-| [70-342](https://www.microsoft.com/ko-kr/learning/exam-70-342.aspx) | Microsoft Exchange Server 2013 고급 솔루션| 2019년 3월 31일
-| [70-346](https://www.microsoft.com/ko-kr/learning/exam-70-346.aspx) | Managing Office 365 ID 및 요구사항 관리 | 2019년 4월 30일
-| [70-347](https://www.microsoft.com/ko-kr/learning/exam-70-347.aspx) | Office 365 Services 사용 | 2019년 4월 30일
+| [70-331](https://www.microsoft.com/learning/exam-70-331.aspx) | Microsoft SharePoint Server 2013 핵심 솔루션| 2019년 3월 31일
+| [70-332](https://www.microsoft.com/learning/exam-70-332.aspx) | Microsoft SharePoint Server 2013 고급 솔루션| 2019년 3월 31일
+| [70-341](https://www.microsoft.com/learning/exam-70-341.aspx) | Microsoft Exchange Server 2013 핵심 솔루션| 2019년 3월 31일
+| [70-342](https://www.microsoft.com/learning/exam-70-342.aspx) | Microsoft Exchange Server 2013 고급 솔루션| 2019년 3월 31일
+| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 ID 및 요구사항 관리 | 2019년 4월 30일
+| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Office 365 Services 사용 | 2019년 4월 30일
 | 70-398 | 기업의 장치 계획 및 관리 | 2018년 7월 31일
-| [70-473](https://www.microsoft.com/ko-kr/learning/exam-70-473.aspx) | Cloud Data Platform Solutions 설계 및 구현 | 2019년 6월 30일
-| [70-475](https://www.microsoft.com/ko-kr/learning/exam-70-475.aspx) | 빅 데이터 분석 솔루션 설계와 이행 | 2019년 6월 30일
+| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Cloud Data Platform Solutions 설계 및 구현 | 2019년 6월 30일
+| [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | 빅 데이터 분석 솔루션 설계와 이행 | 2019년 6월 30일
 | 70-488 | SharePoint Server 2013 핵심 솔루션 개발 | 2018년 7월 31일
 | 70-489 | SharePoint Server 2013 고급 솔루션 개발 | 2018년 7월 31일
-| [70-496](https://www.microsoft.com/ko-kr/learning/exam-70-496.aspx) | Visual Studio Team Foundation Server 관리| 2018년 12월 31일
-| [70-497](https://www.microsoft.com/ko-kr/learning/exam-70-497.aspx) | Visual Studio에 의한 소프트웨어 테스팅 | 2018년 12월 31일
-| [70-498](https://www.microsoft.com/ko-kr/learning/exam-70-498.aspx) | Visual Studio 로 연속 가치 제공| 2018년 12월 31일
-| [70-532](https://www.microsoft.com/ko-kr/learning/exam-70-532.aspx) | Microsoft Azure 솔루션 개발 | 2018년 12월 31일
-| [70-533](https://www.microsoft.com/ko-kr/learning/exam-70-533.aspx) | Microsoft Azure Infrastructure 솔루션 구현| 2018년 12월 31일
-| [70-534](https://www.microsoft.com/ko-kr/learning/exam-70-534.aspx) | Microsoft Azure 솔루션 설계| 2017년 12월 31일
-| [70-535](https://www.microsoft.com/ko-kr/learning/exam-70-535.aspx) | Microsoft Azure 솔루션 설계 | 2018년 12월 31일
+| [70-496](https://www.microsoft.com/learning/exam-70-496.aspx) | Visual Studio Team Foundation Server 관리| 2018년 12월 31일
+| [70-497](https://www.microsoft.com/learning/exam-70-497.aspx) | Visual Studio에 의한 소프트웨어 테스팅 | 2018년 12월 31일
+| [70-498](https://www.microsoft.com/learning/exam-70-498.aspx) | Visual Studio 로 연속 가치 제공| 2018년 12월 31일
+| [70-532](https://www.microsoft.com/learning/exam-70-532.aspx) | Microsoft Azure 솔루션 개발 | 2018년 12월 31일
+| [70-533](https://www.microsoft.com/learning/exam-70-533.aspx) | Microsoft Azure Infrastructure 솔루션 구현| 2018년 12월 31일
+| [70-534](https://www.microsoft.com/learning/exam-70-534.aspx) | Microsoft Azure 솔루션 설계| 2017년 12월 31일
+| [70-535](https://www.microsoft.com/learning/exam-70-535.aspx) | Microsoft Azure 솔루션 설계 | 2018년 12월 31일
 | 70-680 | Windows 7, 구성 | 2018년 7월 31일
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 2018년 7월 31일
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 2018년 7월 31일
-| [70-695](https://www.microsoft.com/ko-kr/learning/exam-70-695.aspx) | Windows Desktops 및 엔터프라이즈 애플리케이션 배포 | 2019년 3월 31일
+| [70-695](https://www.microsoft.com/learning/exam-70-695.aspx) | Windows Desktops 및 엔터프라이즈 애플리케이션 배포 | 2019년 3월 31일
 | 70-696 | System Center Configuration Manager 및 Intune 관리 | 2018년 3월 31일
-| [70-697](https://www.microsoft.com/ko-kr/learning/exam-70-697.aspx) | Windows 장치 구성| 2019년 4월 30일
-| [70-698](https://www.microsoft.com/ko-kr/learning/exam-70-698.aspx) | Windows 10 설치 및 구성 | 2019년 3월 31일
-| [70-773](https://www.microsoft.com/ko-kr/learning/exam-70-773.aspx) | Microsoft R로 빅데이터 분석 | 2019년 6월 30일
-| [70-774](https://www.microsoft.com/ko-kr/learning/exam-70-774.aspx) | Azure Machine Learning으로 Cloud Data Science 수행 | 2019년 6월 30일
-| [70-775](https://www.microsoft.com/ko-kr/learning/exam-70-775.aspx) | Microsoft HDInsight상의 데이터 엔지니어링 수행 | 2019년 6월 30일
-| [70-776](https://www.microsoft.com/ko-kr/learning/exam-70-776.aspx) | Microsoft Cloud Services에서 빅 데이터 엔지니어링 수행 | 2019년 6월 30일
-| [74-343](https://www.microsoft.com/ko-kr/learning/exam-74-343.aspx) | Microsoft Project 2013 프로젝트 관리 | 2019년 7월 31일
+| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Windows 장치 구성| 2019년 4월 30일
+| [70-698](https://www.microsoft.com/learning/exam-70-698.aspx) | Windows 10 설치 및 구성 | 2019년 3월 31일
+| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | Microsoft R로 빅데이터 분석 | 2019년 6월 30일
+| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Azure Machine Learning으로 Cloud Data Science 수행 | 2019년 6월 30일
+| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Microsoft HDInsight상의 데이터 엔지니어링 수행 | 2019년 6월 30일
+| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Microsoft Cloud Services에서 빅 데이터 엔지니어링 수행 | 2019년 6월 30일
+| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Microsoft Project 2013 프로젝트 관리 | 2019년 7월 31일
 | 74-344 | Project Server 2013에서 프로그램 및 프로젝트 관리 | 2017년 12월 31일
 | 74-409 | Windows Server Hyper-V 및 System Center를 사용한 Server Virtualization | 2018년 7월 31일
-| [98-369](https://www.microsoft.com/ko-kr/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019년 9월 30일
-| [98-380](https://www.microsoft.com/ko-kr/learning/exam-98-380.aspx) | 블록 기반 언어(터치 개발)를 사용한 프로그래밍 소개 | 2019년 8월 7일
+| [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019년 9월 30일
+| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | 블록 기반 언어(터치 개발)를 사용한 프로그래밍 소개 | 2019년 8월 7일
 
 <br/>
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
-| [MB2-709](https://www.microsoft.com/ko-kr/learning/exam-MB2-709.aspx) | Microsoft Dynamics Marketing | 2017년 12월 31일
-| [MB2-715](https://www.microsoft.com/ko-kr/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 고객 관련 온라인 효율화 | 2019년 6월 30일
-| [MB2-717](https://www.microsoft.com/ko-kr/learning/exam-MB2-717.aspx) | MB2-717 Microsoft Dynamics 365 for Sales | 2019년 6월 30일
-| [MB2-718](https://www.microsoft.com/ko-kr/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service | 2019년 8월 31일
-| [MB2-719](https://www.microsoft.com/ko-kr/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 2019년 8월 31일
-| [MB2-877](https://www.microsoft.com/ko-kr/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 2019년 6월 30일
+| [MB2-709](https://www.microsoft.com/learning/exam-MB2-709.aspx) | Microsoft Dynamics Marketing | 2017년 12월 31일
+| [MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 고객 관련 온라인 효율화 | 2019년 6월 30일
+| [MB2-717](https://www.microsoft.com/learning/exam-MB2-717.aspx) | MB2-717 Microsoft Dynamics 365 for Sales | 2019년 6월 30일
+| [MB2-718](https://www.microsoft.com/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service | 2019년 8월 31일
+| [MB2-719](https://www.microsoft.com/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 2019년 8월 31일
+| [MB2-877](https://www.microsoft.com/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 2019년 6월 30일
 | MB6-705 | Microsoft Dynamics AX 2012 R3 CU8 설치 및 구성 | 2017년 12월 31일
 | MB6-890 | Microsoft Dynamics AX Development Introduction | 2017년 12월 31일
 | MB6-892 | Microsoft Dynamics AX Distribution and Trade | 2017년 12월 31일
 | MB6-893 | Microsoft Dynamics AX Financials | 2017년 12월 31일
-| [MB6-895](https://www.microsoft.com/ko-kr/learning/exam-MB6-895.aspx) | 재무 및 운영을 위한 Microsoft Dynamics 365에서 재무 관리 분야 | 2019년 8월 31일
-| [MB6-896](https://www.microsoft.com/ko-kr/learning/exam-MB6-896.aspx) | Microsoft Dynamics 365 재무 및 운영에서 배포 및 거래 | 2019년 8월 31일
+| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | 재무 및 운영을 위한 Microsoft Dynamics 365에서 재무 관리 분야 | 2019년 8월 31일
+| [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Microsoft Dynamics 365 재무 및 운영에서 배포 및 거래 | 2019년 8월 31일
 
 ## 다른 만료된 시험
 
