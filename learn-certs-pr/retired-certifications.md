@@ -16,9 +16,9 @@ Microsoft Certified Professional 프로그램을 최신 상태로 유지하기 �
 
 향후 12개월 내에 중단될 예정인 인증을 확인하세요. (추후 변동될 수 있습니다.) 
 
-[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/ko-kr/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020년 6월 30일 중단 예정  
+[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020년 6월 30일 중단 예정  
 
-[MCSE: Business Applications](https://www.microsoft.com/ko-kr/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019년 12월 31일 중단 예정  
+[MCSE: Business Applications](https://www.microsoft.com/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019년 12월 31일 중단 예정  
 
 MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019년 12월 31일 중단 예정  
 
@@ -36,18 +36,18 @@ MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: 클라우드 플랫폼](https://www.microsoft.com/ko-kr/learning/mcsa-cloud-platform-certification.aspx)           | 2018년 12월 31일 |
-| [MCSA: Azure에서 Linux](https://www.microsoft.com/ko-kr/learning/mcsa-linux-azure-certification.aspx)            | 2018년 12월 31일 |
-| [MCSA: Office 365](https://www.microsoft.com/ko-kr/learning/mcsa-office365-certification.aspx)               | 2019년 4월 30일   |
-| [MCSA: Windows 10](https://www.microsoft.com/ko-kr/learning/mcsa-windows-10-certifications.aspx)              | 2019년 4월 30일   |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/ko-kr/learning/mcsa-microsoft-dynamics-365.aspx)          | 2019년 6월 30일   |
-| [MCSA: Machine Learning](https://www.microsoft.com/ko-kr/learning/mcsa-machine-learning.aspx)                | 2019년 6월 30일   |
-| [MCSA: Azure 데이터 엔지니어링](https://www.microsoft.com/ko-kr/learning/mcsa-data-engineering-with-azure.aspx)     | 2019년 6월 30일   |
+| [MCSA: 클라우드 플랫폼](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)           | 2018년 12월 31일 |
+| [MCSA: Azure에서 Linux](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)            | 2018년 12월 31일 |
+| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)               | 2019년 4월 30일   |
+| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)              | 2019년 4월 30일   |
+| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)          | 2019년 6월 30일   |
+| [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                | 2019년 6월 30일   |
+| [MCSA: Azure 데이터 엔지니어링](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)     | 2019년 6월 30일   |
 
 | Microsoft Certified Solutions Expert                        |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Cloud Platfrom 및 인프라](https://www.microsoft.com/ko-kr/learning/mcse-cloud-platform-infrastructure.aspx) | 2018년 12월 31일 |
-| [MCSE: Mobility](https://www.microsoft.com/ko-kr/learning/mcse-mobility-certification.aspx)                 | 2019년 4월 30일   |
+| [MCSE: Cloud Platfrom 및 인프라](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 2018년 12월 31일 |
+| [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                 | 2019년 4월 30일   |
 
 | Microsoft Technology Associate                           |          |
 | ---------------------------------------------------------------------------------- | ------------------ |

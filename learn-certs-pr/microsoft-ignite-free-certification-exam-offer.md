@@ -64,7 +64,7 @@ Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 �
 - 이 시험 제안은 양도할 수 없으며 변경, 수정 또는 양도할 경우 무효로 됩니다.
 - 본 시험 제안은 공식 Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 등록하여 참가한 개인에게만 제공됩니다.
 
-자세한 내용은 [Microsoft 이용 약관](https://www.microsoft.com/ko-kr/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1) 전문을 참조하십시오.
+자세한 내용은 [Microsoft 이용 약관](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1) 전문을 참조하십시오.
 
 ## 외부 FAQ - MS Ignite 및 The Tour 무료 시험 제안
 
@@ -76,7 +76,7 @@ Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 �
 
 **큐: 이 제안으로 치를 수 있는 인증 시험은 무엇인가요?**
 
-**앤:** 이 제안에는 모든 Microsoft 기본, 역할 기반 및 전문 인증 시험이 포함됩니다. 인증 시험 목록은 다음의 제안 정보 페이지의 “이 제안으로 치를 수 있는 시험” 섹션을 참조하십시오. [https://docs.microsoft.com/ko-kr/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/ko-kr/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
+**앤:** 이 제안에는 모든 Microsoft 기본, 역할 기반 및 전문 인증 시험이 포함됩니다. 인증 시험 목록은 다음의 제안 정보 페이지의 “이 제안으로 치를 수 있는 시험” 섹션을 참조하십시오. [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
 
 **큐: 자격이 되는 이벤트에 등록했지만 직접 참가하지는 않았습니다. 그래도 제안이 유효한가요?**
 
@@ -98,7 +98,7 @@ Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 �
 
 **큐: 이 제안으로 무료 시험을 예약하는 방법이 어떻게 되나요?**
 
-**앤:** 무료 시험을 예약하는 방법은 [https://docs.microsoft.com/ko-kr/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/ko-kr/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam) 을 참조하십시오.
+**앤:** 무료 시험을 예약하는 방법은 [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam) 을 참조하십시오.
 
 **큐: 시험 할인 자격을 확인하는 도중 공무원이 아닌데도 공무원이라는 이유로 자격이 없다고 뜹니다. 어떻게 해야 하죠?**
 
@@ -111,7 +111,7 @@ Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 �
 **큐: 예약한 시험을 직접 치르거나 온라인으로 치르는 것을 선택할 수 있나요?**
 
 **앤:** 네, 예약한 시험은 지역 Pearson Vue 시험 센터에서 직접 치르거나 온라인 감독(OP)을 통해 치를 수 있습니다. 온라인 시험에 대해 자세히 알아보려면 다음을 참조하세요
-[https://www.microsoft.com/ko-kr/learning/online-exams.aspx](https://www.microsoft.com/ko-kr/learning/online-exams.aspx)
+[https://www.microsoft.com/learning/online-exams.aspx](https://www.microsoft.com/learning/online-exams.aspx)
 
 ### 취소 및 일정 변경 정책
 
@@ -121,14 +121,14 @@ Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 �
 
 **큐: 약속을 변경하거나 예약을 취소할 경우 수수료가 부과되나요?**
 
-**앤:** 예약일 기준 최소 6일 전에 시험 약속을 변경하거나 취소하면 수수료가 부과되지 않습니다. 예약일 기준 영업일 5일 내에 일정을 변경하는 경우 변경 수수료를 지불해야 합니다. 예약일 기준 이틀 전에는 예약을 변경하거나 취소할 수 없을 수 있습니다. 시험을 치르지 않으면 제공된 무료 시험 자격이 박탈됩니다. 자세한 내용은 [취소 및 일정 변경 정책](https://docs.microsoft.com/ko-kr/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) 을 참조하십시오.
+**앤:** 예약일 기준 최소 6일 전에 시험 약속을 변경하거나 취소하면 수수료가 부과되지 않습니다. 예약일 기준 영업일 5일 내에 일정을 변경하는 경우 변경 수수료를 지불해야 합니다. 예약일 기준 이틀 전에는 예약을 변경하거나 취소할 수 없을 수 있습니다. 시험을 치르지 않으면 제공된 무료 시험 자격이 박탈됩니다. 자세한 내용은 [취소 및 일정 변경 정책](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) 을 참조하십시오.
 
 **큐: 약속한 시험을 치르지 않고 일정을 변경하거나 취소하지 않은 경우에는 어떻게 되나요?**
 
-**앤:** 예약일 기준 24시간 이전에 일정을 변경하거나 취소하지 않고 예약한 시험에 출석하지 못한 경우, 무료 시험 자격이 박탈됩니다. 자세한 내용은 [취소 및 일정 변경 정책](https://docs.microsoft.com/ko-kr/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) 을 참조하십시오.
+**앤:** 예약일 기준 24시간 이전에 일정을 변경하거나 취소하지 않고 예약한 시험에 출석하지 못한 경우, 무료 시험 자격이 박탈됩니다. 자세한 내용은 [취소 및 일정 변경 정책](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) 을 참조하십시오.
 
 ### 재응시 정책
 
 **큐: 무료 인증 시험 제안을 사용하여 치른 첫 번째 시험에 낙제한 경우 무료로 시험에 재응시할 수 있나요?**
 
-**앤:** 아니오, 이 제안은 한 번의 시험에만 유효하며 재시험은 별도로 예약해야 합니다. 인증 시험 재응시에 대한 자세한 내용은 [시험 재응시 정책](https://www.microsoft.com/ko-kr/learning/certification-exam-policies.aspx#policies-1) 을 참조하십시오.
+**앤:** 아니오, 이 제안은 한 번의 시험에만 유효하며 재시험은 별도로 예약해야 합니다. 인증 시험 재응시에 대한 자세한 내용은 [시험 재응시 정책](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1) 을 참조하십시오.
