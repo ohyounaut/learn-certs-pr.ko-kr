@@ -68,11 +68,11 @@ ms.author: micsullivan
 
 **질문. Exam Replay 쿠폰으로 온라인 감독 시험에 응시할 수 있습니까?**
 
-**답변.** 예, 온라인 감독 시험에 응시 가능한 경우 Exam Replay 쿠폰으로 응시할 수 있습니다. Microsoft 인증 [온라인 시험에 대해 자세히 알아보기](https://www.microsoft.com/ko-kr/learning/online-proctored-exams.aspx).
+**답변.** 예, 온라인 감독 시험에 응시 가능한 경우 Exam Replay 쿠폰으로 응시할 수 있습니다. Microsoft 인증 [온라인 시험에 대해 자세히 알아보기](https://www.microsoft.com/learning/online-proctored-exams.aspx).
 
 **질문. 첫 시험과 재응시를 동시에 예약할 수 있습니까?**
 
-**답변.** 아니요, 첫 시험에 응시하고 불합격 결과가 나오기 전까지 재시험은 예약하실 수 없습니다. 자세한 내용은 [Microsoft 인증 Exam Replay 정책](https://www.microsoft.com/ko-kr/learning/certification-exam-policies.aspx)을 참고하시기 바랍니다.
+**답변.** 아니요, 첫 시험에 응시하고 불합격 결과가 나오기 전까지 재시험은 예약하실 수 없습니다. 자세한 내용은 [Microsoft 인증 Exam Replay 정책](https://www.microsoft.com/learning/certification-exam-policies.aspx)을 참고하시기 바랍니다.
 
 **질문. 연습 시험은 어떻게 활성화하며 얼마나 오랫동안 유효합니까?**
 

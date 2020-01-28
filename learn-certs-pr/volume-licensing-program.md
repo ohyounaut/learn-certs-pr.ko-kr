@@ -15,7 +15,7 @@ Microsoft 교육 및 인증 솔루션은 기업과 공인 교육 기관이 Micro
 Microsoft 교육 및 인증 솔루션은 다음의 Microsoft 볼륨 라이선싱 프로그램을 통해 제공됩니다:
 
 * **Microsoft 볼륨 라이선싱**. Microsoft 교육 및 인증 솔루션에 대한 할인된 액세스 권한을 부여하는 사용자 지정 가능한 Microsoft 소프트웨어 구매 프로그램.
-* **[Software Assurance 용 Microsoft 볼륨 라이선싱](https://www.microsoft.com/ko-kr/learning/software-assurance-benefits.aspx)**. 기존 Software Assurance 혜택 범위를 통해 특정 Software Assurance e-러닝 및 강사 주도 교육에 액세스할 수 있는 비용 효율적인 프로그램.
+* **[Software Assurance 용 Microsoft 볼륨 라이선싱](https://www.microsoft.com/learning/software-assurance-benefits.aspx)**. 기존 Software Assurance 혜택 범위를 통해 특정 Software Assurance e-러닝 및 강사 주도 교육에 액세스할 수 있는 비용 효율적인 프로그램.
 
 볼륨 라이선싱을 통해 이 페이지에 설명된 Microsoft 교육 및 인증 솔루션 제품의 구매, 예산 및 추적을 다른 Microsoft 기술 구매와 통합하면 조직은 평균 20~80%의 비용 절감 효과를 얻을 수 있습니다(이 효과는 제품 및 볼륨 라이선싱 계약 수준에 따라 다릅니다).
 
@@ -94,7 +94,7 @@ Microsoft 교육 및 인증 솔루션은 다음의 Microsoft 볼륨 라이선싱
 
 ## 자주 하는 질문
 
-다음 질문들은 특히 Microsoft 교육 및 인증 솔루션을 위한 볼륨 라이선싱을 다룹니다. Microsoft 인증 또는 시험에 관한 일반적인 질문에 대한 대답을 보시려면 [인증 개요](https://www.microsoft.com/ko-kr/learning/certification-overview.aspx) 또는 [시험 정책과 자주 묻는 질문](https://www.microsoft.com/ko-kr/learning/certification-exam-policies.aspx) 페이지를 방문하십시오.
+다음 질문들은 특히 Microsoft 교육 및 인증 솔루션을 위한 볼륨 라이선싱을 다룹니다. Microsoft 인증 또는 시험에 관한 일반적인 질문에 대한 대답을 보시려면 [인증 개요](https://www.microsoft.com/learning/certification-overview.aspx) 또는 [시험 정책과 자주 묻는 질문](https://www.microsoft.com/learning/certification-exam-policies.aspx) 페이지를 방문하십시오.
 
 ### **Microsoft 교육 및 인증 솔루션**
 
@@ -154,7 +154,7 @@ Microsoft 교육 및 인증 솔루션은 1계층의 단일 패키지 가격 책�
 조직에서 코드를 더 많이 취득할수록 더 큰 볼륨 할인을 받습니다. 다음 리소스 중 하나를 사용하여 조직의 교육 요구 사항을 결정하고 회사의 비즈니스 목표에 맞는 학습 계획을 수립할 것을 권장합니다.
 
 - [Microsoft 교육 및 인증 솔루션의 볼륨 라이선싱 도움말에 대한 이메일 메시지를 보내십시오](mailto:mslvlhlp@microsoft.com)
-- [Microsoft 교육 및 인증 솔루션을 위한 현지 Microsoft 인증 파트너를 찾으십시오](https://www.microsoft.com/ko-kr/learning/find-partner.aspx)
+- [Microsoft 교육 및 인증 솔루션을 위한 현지 Microsoft 인증 파트너를 찾으십시오](https://www.microsoft.com/learning/find-partner.aspx)
 
 **큐: 몇 개의 시험 쿠폰을 주문해야 합니까?**
 
@@ -172,7 +172,7 @@ Microsoft 교육 및 인증 솔루션은 1계층의 단일 패키지 가격 책�
 
 **큐: MCP(Microsoft Certified Professional) 클래스 팩, MOS(Microsoft Office Specialist) 사이트 팩 및 MTA(Microsoft Technology Associate) 사이트 팩에 포함된 시험을 준비하는 데 사용할 수 있는 교육 과정 옵션은 무엇입니까?**
 
-각 시험에는 이용 가능한 준비 자료가 있습니다. [새 시험 목록](https://www.microsoft.com/ko-kr/learning/exam-list.aspx)에서 시험을 선택한 다음 시험에 사용할 수 있는 준비 옵션을 찾으십시오.
+각 시험에는 이용 가능한 준비 자료가 있습니다. [새 시험 목록](https://www.microsoft.com/learning/exam-list.aspx)에서 시험을 선택한 다음 시험에 사용할 수 있는 준비 옵션을 찾으십시오.
 
 **큐: 볼륨 라이선싱을 통해 Microsoft 인증 시험 클래스 또는 사이트 팩을 주문하려면 기관이 Microsoft Imagine Academy 자격을 가져야 합니까?**
   
