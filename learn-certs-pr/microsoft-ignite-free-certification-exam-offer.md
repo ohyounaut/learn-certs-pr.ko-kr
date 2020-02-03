@@ -70,65 +70,65 @@ Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 �
 
 ### 제안에 관한 정보
 
-**큐: 이 제안으로 몇 개의 시험을 무료로 예약할 수 있나요?**
+**Q: 이 제안으로 몇 개의 시험을 무료로 예약할 수 있나요?**
 
-**앤:** 이 제안으로 자격증 시험 하나를 무료로 신청 가능합니다.
+**A:** 이 제안으로 자격증 시험 하나를 무료로 신청 가능합니다.
 
-**큐: 이 제안으로 치를 수 있는 인증 시험은 무엇인가요?**
+**Q: 이 제안으로 치를 수 있는 인증 시험은 무엇인가요?**
 
-**앤:** 이 제안에는 모든 Microsoft 기본, 역할 기반 및 전문 인증 시험이 포함됩니다. 인증 시험 목록은 다음의 제안 정보 페이지의 “이 제안으로 치를 수 있는 시험” 섹션을 참조하십시오. [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
+**A:** 이 제안에는 모든 Microsoft 기본, 역할 기반 및 전문 인증 시험이 포함됩니다. 인증 시험 목록은 다음의 제안 정보 페이지의 “이 제안으로 치를 수 있는 시험” 섹션을 참조하십시오. [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
 
-**큐: 자격이 되는 이벤트에 등록했지만 직접 참가하지는 않았습니다. 그래도 제안이 유효한가요?**
+**Q: 자격이 되는 이벤트에 등록했지만 직접 참가하지는 않았습니다. 그래도 제안이 유효한가요?**
 
-**앤:** 아니오, 이 제안은 Microsoft Ignite 2019 또는 Microsofy Ignite The Tour 2019-2020 행사에 직접 참석한 사람에게만 유효합니다.
+**A:** 아니오, 이 제안은 Microsoft Ignite 2019 또는 Microsofy Ignite The Tour 2019-2020 행사에 직접 참석한 사람에게만 유효합니다.
 
-**큐: 홍콩, 스위스, 이스라엘, 독일, 러시아, 스웨덴 거주자는 왜 자격 대상이 아닌가요?**
+**Q: 홍콩, 스위스, 이스라엘, 독일, 러시아, 스웨덴 거주자는 왜 자격 대상이 아닌가요?**
 
-**앤:** 본 국가 거주자는 Microsoft의 증정 정책 및 현지 법으로 인해 제안을 제공할 수 없습니다. 각국은 어느 기업이든 주민에게 증정하는 것을 제한하는 구체적인 법안을 가지고 있으며, 당사의 인증 시험 가치는 제한을 초과하므로 Microsoft는 이들 국가의 거주자에게 무료 시험을 제공할 수 없습니다.
+**A:** 본 국가 거주자는 Microsoft의 증정 정책 및 현지 법으로 인해 제안을 제공할 수 없습니다. 각국은 어느 기업이든 주민에게 증정하는 것을 제한하는 구체적인 법안을 가지고 있으며, 당사의 인증 시험 가치는 제한을 초과하므로 Microsoft는 이들 국가의 거주자에게 무료 시험을 제공할 수 없습니다.
 
 ### 무료 시험 예약
 
-**큐: 이미 참석했거나 참석할 예정인 이벤트 기간 동안에만 이 제안으로 무료 시험을 예약할 수 있나요?**
+**Q: 이미 참석했거나 참석할 예정인 이벤트 기간 동안에만 이 제안으로 무료 시험을 예약할 수 있나요?**
 
-**앤:** 아니오, 참석하신 이벤트 기간 내에 이 제안으로 무료 시험을 예약하지 않아도 됩니다. 이벤트 중이나 이벤트 종료 이후에 시험 예약이 가능합니다. 무료 시험을 치를 수 있는 제안은 행사가 끝난 다음 날부터 180일 이후에 만료됩니다.
+**A:** 아니오, 참석하신 이벤트 기간 내에 이 제안으로 무료 시험을 예약하지 않아도 됩니다. 이벤트 중이나 이벤트 종료 이후에 시험 예약이 가능합니다. 무료 시험을 치를 수 있는 제안은 행사가 끝난 다음 날부터 180일 이후에 만료됩니다.
 
-**큐: 이벤트가 종료된 후 180일 이내에 시험을 치러야 하나요?**
+**Q: 이벤트가 종료된 후 180일 이내에 시험을 치러야 하나요?**
 
-**앤:** 네, 이벤트가 끝난 후 180일 이내에 시험을 치러야 합니다.
+**A:** 네, 이벤트가 끝난 후 180일 이내에 시험을 치러야 합니다.
 
-**큐: 이 제안으로 무료 시험을 예약하는 방법이 어떻게 되나요?**
+**Q: 이 제안으로 무료 시험을 예약하는 방법이 어떻게 되나요?**
 
-**앤:** 무료 시험을 예약하는 방법은 [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam) 을 참조하십시오.
+**A:** 무료 시험을 예약하는 방법은 [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam) 을 참조하십시오.
 
-**큐: 시험 할인 자격을 확인하는 도중 공무원이 아닌데도 공무원이라는 이유로 자격이 없다고 뜹니다. 어떻게 해야 하죠?**
+**Q: 시험 할인 자격을 확인하는 도중 공무원이 아닌데도 공무원이라는 이유로 자격이 없다고 뜹니다. 어떻게 해야 하죠?**
 
-**앤:** 신원을 공무원으로 잘못 인식하는 경우, 이벤트 등록 프로필에서 정부 입력란을 업데이트하고 이벤트가 종료된 후 자격 여부를 확인할 수 있습니다. [Microsoft 인증 지원 포럼](https://trainingsupport.microsoft.com/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) ([https://aka.ms/CertificationSupport](https://aka.ms/CertificationSupport)) 에 도움을 요청할 수도 있습니다.
+**A:** 신원을 공무원으로 잘못 인식하는 경우, 이벤트 등록 프로필에서 정부 입력란을 업데이트하고 이벤트가 종료된 후 자격 여부를 확인할 수 있습니다. [Microsoft 인증 지원 포럼](https://trainingsupport.microsoft.com/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) ([https://aka.ms/CertificationSupport](https://aka.ms/CertificationSupport)) 에 도움을 요청할 수도 있습니다.
 
-**큐: 무료 시험 예약에 문제가 있습니다. 어디서 도움을 받을 수 있나요?**
+**Q: 무료 시험 예약에 문제가 있습니다. 어디서 도움을 받을 수 있나요?**
 
-**앤:** [Microsoft 인증 지원 포럼](https://trainingsupport.microsoft.com/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) ([https://aka.ms/CertificationSupport](https://aka.ms/CertificationSupport)) 에서 도움을 받을 수 있습니다. 조정자가 영업일 하루 만에 연락을 취할 겁니다.
+**A:** [Microsoft 인증 지원 포럼](https://trainingsupport.microsoft.com/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) ([https://aka.ms/CertificationSupport](https://aka.ms/CertificationSupport)) 에서 도움을 받을 수 있습니다. 조정자가 영업일 하루 만에 연락을 취할 겁니다.
 
-**큐: 예약한 시험을 직접 치르거나 온라인으로 치르는 것을 선택할 수 있나요?**
+**Q: 예약한 시험을 직접 치르거나 온라인으로 치르는 것을 선택할 수 있나요?**
 
-**앤:** 네, 예약한 시험은 지역 Pearson Vue 시험 센터에서 직접 치르거나 온라인 감독(OP)을 통해 치를 수 있습니다. 온라인 시험에 대해 자세히 알아보려면 다음을 참조하세요
+**A:** 네, 예약한 시험은 지역 Pearson Vue 시험 센터에서 직접 치르거나 온라인 감독(OP)을 통해 치를 수 있습니다. 온라인 시험에 대해 자세히 알아보려면 다음을 참조하세요
 [https://www.microsoft.com/learning/online-exams.aspx](https://www.microsoft.com/learning/online-exams.aspx)
 
 ### 취소 및 일정 변경 정책
 
-**큐: 필요한 경우 이 제안으로 예약한 시험 날짜를 변경할 수 있나요?**
+**Q: 필요한 경우 이 제안으로 예약한 시험 날짜를 변경할 수 있나요?**
 
-**앤:** 네, 예약한 시험 날짜를 변경할 수 있지만 이벤트 종료 후 180일 이내에만 가능합니다. 시험 일정은 예약일 기준 최소 6일 전에 변경해야 수수료가 부과되지 않습니다. [일정 변경 정책 참조](https://microsoft.sharepoint.com/teams/MarketingTeam7/Shared%20Documents/FY20%20Ignite%20Flagship%20Event/Free%20Exam%20Voucher%20Offer%20and%20Nurture%20Stream/MS%20Ignite_FreeExam_Customer%20Journey.pptx).
+**A:** 네, 예약한 시험 날짜를 변경할 수 있지만 이벤트 종료 후 180일 이내에만 가능합니다. 시험 일정은 예약일 기준 최소 6일 전에 변경해야 수수료가 부과되지 않습니다. [일정 변경 정책 참조](https://microsoft.sharepoint.com/teams/MarketingTeam7/Shared%20Documents/FY20%20Ignite%20Flagship%20Event/Free%20Exam%20Voucher%20Offer%20and%20Nurture%20Stream/MS%20Ignite_FreeExam_Customer%20Journey.pptx).
 
-**큐: 약속을 변경하거나 예약을 취소할 경우 수수료가 부과되나요?**
+**Q: 약속을 변경하거나 예약을 취소할 경우 수수료가 부과되나요?**
 
-**앤:** 예약일 기준 최소 6일 전에 시험 약속을 변경하거나 취소하면 수수료가 부과되지 않습니다. 예약일 기준 영업일 5일 내에 일정을 변경하는 경우 변경 수수료를 지불해야 합니다. 예약일 기준 이틀 전에는 예약을 변경하거나 취소할 수 없을 수 있습니다. 시험을 치르지 않으면 제공된 무료 시험 자격이 박탈됩니다. 자세한 내용은 [취소 및 일정 변경 정책](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) 을 참조하십시오.
+**A:** 예약일 기준 최소 6일 전에 시험 약속을 변경하거나 취소하면 수수료가 부과되지 않습니다. 예약일 기준 영업일 5일 내에 일정을 변경하는 경우 변경 수수료를 지불해야 합니다. 예약일 기준 이틀 전에는 예약을 변경하거나 취소할 수 없을 수 있습니다. 시험을 치르지 않으면 제공된 무료 시험 자격이 박탈됩니다. 자세한 내용은 [취소 및 일정 변경 정책](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) 을 참조하십시오.
 
-**큐: 약속한 시험을 치르지 않고 일정을 변경하거나 취소하지 않은 경우에는 어떻게 되나요?**
+**Q: 약속한 시험을 치르지 않고 일정을 변경하거나 취소하지 않은 경우에는 어떻게 되나요?**
 
-**앤:** 예약일 기준 24시간 이전에 일정을 변경하거나 취소하지 않고 예약한 시험에 출석하지 못한 경우, 무료 시험 자격이 박탈됩니다. 자세한 내용은 [취소 및 일정 변경 정책](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) 을 참조하십시오.
+**A:** 예약일 기준 24시간 이전에 일정을 변경하거나 취소하지 않고 예약한 시험에 출석하지 못한 경우, 무료 시험 자격이 박탈됩니다. 자세한 내용은 [취소 및 일정 변경 정책](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) 을 참조하십시오.
 
 ### 재응시 정책
 
-**큐: 무료 인증 시험 제안을 사용하여 치른 첫 번째 시험에 낙제한 경우 무료로 시험에 재응시할 수 있나요?**
+**Q: 무료 인증 시험 제안을 사용하여 치른 첫 번째 시험에 낙제한 경우 무료로 시험에 재응시할 수 있나요?**
 
-**앤:** 아니오, 이 제안은 한 번의 시험에만 유효하며 재시험은 별도로 예약해야 합니다. 인증 시험 재응시에 대한 자세한 내용은 [시험 재응시 정책](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1) 을 참조하십시오.
+**A:** 아니오, 이 제안은 한 번의 시험에만 유효하며 재시험은 별도로 예약해야 합니다. 인증 시험 재응시에 대한 자세한 내용은 [시험 재응시 정책](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1) 을 참조하십시오.
